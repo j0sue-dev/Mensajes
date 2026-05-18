@@ -1,0 +1,5324 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "text": "Viviendo, Muriendo, Enterrado, Levantandose, Viniendo",
+          "font": "Verdana",
+          "size": 14.9874,
+          "flags": 4,
+          "bbox": [
+            86.17755126953125,
+            21.920101165771484,
+            508.8221740722656,
+            36.907501220703125
+          ]
+        },
+        {
+          "text": "En Jeffersonville, Indiana, E.U.A.",
+          "font": "Verdana",
+          "size": 11.24055004119873,
+          "flags": 4,
+          "bbox": [
+            209.07421875,
+            39.1090202331543,
+            385.9255676269531,
+            50.349571228027344
+          ]
+        },
+        {
+          "text": "El 29 de Marzo de 1959",
+          "font": "Verdana",
+          "size": 11.24055004119873,
+          "flags": 4,
+          "bbox": [
+            230.05657958984375,
+            52.5977897644043,
+            364.94317626953125,
+            63.838340759277344
+          ]
+        },
+        {
+          "text": "1",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            74.01115417480469,
+            42.15580749511719,
+            83.75296020507812
+          ]
+        },
+        {
+          "text": "Es más allá de cualquier cosa que podríamos expresar en lenguaje humano de cómo nuestros ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            74.01115417480469,
+            562.4494018554688,
+            83.75296020507812
+          ]
+        },
+        {
+          "text": "corazones se sienten hoy mientras nosotros nos reunimos aquí en esta más solemne y sagrada mañana. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            86.00090026855469,
+            562.4494018554688,
+            95.74270629882812
+          ]
+        },
+        {
+          "text": "Esta mañana representa el tiempo cuando nuestra religión fue hecha real, porque eso fue el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            97.99113464355469,
+            562.4494018554688,
+            107.73294067382812
+          ]
+        },
+        {
+          "text": "levantamiento de nuevo de Tu precioso Hijo que vino a redimir a toda la raza humana. Y estamos aquí en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            109.98088073730469,
+            562.4494018554688,
+            119.72268676757812
+          ]
+        },
+        {
+          "text": "esta mañana en celebración de ese gran triunfo supremo, Señor, que nos hizo más que vencedores de la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            121.97062683105469,
+            562.4494018554688,
+            131.71243286132812
+          ]
+        },
+        {
+          "text": "muerte, el infierno, y la tumba. Y Te damos gracias por eso, que después de todos estos años que han ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            133.9608612060547,
+            562.4494018554688,
+            143.70266723632812
+          ]
+        },
+        {
+          "text": "pasado, aún podamos reunirnos muy temprano en la mañana, en esta mañana de Pascua para adorarle, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            145.9506072998047,
+            562.4494018554688,
+            155.69241333007812
+          ]
+        },
+        {
+          "text": "porque creemos que Él vendrá de nuevo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            157.9403533935547,
+            239.04917907714844,
+            167.68215942382812
+          ]
+        },
+        {
+          "text": "Y oramos que perdones todos nuestros pecados y todas nuestras transgresiones que están ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            178.1737518310547,
+            562.4494018554688,
+            187.91555786132812
+          ]
+        },
+        {
+          "text": "anotadas en contra nuestra, así como humildemente confesamos nuestros errores, y aceptamos Su ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            190.1634979248047,
+            562.4494018554688,
+            199.90530395507812
+          ]
+        },
+        {
+          "text": "expiación por nuestro pecado. Sana la enfermedad que está en nuestro medio Señor. Ayúdanos mientras ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            202.1532440185547,
+            562.4494018554688,
+            211.89505004882812
+          ]
+        },
+        {
+          "text": "leemos Tu Santa Palabra, que es el fundamento de todas las verdades que has dejado para que vivamos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            214.1434783935547,
+            562.4494018554688,
+            223.88528442382812
+          ]
+        },
+        {
+          "text": "por ellas y creamos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            226.1332244873047,
+            135.63592529296875,
+            235.87503051757812
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            245.6166229248047,
+            42.15580749511719,
+            255.35842895507812
+          ]
+        },
+        {
+          "text": "Y oramos no sólo por este grupo que está aquí reunido, sino por todo alrededor del mundo, porque ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            245.6166229248047,
+            562.4494018554688,
+            255.35842895507812
+          ]
+        },
+        {
+          "text": "estamos buscando con ojos y corazones expectantes por Su retorno. Nos paramos hoy en la oscuridad, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            257.6068420410156,
+            562.4494018554688,
+            267.3486633300781
+          ]
+        },
+        {
+          "text": "en un caos, que en cualquier momento que algún fanático puede enojarse de algo y presionar un botón ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            269.5965881347656,
+            562.4494018554688,
+            279.3384094238281
+          ]
+        },
+        {
+          "text": "y el mundo entero podría explotar en pedazos. Y como dijeron las autoridades, que la guerra sólo duraría ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            281.5868225097656,
+            562.4494018554688,
+            291.3286437988281
+          ]
+        },
+        {
+          "text": "unas cuantas horas, y si eso sucediera de nuevo. Oh! Y estamos parados hoy al borde de otra guerra. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            293.5765686035156,
+            562.4494018554688,
+            303.3183898925781
+          ]
+        },
+        {
+          "text": "Entonces, la iglesia está parada en los momentos, de la más gloriosa resurrección, porque seremos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            305.5663146972656,
+            562.4494018554688,
+            315.3081359863281
+          ]
+        },
+        {
+          "text": "llevados junto con los santos que están durmiendo para encontrar al Señor en el aire y estar para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            317.5565490722656,
+            562.4494018554688,
+            327.2983703613281
+          ]
+        },
+        {
+          "text": "siempre con Él.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            329.5462951660156,
+            110.90679931640625,
+            339.2881164550781
+          ]
+        },
+        {
+          "text": "Hemos venido a adorarte, Señor. Y recíbenos hoy. Bendice la lectura de Tu Palabra, los cantos, la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            349.7792053222656,
+            562.4494018554688,
+            359.5210266113281
+          ]
+        },
+        {
+          "text": "predicación del evangelio, recibe las oraciones de los penitentes. Oye la oración por los enfermos, y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            361.7694396972656,
+            562.4494018554688,
+            371.5112609863281
+          ]
+        },
+        {
+          "text": "toma la Gloria para Ti mismo, porque Te lo pedimos humildemente en el Nombre de Jesús Tu hijo, Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            373.7591857910156,
+            547.0396728515625,
+            383.5010070800781
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            393.2425842285156,
+            42.15580749511719,
+            402.9844055175781
+          ]
+        },
+        {
+          "text": "Para Uds. a quienes les gustaría tomar donde leeremos en la Escritura en esta mañana…",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            393.9920959472656,
+            494.5846252441406,
+            403.7339172363281
+          ]
+        },
+        {
+          "text": "Y estamos apenados de saber que no tenemos suficientes asientos para este grupo tan fino de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            413.4754943847656,
+            562.4494018554688,
+            423.2173156738281
+          ]
+        },
+        {
+          "text": "gente, quienes han venido muy de mañana, para adorar con nosotros de diferentes iglesias y de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            425.4657287597656,
+            562.4494018554688,
+            435.2075500488281
+          ]
+        },
+        {
+          "text": "diferentes estados, y aun de diferentes naciones, se han reunido aquí en esta mañana en el tabernáculo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            437.4554748535156,
+            562.4494018554688,
+            447.1972961425781
+          ]
+        },
+        {
+          "text": "para esta gran gloriosa adoración del Señor.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            449.4457092285156,
+            254.03651428222656,
+            459.1875305175781
+          ]
+        },
+        {
+          "text": "Yo deseo que volteen al libro de los Salmos, Salmos capítulo 22. Yo sé que es un lugar inusual para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            469.6786193847656,
+            562.4494018554688,
+            479.4204406738281
+          ]
+        },
+        {
+          "text": "leer para un servicio de Pascua, pero Dios es inusual.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            481.6683654785156,
+            300.4974365234375,
+            491.4101867675781
+          ]
+        },
+        {
+          "text": "4",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            501.1522521972656,
+            42.15580749511719,
+            510.8940734863281
+          ]
+        },
+        {
+          "text": "Y ahora, después de este servicio, terminaremos como en una hora para que Ud. pueda ir y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            501.9012756347656,
+            562.4494018554688,
+            511.6430969238281
+          ]
+        },
+        {
+          "text": "desayunar. Y luego el servicio de escuela dominical comenzará a las nueve treinta y luego ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            513.8915405273438,
+            562.4494018554688,
+            523.6333618164062
+          ]
+        },
+        {
+          "text": "inmediatamente después del servicio de la escuela dominical habrá un servicio bautismal aquí en el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            525.8812866210938,
+            562.4494018554688,
+            535.6231079101562
+          ]
+        },
+        {
+          "text": "baptisterio. Y en esta tarde como a las seis serán repartidas las tarjetas de oración para un culto de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            537.8710327148438,
+            562.4494018554688,
+            547.6128540039062
+          ]
+        },
+        {
+          "text": "sanidad para esta noche. Y si Ud. tiene algún amado que está enfermo y necesitado, recuerde traerlo en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            549.8612670898438,
+            562.4494018554688,
+            559.6030883789062
+          ]
+        },
+        {
+          "text": "esta noche, porque ésta será la última vez que podamos tener esto por un tiempo. Estoy partiendo a las ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            561.8510131835938,
+            562.4494018554688,
+            571.5928344726562
+          ]
+        },
+        {
+          "text": "cinco de la mañana para Los Angeles y la Costa Occidental para una serie de cultos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            573.8407592773438,
+            457.11566162109375,
+            583.5825805664062
+          ]
+        },
+        {
+          "text": "5",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            593.3246459960938,
+            42.15580749511719,
+            603.0664672851562
+          ]
+        },
+        {
+          "text": "Ahora en Salmos 22, leamos:",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            593.3246459960938,
+            200.0818634033203,
+            603.0664672851562
+          ]
+        },
+        {
+          "text": "“Dios mío, Dios mío, Por qué me has desamparado?Por qué estas tan lejos de mi salvación, y de las ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            613.5575561523438,
+            562.4494018554688,
+            623.2993774414062
+          ]
+        },
+        {
+          "text": "palabras de mi clamor? Dios mío, clamo de día, y no respondes; y de noche, y no hay para mi reposo. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            625.5473022460938,
+            562.4494018554688,
+            635.2891235351562
+          ]
+        },
+        {
+          "text": "Pero Tú eres Santo, Tú que habitas entre las alabanzas de Israel. En Ti esperaron nuestros padres; ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            637.5375366210938,
+            562.4494018554688,
+            647.2793579101562
+          ]
+        },
+        {
+          "text": "esperaron y Tú los libraste. Clamaron a Ti y fueron librados; confiaron en Ti, y no fueron avergonzados. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            649.5272827148438,
+            562.4494018554688,
+            659.2691040039062
+          ]
+        },
+        {
+          "text": "Mas yo soy gusano y no hombre; oprobio de los hombres, y despreciado del pueblo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            661.5170288085938,
+            452.61944580078125,
+            671.2588500976562
+          ]
+        },
+        {
+          "text": "Todos los que me ven me escarnecen; estiran la boca, menean la cabeza diciendo: Se encomendó a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            681.7504272460938,
+            562.4494018554688,
+            691.4922485351562
+          ]
+        },
+        {
+          "text": "Jehová; líbrele Él, sálvele, puesto que en él se complacía.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            693.7401733398438,
+            322.22918701171875,
+            703.4819946289062
+          ]
+        },
+        {
+          "text": "Pero Tú eres el que me sacó del vientre; el que me hizo estar confiado desde que estaba a los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            713.2235717773438,
+            562.4494018554688,
+            722.9653930664062
+          ]
+        },
+        {
+          "text": "pechos de mi madre.Sobre Ti fui echado desde antes de nacer; desde el vientre de mi madre,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            725.2138061523438,
+            502.07818603515625,
+            734.9556274414062
+          ]
+        },
+        {
+          "text": "Tú eres mi Dios.No te alejes de mí, porque la angustia está cerca; porque no hay quien ayude. Me ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            745.4467163085938,
+            562.4494018554688,
+            755.1885375976562
+          ]
+        },
+        {
+          "text": "han rodeado muchos toros; fuertes toros de Basán me han cercado. Abrieron sobre mí su boca como ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            757.4364624023438,
+            562.4494018554688,
+            767.1782836914062
+          ]
+        },
+        {
+          "text": "león rapaz y rugiente. He sido derramado como aguas, y todos mis huesos se descoyuntaron; mi corazón ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            769.4266967773438,
+            562.4494018554688,
+            779.1685180664062
+          ]
+        },
+        {
+          "text": "fue como cera, derritiéndose en medio de mis entrañas. Como un tiesto se secó mi vigor, mi lengua se ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            781.4164428710938,
+            562.4494018554688,
+            791.1582641601562
+          ]
+        },
+        {
+          "text": "pegó a mi paladar, y me has puesto en el polvo de la muerte.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            793.4061889648438,
+            339.46453857421875,
+            803.1480102539062
+          ]
+        },
+        {
+          "text": "Porque perros me han rodeado; me ha cercado  cuadrillas  de  malignos;  horadaron  mis  manos  y  mis",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            813.6390991210938,
+            559.030029296875,
+            823.3809204101562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "text": "pies.Contar puedo todos mis huesos; entre tanto ellos me miran, y me observan. Repartieron entre sí mis ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28605270385742,
+            562.4494018554688,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "vestidos, y sobre mi ropa echaron suertes. Más Tú, Jehová, no te alejes; fortaleza mía, apresúrate a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27579879760742,
+            562.4494018554688,
+            65.01760864257812
+          ]
+        },
+        {
+          "text": "socorrerme.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            67.26603698730469,
+            94.42061614990234,
+            77.00784301757812
+          ]
+        },
+        {
+          "text": "Libra de la espada mi alma, del poder del perro mi vida.Sálvame de la boca del león, y líbrame de los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            87.49894714355469,
+            562.4494018554688,
+            97.24075317382812
+          ]
+        },
+        {
+          "text": "cuernos de los búfalos. Anunciaré Tu nombre a mis hermanos; en medio de la congregación Te alabaré. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            99.48869323730469,
+            562.4494018554688,
+            109.23049926757812
+          ]
+        },
+        {
+          "text": "Los que teméis a Jehová, alabadle; glorificadle, descendencia toda de Jacob, y temedle vosotros, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            111.47892761230469,
+            562.4494018554688,
+            121.22073364257812
+          ]
+        },
+        {
+          "text": "descendencia toda de Israel.Porque no menospreció ni abominó la aflicción del afligido,ni de él escondió ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            123.46867370605469,
+            562.4494018554688,
+            133.21047973632812
+          ]
+        },
+        {
+          "text": "su rostro; sino que cuando clamó a Él, le oyó.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            135.4584197998047,
+            264.527587890625,
+            145.20022583007812
+          ]
+        },
+        {
+          "text": "De Ti será mi alabanza en la gran congregación; mis votos pagaré delante de los que le temen.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            154.9423065185547,
+            529.0553588867188,
+            164.68411254882812
+          ]
+        },
+        {
+          "text": "Comerán los humildes, y serán saciados; alabarán a Jehová los que le buscan; vivirá vuestro corazón ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            175.1752166748047,
+            562.4494018554688,
+            184.91702270507812
+          ]
+        },
+        {
+          "text": "para siempre.Se acordarán, y se volverán a Jehová todos los confines de la tierra, y todas las familias ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            187.1649627685547,
+            562.4494018554688,
+            196.90676879882812
+          ]
+        },
+        {
+          "text": "de las naciones adoraran delante de Ti.Porque de Jehová es el Reino, y Él regirá las naciones.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            199.1551971435547,
+            502.0784912109375,
+            208.89700317382812
+          ]
+        },
+        {
+          "text": "Comerán y adorarán todos los poderosos de la tierra;se postrarán delante de él todos los que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            219.3881072998047,
+            562.4494018554688,
+            229.12991333007812
+          ]
+        },
+        {
+          "text": "descienden al polvo, aún el que no puede conservar la vida a su propia alma. La posteridad le servirá; ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            231.3778533935547,
+            562.4494018554688,
+            241.11965942382812
+          ]
+        },
+        {
+          "text": "esto será contado de Jehová hasta la postrera generación .Vendrán y anunciarán su justicia; a pueblo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            243.3680877685547,
+            562.4494018554688,
+            253.10989379882812
+          ]
+        },
+        {
+          "text": "no nacido aún, anunciarán que Él hizo esto.“",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            255.3578338623047,
+            257.78314208984375,
+            265.0996398925781
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            274.8412170410156,
+            42.15580749511719,
+            284.5830383300781
+          ]
+        },
+        {
+          "text": "Que el Señor agregue Sus bendiciones a la lectura de Su Palabra. Quiero tomar en esta mañana para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            274.8412170410156,
+            562.4494018554688,
+            284.5830383300781
+          ]
+        },
+        {
+          "text": "esta ocasión cinco palabras, y alrededor de esas cinco palabras tratar de expresar lo que está en mi ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            286.8314514160156,
+            562.4494018554688,
+            296.5732727050781
+          ]
+        },
+        {
+          "text": "corazón para Uds. adoradores en esta mañana. Quiero esas cinco palabras: “Viviendo, Muriendo, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            298.8211975097656,
+            562.4494018554688,
+            308.5630187988281
+          ]
+        },
+        {
+          "text": "Enterrado, Levantándose, Viniendo”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            310.8109436035156,
+            215.8185272216797,
+            320.5527648925781
+          ]
+        },
+        {
+          "text": "Yo creo que el poeta expresó bien en el canto lo que yo quiero decir, cuando escribió este canto:",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            331.0443420410156,
+            541.7946166992188,
+            340.7861633300781
+          ]
+        },
+        {
+          "text": "Viviendo, Él me amó. Muriendo, Él me salvó,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            351.2772521972656,
+            273.52001953125,
+            361.0190734863281
+          ]
+        },
+        {
+          "text": "Enterrado, Él se llevó mis pecados lejos,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            370.7606506347656,
+            255.53533935546875,
+            380.5024719238281
+          ]
+        },
+        {
+          "text": "Levantándose, Él justificó libremente para siempre",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            390.9935607910156,
+            304.99346923828125,
+            400.7353820800781
+          ]
+        },
+        {
+          "text": "Algún día Él vendrá. Oh, glorioso día!",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            411.2269592285156,
+            238.29983520507812,
+            420.9687805175781
+          ]
+        },
+        {
+          "text": "7",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            430.7103576660156,
+            42.15580749511719,
+            440.4521789550781
+          ]
+        },
+        {
+          "text": "Nunca hubo una vida que fue vivida como la suya, porque Él era Dios manifestado en la carne ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            430.7103576660156,
+            562.4494018554688,
+            440.4521789550781
+          ]
+        },
+        {
+          "text": "cuando Él nació. Él era la expresión de lo que Dios el Padre es. Y Dios el Padre siendo amor, entonces ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            442.7001037597656,
+            562.4494018554688,
+            452.4419250488281
+          ]
+        },
+        {
+          "text": "Jesús era la completa expresión de amor. Él era amor desde la primera vez desde que Sus pequeñas ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            454.6903381347656,
+            562.4494018554688,
+            464.4321594238281
+          ]
+        },
+        {
+          "text": "manos de bebé tocaron las bonitas mejillas de Su madre. Él era amor.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            466.6800842285156,
+            379.9305114746094,
+            476.4219055175781
+          ]
+        },
+        {
+          "text": "Y yo creo hoy que eso es donde muchos están fallando, en reconocer que Él era amor. “Dios es ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            486.9129943847656,
+            562.4494018554688,
+            496.6548156738281
+          ]
+        },
+        {
+          "text": "amor, y aquellos que aman son nacidos de Dios”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            498.9032287597656,
+            275.7681579589844,
+            508.6450500488281
+          ]
+        },
+        {
+          "text": "“Dios amó tanto al mundo, eso es a los que no se puede amar, que Él dio a Su Hijo unigénito, para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            519.1361694335938,
+            562.4494018554688,
+            528.8779907226562
+          ]
+        },
+        {
+          "text": "que todo aquél que en Él cree, no se pierda, sino tenga Vida Eterna”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            531.1259155273438,
+            379.9308166503906,
+            540.8677368164062
+          ]
+        },
+        {
+          "text": "8",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            550.6098022460938,
+            42.15580749511719,
+            560.3516235351562
+          ]
+        },
+        {
+          "text": "Él expresó Su amor cuando Él estuvo sobre la tierra, en muchas maneras diferentes, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            550.6098022460938,
+            562.4494018554688,
+            560.3516235351562
+          ]
+        },
+        {
+          "text": "indiscutiblemente Él fue la criatura más piadosa que alguna vez vivió. Y yo creo que Él en Su vida aquí ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            562.5995483398438,
+            562.4494018554688,
+            572.3413696289062
+          ]
+        },
+        {
+          "text": "estaba expresando a Dios. Y la única manera que Dios podía ser expresado a la gente es a través del ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            574.5892944335938,
+            562.4494018554688,
+            584.3311157226562
+          ]
+        },
+        {
+          "text": "amor.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            586.5795288085938,
+            62.19770812988281,
+            596.3213500976562
+          ]
+        },
+        {
+          "text": "Y bien hizo Él cuando cogió a una de las mujeres más despreciables en Su día, quizás. Ellos la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            606.8124389648438,
+            562.4494018554688,
+            616.5542602539062
+          ]
+        },
+        {
+          "text": "encontraron culpable, no había otra manera, cuando ella fue encontrada en adulterio. Y la trajeron ante ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            618.8021850585938,
+            562.4494018554688,
+            628.5440063476562
+          ]
+        },
+        {
+          "text": "Él, y dijeron, “Qué dices que hagamos con ella?”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            630.7919311523438,
+            278.0165100097656,
+            640.5337524414062
+          ]
+        },
+        {
+          "text": "Y cuando Él se volteó a ella y dijo: “Yo no te condeno, vete y no peques más”. En lugar de arrojarla ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            651.0253295898438,
+            562.4494018554688,
+            660.7671508789062
+          ]
+        },
+        {
+          "text": "a las calles, para ser presa de un montón de lobos sobre ella para apedrearla y quitarle su vida, Su ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            663.0150756835938,
+            562.4494018554688,
+            672.7568969726562
+          ]
+        },
+        {
+          "text": "tierno, amable y amante corazón se inclinó muy abajo hacia el pecado en donde ella estaba, y dijo: “Yo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            675.0048217773438,
+            562.4494018554688,
+            684.7466430664062
+          ]
+        },
+        {
+          "text": "no te condeno. Sólo vete y no peques más”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            686.9950561523438,
+            257.0339660644531,
+            696.7368774414062
+          ]
+        },
+        {
+          "text": "9",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            706.4784545898438,
+            42.15580749511719,
+            716.2202758789062
+          ]
+        },
+        {
+          "text": "Y cuando Él estaba en su camino hacia la tumba de Lázaro, yo creo que fue otra gran ocasión en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            706.4784545898438,
+            562.4494018554688,
+            716.2202758789062
+          ]
+        },
+        {
+          "text": "que Él expresó lo que es Dios al ser humano. No únicamente es Él un Dios que puede perdonar al pecado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            718.4686889648438,
+            562.4494018554688,
+            728.2105102539062
+          ]
+        },
+        {
+          "text": "más bajo que pudiera ser cometido, y tomar la culpa y hacerlos sin culpa, por Su amor perdonador. Pero ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            730.4584350585938,
+            562.4494018554688,
+            740.2002563476562
+          ]
+        },
+        {
+          "text": "después de que la muerte nos ha puesto en silencio, Él aún se interesa por nosotros. Yo creo que Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            742.4481811523438,
+            562.4494018554688,
+            752.1900024414062
+          ]
+        },
+        {
+          "text": "expresó bien eso en el camino con Marta y María, cuando Él vino a la casa a donde la muerte había ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            754.4384155273438,
+            562.4494018554688,
+            764.1802368164062
+          ]
+        },
+        {
+          "text": "cortado la vida de una persona amada. Y en Su camino hacia la tumba, aún siendo Dios, sabía que Él lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            766.4281616210938,
+            562.4494018554688,
+            776.1699829101562
+          ]
+        },
+        {
+          "text": "levantaría de la muerte, sabía que eso se le había dicho, que en Su misma Palabra estaba el poder para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            778.4179077148438,
+            562.4494018554688,
+            788.1597290039062
+          ]
+        },
+        {
+          "text": "levantarlo de la tumba; aún así, cuando Él vio llorando a María y Marta y a los que amaban a Lázaro, la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            790.4081420898438,
+            562.4494018554688,
+            800.1499633789062
+          ]
+        },
+        {
+          "text": "Biblia dice que Él lloró. Qué fue éso? Su gran amante corazón! Cuando vio eso, sabiendo que Sus amigos",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            802.3978881835938,
+            559.030029296875,
+            812.1397094726562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "text": "estaban en problemas, Él se sintió como ellos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28605270385742,
+            264.5278015136719,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "10",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            62.76993942260742,
+            47.95968246459961,
+            72.51174926757812
+          ]
+        },
+        {
+          "text": "Estoy tan feliz de saber que Él puede ser encontrado entre los que tienen su corazón quebrantado. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            63.51896286010742,
+            562.4494018554688,
+            73.26077270507812
+          ]
+        },
+        {
+          "text": "Y en nuestras penas Él no es uno que nos abandonaría. Él se para con nosotros cuando todo ha fallado, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            75.50920104980469,
+            562.4494018554688,
+            85.25100708007812
+          ]
+        },
+        {
+          "text": "y las últimas esperanzas de alcance terrenal ha llegado a su fin, Él aún es Dios y Él nos ama. Él era la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            87.49894714355469,
+            562.4494018554688,
+            97.24075317382812
+          ]
+        },
+        {
+          "text": "expresión de Dios.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            99.48869323730469,
+            125.89417266845703,
+            109.23049926757812
+          ]
+        },
+        {
+          "text": "Y oh, yo realmente creo que Él anhela que Su pueblo sea tan ungido con Su Espíritu, que podríamos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            118.97257995605469,
+            562.4494018554688,
+            128.71438598632812
+          ]
+        },
+        {
+          "text": "ir uno al otro en pruebas y problemas, y expresar Su compasión, cuando eso se derrama en los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            130.9623260498047,
+            562.4494018554688,
+            140.70413208007812
+          ]
+        },
+        {
+          "text": "corazones que han sido nacidos de Su Espíritu, para reflejar en la iglesia el amor del Dios vivo, eso ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            142.9525604248047,
+            562.4494018554688,
+            152.69436645507812
+          ]
+        },
+        {
+          "text": "expresó bien, lo que Él dijo, o lo que dijo el poeta: “Viviendo, Él me amó”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            154.9423065185547,
+            399.4144287109375,
+            164.68411254882812
+          ]
+        },
+        {
+          "text": "11",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            175.1752166748047,
+            47.95968246459961,
+            184.91702270507812
+          ]
+        },
+        {
+          "text": "Y mostró lo que Él hizo a toda la raza humana, como Dios se representó a sí mismo en Jesucristo. Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            175.1752166748047,
+            562.4494018554688,
+            184.91702270507812
+          ]
+        },
+        {
+          "text": "expresó Su opinión a la raza humana para perdonar y amar a aquellos quienes no merecían el amor. Y yo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            187.1649627685547,
+            562.4494018554688,
+            196.90676879882812
+          ]
+        },
+        {
+          "text": "me pregunto en esta mañana de Pascua, cuánto fallamos en ésto. Podríamos amar a aquéllos que nos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            199.1551971435547,
+            562.4494018554688,
+            208.89700317382812
+          ]
+        },
+        {
+          "text": "aman, pero Él amó a aquéllos que no Lo amaban.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            211.1449432373047,
+            278.76556396484375,
+            220.88674926757812
+          ]
+        },
+        {
+          "text": "Él fue la más grande, y primera representación del amor que alguna vez tocó la tierra, y fue ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            231.3778533935547,
+            562.4494018554688,
+            241.11965942382812
+          ]
+        },
+        {
+          "text": "despreciado por aquéllos quienes vivieron sobre la tierra, a los cuales Él amó. Ningún hombre podría ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            243.3680877685547,
+            562.4494018554688,
+            253.10989379882812
+          ]
+        },
+        {
+          "text": "jamás amar como Él. Y ningún hombre fue tan odiado como Él. Ellos lo odiaron y lo despreciaron y lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            255.3578338623047,
+            562.4494018554688,
+            265.0996398925781
+          ]
+        },
+        {
+          "text": "rechazaron, pero eso no detuvo Su amor. Ellos se rieron cuando Él estaba colgado sobre la cruz, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            267.3475646972656,
+            562.4494018554688,
+            277.0893859863281
+          ]
+        },
+        {
+          "text": "después de esa vida que Él había vivido y que no había hecho nada más que buenas cosas, perdonando ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            279.3377990722656,
+            562.4494018554688,
+            289.0796203613281
+          ]
+        },
+        {
+          "text": "al culpable, sanando a los enfermos, y haciendo cosas que eran buenas. Cuando Él respiró por última vez ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            291.3275451660156,
+            562.4494018554688,
+            301.0693664550781
+          ]
+        },
+        {
+          "text": "sobre la cruz, con el vulgar y grotesco escupo de ellos en Su rostro sagrado, Él clamó con un corazón ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            303.3172912597656,
+            562.4494018554688,
+            313.0591125488281
+          ]
+        },
+        {
+          "text": "lleno de amor: “Padre, perdónales porque no saben lo que hacen”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            315.3075256347656,
+            363.44439697265625,
+            325.0493469238281
+          ]
+        },
+        {
+          "text": "12",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            334.7909240722656,
+            47.95968246459961,
+            344.5327453613281
+          ]
+        },
+        {
+          "text": "Él podía entender. Siendo Dios, Él entiende. Por eso nos pudo amar cuando nosotros no lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            334.7909240722656,
+            562.4494018554688,
+            344.5327453613281
+          ]
+        },
+        {
+          "text": "merecíamos, porque Él es Dios y Él entiende: “Viviendo, Él me amó”, nunca existió una vida como esa, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            346.7811584472656,
+            562.4494018554688,
+            356.5229797363281
+          ]
+        },
+        {
+          "text": "porque era el amor de Dios expresado.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            358.7709045410156,
+            226.30975341796875,
+            368.5127258300781
+          ]
+        },
+        {
+          "text": "Muriendo Él me salvó. Una muerte, cuando en el Jardín del Edén, Dios, Jehová requería…La pena del ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            379.0038146972656,
+            562.4494018554688,
+            388.7456359863281
+          ]
+        },
+        {
+          "text": "pecado es muerte, y no podía haber ningún cambio. No podía haber ninguna otra manera que fuera ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            390.9940490722656,
+            562.4494018554688,
+            400.7358703613281
+          ]
+        },
+        {
+          "text": "hecho. Porque Dios es Supremo, y Él es infinito, y Él es el Juez de todos los cielos y la tierra. Y la pena ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            402.9837951660156,
+            562.4494018554688,
+            412.7256164550781
+          ]
+        },
+        {
+          "text": "del pecado es muerte, y no había nadie que pudiera pagar esta pena por otro. Porque cualquier hombre ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            414.9735412597656,
+            562.4494018554688,
+            424.7153625488281
+          ]
+        },
+        {
+          "text": "aunque pudiera morir por otro, pero, para empezar él era culpable. No había nadie de nosotros que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            426.9637756347656,
+            562.4494018554688,
+            436.7055969238281
+          ]
+        },
+        {
+          "text": "pudiera ayudar al otro porque todos éramos culpables: “Nacimos en pecado, formados en iniquidad, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            438.9535217285156,
+            562.4494018554688,
+            448.6953430175781
+          ]
+        },
+        {
+          "text": "venimos al mundo hablando mentiras”. Y no había un rayo de esperanza en ninguna parte. Estábamos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            450.9432678222656,
+            562.4494018554688,
+            460.6850891113281
+          ]
+        },
+        {
+          "text": "condenados a muerte por Dios, y cada criatura que aun se movió sobre la tierra estaba bajo esta gran ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            462.9335021972656,
+            562.4494018554688,
+            472.6753234863281
+          ]
+        },
+        {
+          "text": "condenación. Podrían levantarse hombres justos y hacer grandes cosas, pero para comenzar eran ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            474.9232482910156,
+            562.4494018554688,
+            484.6650695800781
+          ]
+        },
+        {
+          "text": "pecadores.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            486.9129943847656,
+            90.67379760742188,
+            496.6548156738281
+          ]
+        },
+        {
+          "text": "13",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            506.3968811035156,
+            47.95968246459961,
+            516.1387329101562
+          ]
+        },
+        {
+          "text": "Había sólo una manera para que eso fuera pagado, y eso fue la muerte de Dios mismo. Entonces ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            507.1463928222656,
+            562.4494018554688,
+            516.8882446289062
+          ]
+        },
+        {
+          "text": "Dios, siendo un Espíritu, no podía morir, pero Él descendió en un cuerpo de carne y se expresó a sí Mismo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            519.1361694335938,
+            562.4494018554688,
+            528.8779907226562
+          ]
+        },
+        {
+          "text": "en una vida de amor para tomar toda esa bondad que Él era, y darla voluntariamente como un sacrificio ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            531.1259155273438,
+            562.4494018554688,
+            540.8677368164062
+          ]
+        },
+        {
+          "text": "Supremo, para que Él pudiera tomar la culpa del culpable. Todos nosotros siendo pecadores, y no había ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            543.1161499023438,
+            562.4494018554688,
+            552.8579711914062
+          ]
+        },
+        {
+          "text": "una manera en el mundo para que fuéramos salvos. Él vino no únicamente para ser visto sobre la tierra, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            555.1058959960938,
+            562.4494018554688,
+            564.8477172851562
+          ]
+        },
+        {
+          "text": "sino que Él vino a morir como un sacrificio.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            567.0956420898438,
+            247.2921600341797,
+            576.8374633789062
+          ]
+        },
+        {
+          "text": "Abel lo expresó cuando él ofreció a Dios un sacrificio más excelente que Caín, cuando él trajo ese ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            586.5795288085938,
+            562.4494018554688,
+            596.3213500976562
+          ]
+        },
+        {
+          "text": "pequeño cordero con una rama de la vid envuelta alrededor de su cuello para llevarlo a una roca. Allí ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            598.5692749023438,
+            562.4494018554688,
+            608.3110961914062
+          ]
+        },
+        {
+          "text": "estaba ese pequeño animalito sobre la roca, su barbilla tirada hacia atrás, y con una roca, golpeado en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            610.5590209960938,
+            562.4494018554688,
+            620.3008422851562
+          ]
+        },
+        {
+          "text": "su pequeño cuello, y quejándose y muriendo, y la sangre brotando hacia fuera, este pequeño blanco ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            622.5492553710938,
+            562.4494018554688,
+            632.2910766601562
+          ]
+        },
+        {
+          "text": "animalito fue bañado con sangre. Abel expresó al Calvario allí.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            634.5390014648438,
+            342.4619445800781,
+            644.2808227539062
+          ]
+        },
+        {
+          "text": "14",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            654.7719116210938,
+            47.95968246459961,
+            664.5137329101562
+          ]
+        },
+        {
+          "text": "Cuando el Cordero de Dios, inmolado desde la fundación de mundo, vino a tomar el lugar de los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            654.7719116210938,
+            562.4494018554688,
+            664.5137329101562
+          ]
+        },
+        {
+          "text": "pecadores culpables, y fue maltratado y herido y burlado y se le hizo mofa, y murió una muerte que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            666.7621459960938,
+            562.4494018554688,
+            676.5039672851562
+          ]
+        },
+        {
+          "text": "ninguna criatura podría morir excepto Dios mismo, y Sus rizos sangrantes colgando de Sus hombros, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            678.7518920898438,
+            562.4494018554688,
+            688.4937133789062
+          ]
+        },
+        {
+          "text": "goteando hacia el suelo, expresó que cosa tan horrible es el pecado, cuando Él tuvo que morir para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            690.7416381835938,
+            562.4494018554688,
+            700.4834594726562
+          ]
+        },
+        {
+          "text": "redimir al hombre de una vida de pecado. Nada podía morir así. Nada podía soportar esa muerte. Se dice ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            702.7318725585938,
+            562.4494018554688,
+            712.4736938476562
+          ]
+        },
+        {
+          "text": "que: “Cuando horadaron Su costado, de allí salió sangre y agua”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            714.7216186523438,
+            358.9483337402344,
+            724.4634399414062
+          ]
+        },
+        {
+          "text": "15",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            734.2055053710938,
+            47.95968246459961,
+            743.9473266601562
+          ]
+        },
+        {
+          "text": "Yo estaba hablando hace un tiempo con alguien acerca de esto, y fue un científico que dijo: “Hay ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            734.9545288085938,
+            562.4494018554688,
+            744.6963500976562
+          ]
+        },
+        {
+          "text": "únicamente una manera que eso pudiera haber sucedido, y no fue a causa de la lanza romana que Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            746.9447631835938,
+            562.4494018554688,
+            756.6865844726562
+          ]
+        },
+        {
+          "text": "murió; tampoco fue la pérdida de Sangre por la cual Él murió, porque aún había Sangre en Su cuerpo. La ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            758.9345092773438,
+            562.4494018554688,
+            768.6763305664062
+          ]
+        },
+        {
+          "text": "causa que Él murió no fue la lanza romana o los clavos que clavaron en Sus manos, o la corona espinosa ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            770.9242553710938,
+            562.4494018554688,
+            780.6660766601562
+          ]
+        },
+        {
+          "text": "que colocaron en Su cabeza. Pero porque Él murió de pena, porque Él vino a los Suyos y los Suyos no lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            782.9144897460938,
+            562.4494018554688,
+            792.6563110351562
+          ]
+        },
+        {
+          "text": "recibieron. Él murió de un corazón quebrantado. Cuando Él supo que las mismas criaturas de tiempo, por ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            794.9042358398438,
+            562.4494018554688,
+            804.6460571289062
+          ]
+        },
+        {
+          "text": "las que Él moriría para redimirlas, habían escupido en Su cara, y que Él fue rechazado de los hombres”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            806.8939819335938,
+            542.5435180664062,
+            816.6358032226562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "text": "16",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28605270385742,
+            47.95968246459961,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "Ochocientos años antes de que sucediera, David clamó con la misma voz que Él clamó en el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28605270385742,
+            562.4494018554688,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "Calvario: “Mi Dios, por qué me has desamparado?”.30 Que cosa tan horrible hace el pecado; separa al ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27628707885742,
+            562.4494018554688,
+            65.01809692382812
+          ]
+        },
+        {
+          "text": "hombre de Dios. Y Él fue la Ofrenda de pecado que tuvo que ser ofrecida por nuestros pecados. Y Él fue ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            67.26603698730469,
+            562.4494018554688,
+            77.00784301757812
+          ]
+        },
+        {
+          "text": "separado de la Presencia de Dios, el pecado lo había separado. Dios colocó nuestros pecados sobre Él, y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            79.25578308105469,
+            562.4494018554688,
+            88.99758911132812
+          ]
+        },
+        {
+          "text": "Él fue separado de Dios, y eso es porque Él clamó: “Por qué me has desamparado?” Porque Él fue ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            91.24601745605469,
+            562.4494018554688,
+            100.98782348632812
+          ]
+        },
+        {
+          "text": "desamparado, y había tomado este lugar y vio a Su pueblo, al cual Él venía para ser su Salvador y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            103.23576354980469,
+            562.4494018554688,
+            112.97756958007812
+          ]
+        },
+        {
+          "text": "ofrecerles Vida, ellos lo rechazaron. Y eso Le dolió tanto, al punto que Él estuvo tan quebrantado del ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            115.22575378417969,
+            562.4494018554688,
+            124.96755981445312
+          ]
+        },
+        {
+          "text": "corazón que la Sangre y el agua, y la química de Su cuerpo, se separaron.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            127.21574401855469,
+            406.9080505371094,
+            136.95755004882812
+          ]
+        },
+        {
+          "text": "17",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            146.6993865966797,
+            47.95968246459961,
+            156.44119262695312
+          ]
+        },
+        {
+          "text": "El hombre nunca sabrá lo que eso fue, ésa es la razón que no podía haber alguien más que pudiera ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            147.4486541748047,
+            562.4494018554688,
+            157.19046020507812
+          ]
+        },
+        {
+          "text": "morir así. No me interesa cuanto Ud. pudiera ser atormentado, cuanto ellos pudieran poner sus pies en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            159.4386444091797,
+            562.4494018554688,
+            169.18045043945312
+          ]
+        },
+        {
+          "text": "esposas, o ser cortado en pedazos, o quemado por pedazos, Ud. no podía morir esa muerte porque su ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            171.4286346435547,
+            562.4494018554688,
+            181.17044067382812
+          ]
+        },
+        {
+          "text": "hechura no es así. Él tenía que ser Dios, Él tenía que ser más que el hombre en la hechura, Dios murió. Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            183.4183807373047,
+            562.4494018554688,
+            193.16018676757812
+          ]
+        },
+        {
+          "text": "murió de un corazón partido, con tal dolor por el mundo, hasta que la reacción química que aconteció en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            195.4083709716797,
+            562.4494018554688,
+            205.15017700195312
+          ]
+        },
+        {
+          "text": "Su cuerpo no acontecería en Ud. Usted no puede sufrir así. No hay forma para que tenga ese tipo de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            207.3983612060547,
+            562.4494018554688,
+            217.14016723632812
+          ]
+        },
+        {
+          "text": "dolor. Así que sólo uno podía hacerlo, y Él lo hizo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            219.3881072998047,
+            281.01385498046875,
+            229.12991333007812
+          ]
+        },
+        {
+          "text": "18",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            238.8717498779297,
+            47.95968246459961,
+            248.61355590820312
+          ]
+        },
+        {
+          "text": "Allí estaba colgada, esa vida preciosa que no conocía nada sino el amor y hacer el bien, colgado allí ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            238.8717498779297,
+            562.4494018554688,
+            248.61355590820312
+          ]
+        },
+        {
+          "text": "entre los cielos y la tierra, levantado allí, completamente desnudo, avergonzado…Piense, como Ud. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            250.8617401123047,
+            562.4494018554688,
+            260.6035461425781
+          ]
+        },
+        {
+          "text": "estaría, totalmente desnudo; Ud. no conocería la vergüenza a lo que Dios tuvo al estar allí colgado. Yo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            262.8517150878906,
+            562.4494018554688,
+            272.5935363769531
+          ]
+        },
+        {
+          "text": "sé que en el crucifijo le tienen una pequeña prenda, como que tienen alrededor de Él, pero ellos nunca ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            274.8414611816406,
+            562.4494018554688,
+            284.5832824707031
+          ]
+        },
+        {
+          "text": "hicieron eso; eso solamente fue puesto por el artista allí. Ellos le quitaron Su ropa. Él tenía una ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            286.8314514160156,
+            562.4494018554688,
+            296.5732727050781
+          ]
+        },
+        {
+          "text": "vestidura, y ellos la partieron e hicieron apuestas por ella. Él estaba avergonzado hasta lo máximo. Aun, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            298.8214416503906,
+            562.4494018554688,
+            308.5632629394531
+          ]
+        },
+        {
+          "text": "siendo Dios, Él tuvo que soportarlo, y pecadores escupieron sobre Su rostro. Aun así, siendo el - las ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            310.8114318847656,
+            562.4494018554688,
+            320.5532531738281
+          ]
+        },
+        {
+          "text": "mismas profundidades de misericordia, tenía que morir ante el público, totalmente desnudo. Tal efecto ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            322.8011779785156,
+            562.4494018554688,
+            332.5429992675781
+          ]
+        },
+        {
+          "text": "tuvo en Él, que eso separó el agua y la Sangre. No hay duda…pienso lo que el poeta expresó cuando él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            334.7911682128906,
+            562.4494018554688,
+            344.5329895019531
+          ]
+        },
+        {
+          "text": "dijo:",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            346.7811584472656,
+            57.70149612426758,
+            356.5229797363281
+          ]
+        },
+        {
+          "text": "“Entre rocas quebradas y cielos oscuros, mi Salvador inclinó Su cabeza y murió,pero el velo abierto ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            367.0140686035156,
+            562.4494018554688,
+            376.7558898925781
+          ]
+        },
+        {
+          "text": "reveló el camino a los gozos celestiales y el día interminable”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            379.0040588378906,
+            340.21417236328125,
+            388.7458801269531
+          ]
+        },
+        {
+          "text": "19",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            398.4877014160156,
+            47.95968246459961,
+            408.2295227050781
+          ]
+        },
+        {
+          "text": "Seguro, Él tuvo que hacerlo. El velo colgó entre el hombre y Dios, y ese velo abierto reveló el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            399.2369689941406,
+            562.4494018554688,
+            408.9787902832031
+          ]
+        },
+        {
+          "text": "camino a los gozos del cielo y al día interminable. El Calvario quiere decir algo, quiere decir más que lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            411.2269592285156,
+            562.4494018554688,
+            420.9687805175781
+          ]
+        },
+        {
+          "text": "que nosotros podemos expresar. Por cierto.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            423.2167053222656,
+            251.03903198242188,
+            432.9585266113281
+          ]
+        },
+        {
+          "text": "“Viviendo, Él me amó. Muriendo, Él me salvó.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            442.7003479003906,
+            278.01641845703125,
+            452.4421691894531
+          ]
+        },
+        {
+          "text": "Enterrado, Él llevó mis pecados muy lejos“.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            462.9335021972656,
+            269.02374267578125,
+            472.6753234863281
+          ]
+        },
+        {
+          "text": "Ha sido condenado ahora, el pecado ya no tiene más poder. Cuando Él clamó en la cruz: “Está ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            483.1664123535156,
+            562.4494018554688,
+            492.9082336425781
+          ]
+        },
+        {
+          "text": "consumado”, el pecado murió Ahora está muerto. Se ha terminado, no tiene poder, no tiene vida. Piensen ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            495.1564025878906,
+            562.4494018554688,
+            504.8982238769531
+          ]
+        },
+        {
+          "text": "en eso, pueblo de Dios. Ese pecado, del enemigo hacia los seres humanos, está muerto y sin vida; no ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            507.1461486816406,
+            562.4494018554688,
+            516.8880004882812
+          ]
+        },
+        {
+          "text": "tiene más efecto. No puede. Cuando el sol apagó su visión, las estrellas no brillaban, la tierra se tornó ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            519.1361694335938,
+            562.4494018554688,
+            528.8779907226562
+          ]
+        },
+        {
+          "text": "negra, todo estaba siendo redimido.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            531.1261596679688,
+            214.31976318359375,
+            540.8679809570312
+          ]
+        },
+        {
+          "text": "Ahora está muerto, está enterrado, está sin vida. No tiene más vida en ello, entonces eso debe ser ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            550.6098022460938,
+            562.4494018554688,
+            560.3516235351562
+          ]
+        },
+        {
+          "text": "enterrado. Qué fue enterrado? El cuerpo de Dios fue enterrado, porque ello fue la ofrenda del pecado. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            562.5995483398438,
+            562.4494018554688,
+            572.3413696289062
+          ]
+        },
+        {
+          "text": "Fue el Cordero sacrificado; fue quemado por los fuegos de la iniquidad. Ese Cordero sin pecado, que no ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            574.5895385742188,
+            562.4494018554688,
+            584.3313598632812
+          ]
+        },
+        {
+          "text": "cometió pecado, Ese Dios que no hizo nada equivocado, Su Vida había sido dada, y allí colgaba la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            586.5795288085938,
+            562.4494018554688,
+            596.3213500976562
+          ]
+        },
+        {
+          "text": "ofrenda del pecado: “Enterrado, Él llevó mis pecados muy lejos”. Él debió ser enterrado. El cuerpo, la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            598.5695190429688,
+            562.4494018554688,
+            608.3113403320312
+          ]
+        },
+        {
+          "text": "ofrenda del pecado, debía ser enterrado.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            610.5592651367188,
+            239.04908752441406,
+            620.3010864257812
+          ]
+        },
+        {
+          "text": "20",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            630.7924194335938,
+            47.95968246459961,
+            640.5342407226562
+          ]
+        },
+        {
+          "text": "Por eso muchos, después de un momento, caminarán uno por uno a este estanque para ser ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            630.7924194335938,
+            562.4494018554688,
+            640.5342407226562
+          ]
+        },
+        {
+          "text": "bautizados en el Nombre de Jesucristo. Por qué? Algo ha acontecido. Ese Espíritu que salió de ese ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            642.7821655273438,
+            562.4494018554688,
+            652.5239868164062
+          ]
+        },
+        {
+          "text": "cuerpo, cuando Él clamó: “Está consumado”, Él ha condenado al pecado en nuestros cuerpos. Y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            654.7721557617188,
+            562.4494018554688,
+            664.5139770507812
+          ]
+        },
+        {
+          "text": "nosotros debemos enterrarlo para no recordarlo ya más. Yo estoy contento de que así sea.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            666.7621459960938,
+            490.0881652832031,
+            676.5039672851562
+          ]
+        },
+        {
+          "text": "Cuando algo es enterrado, es escondido, está fuera de la vista: “Y enterrado, Él llevó mis pecados ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            686.9950561523438,
+            562.4494018554688,
+            696.7368774414062
+          ]
+        },
+        {
+          "text": "muy lejos”. Dios no puede ver más nuestros pecados, porque ellos están enterrados. Dónde están ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            698.9850463867188,
+            562.4494018554688,
+            708.7268676757812
+          ]
+        },
+        {
+          "text": "enterrados? En el Mar del Olvido. Piense en un Mar del Olvido. Dios no puede recordarlos más, porque ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            710.9750366210938,
+            562.4494018554688,
+            720.7168579101562
+          ]
+        },
+        {
+          "text": "ellos están muertos y enterrados. Ni siquiera pueden ser recordados. Ellos están fuera de la memoria de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            722.9647827148438,
+            562.4494018554688,
+            732.7066040039062
+          ]
+        },
+        {
+          "text": "Dios.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            734.9547729492188,
+            59.9495964050293,
+            744.6965942382812
+          ]
+        },
+        {
+          "text": "21",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            754.4384155273438,
+            47.95968246459961,
+            764.1802368164062
+          ]
+        },
+        {
+          "text": "Él también estuvo en este “entierro”, Él fue representado, en el Antiguo Testamento… Ellos tenían ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            754.4384155273438,
+            562.4494018554688,
+            764.1802368164062
+          ]
+        },
+        {
+          "text": "dos…ellos tenían una ofrenda de pecado en la limpieza del Santuario. Y en esa ofrenda del pecado era ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            766.4284057617188,
+            562.4494018554688,
+            776.1702270507812
+          ]
+        },
+        {
+          "text": "donde ellos tomaban dos machos cabríos, y mataban a un macho cabrío, y el otro macho cabrío tenía los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            778.4181518554688,
+            562.4494018554688,
+            788.1599731445312
+          ]
+        },
+        {
+          "text": "pecados que eran colocados sobre el macho cabrío muerto, eran puestos sobre el macho cabrío vivo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            790.4081420898438,
+            540.2960815429688,
+            800.1499633789062
+          ]
+        },
+        {
+          "text": "Recuerde, Jesús era una Oveja. Él era un Cordero, pero en este caso  Él  se  convirtió  en  un  macho",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            810.6410522460938,
+            559.0300903320312,
+            820.3828735351562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "text": "cabrío; Él era justicia porque Él era Dios, la Oveja. Pero Él se convirtió en un macho cabrío, pecado, para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28507614135742,
+            562.4494018554688,
+            53.026885986328125
+          ]
+        },
+        {
+          "text": "que Él pudiera ser la ofrenda de pecado por mí y Ud., de una Oveja a un macho cabrío.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27506637573242,
+            468.3562927246094,
+            65.01687622070312
+          ]
+        },
+        {
+          "text": "22",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            74.75871276855469,
+            47.95968246459961,
+            84.50051879882812
+          ]
+        },
+        {
+          "text": "Y Jesús fue representado en ambos animales, en esos dos chivos, porque uno murió por la expiación; ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            75.50798034667969,
+            562.4494018554688,
+            85.24978637695312
+          ]
+        },
+        {
+          "text": "el segundo, los pecados de la expiación fueron puestos sobre el macho cabrío expiatorio, y ese macho ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            87.49797058105469,
+            562.4494018554688,
+            97.23977661132812
+          ]
+        },
+        {
+          "text": "cabrío tomó los pecados del pueblo y se fue lejos hacia el desierto para llevar los pecados del pueblo. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            99.48796081542969,
+            562.4494018554688,
+            109.22976684570312
+          ]
+        },
+        {
+          "text": "Qué era eso? Fue la muerte y el entierro de nuestro Señor Jesús. Muriendo…“Viviendo, Él me amó. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            111.47770690917969,
+            562.4494018554688,
+            121.21951293945312
+          ]
+        },
+        {
+          "text": "Muriendo, Él me salvó. Enterrado, Él llevó mis pecados muy lejos”. Él tuvo los pecados de la gente sobre ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            123.46769714355469,
+            562.4494018554688,
+            133.20950317382812
+          ]
+        },
+        {
+          "text": "sí mismo, y los llevó hacia lo más bajo del Hades. Él fue la Ofrenda del pecado. Él tenía los pecados de la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            135.4576873779297,
+            562.4494018554688,
+            145.19949340820312
+          ]
+        },
+        {
+          "text": "gente. Él murió por ellos. Y también los pecados fueron colocados sobre Él, y Él tomó nuestros pecados ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            147.4474334716797,
+            562.4494018554688,
+            157.18923950195312
+          ]
+        },
+        {
+          "text": "muy lejos, tan lejos que así Dios no podría verlos más. Piense en eso. Oh, la iglesia podría clamar, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            159.4374237060547,
+            562.4494018554688,
+            169.17922973632812
+          ]
+        },
+        {
+          "text": "“Aleluya” por tal Salvador.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            171.4274139404297,
+            164.11196899414062,
+            181.16921997070312
+          ]
+        },
+        {
+          "text": "23",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            190.9110565185547,
+            47.95968246459961,
+            200.65286254882812
+          ]
+        },
+        {
+          "text": "No únicamente son nuestros pecados perdonados, pero ellos están enterrados en el Mar del Olvido ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            190.9110565185547,
+            562.4494018554688,
+            200.65286254882812
+          ]
+        },
+        {
+          "text": "para nunca más ser recordados. “Enterrado, Él llevó nuestros pecados muy lejos”. Ellos no pueden ser ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            202.9008026123047,
+            562.4494018554688,
+            212.64260864257812
+          ]
+        },
+        {
+          "text": "recordados ya más, porque desaparecieron. Ellos están fuera de la vista de Dios, ellos están paralizados, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            214.8907928466797,
+            562.4494018554688,
+            224.63259887695312
+          ]
+        },
+        {
+          "text": "están divorciados, están alejados. Dios ya no los recuerda más. Qué? La iglesia debería regocijarse en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            226.8807830810547,
+            562.4494018554688,
+            236.62258911132812
+          ]
+        },
+        {
+          "text": "esta mañana, el saber que nuestros pecados ya no serán más recordados. Ellos son puestos en el Mar ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            238.8707733154297,
+            562.4494018554688,
+            248.61257934570312
+          ]
+        },
+        {
+          "text": "del Olvido, dentro de la tumba más allá de cualquier resurrección. Ellos están muertos para siempre, y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            250.8605194091797,
+            562.4494018554688,
+            260.6023254394531
+          ]
+        },
+        {
+          "text": "son olvidados. Ellos están como si nunca hubieran sucedido. “Muriendo, Él me salvó, pero enterrado, Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            262.8504943847656,
+            562.4494018554688,
+            272.5923156738281
+          ]
+        },
+        {
+          "text": "llevó mis pecados muy lejos”. Él los cargó tan lejos que ellos fueron hacia el Mar del Olvido. Oh, sabemos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            274.8404846191406,
+            562.4494018554688,
+            284.5823059082031
+          ]
+        },
+        {
+          "text": "que esas cosas las creemos totalmente entre nosotros, y ellas son completamente la verdad. Ellas son ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            286.8302307128906,
+            562.4494018554688,
+            296.5720520019531
+          ]
+        },
+        {
+          "text": "la verdad de Dios. Y todas esas grandes cosas fueron más allá de la expresión humana. Nosotros no ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            298.8202209472656,
+            562.4494018554688,
+            308.5620422363281
+          ]
+        },
+        {
+          "text": "podemos expresar nuestra gratitud por tales cosas.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            310.8102111816406,
+            292.2543640136719,
+            320.5520324707031
+          ]
+        },
+        {
+          "text": "24",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            331.0431213378906,
+            47.95968246459961,
+            340.7849426269531
+          ]
+        },
+        {
+          "text": "Pero oh, esa Pascua. “Levantándose, Él justificó libremente para siempre.”“Viviendo Él me amó, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            331.0431213378906,
+            562.4494018554688,
+            340.7849426269531
+          ]
+        },
+        {
+          "text": "muriendo Él me salvó.Enterrado, Él llevó mis pecados muy lejos, (eso estuvo bien) pero levantándose, Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            343.0331115722656,
+            562.4494018554688,
+            352.7749328613281
+          ]
+        },
+        {
+          "text": "me justificó”...",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            355.0231018066406,
+            107.15986633300781,
+            364.7649230957031
+          ]
+        },
+        {
+          "text": "Cuál era ese levantamiento? Era el recibo de Dios, que la cuenta había sido pagada. “Levantándose ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            375.2560119628906,
+            562.4494018554688,
+            384.9978332519531
+          ]
+        },
+        {
+          "text": "Él me justificó libremente para siempre”. Oh, que Salvador; levantándose. Qué había hecho Dios? Un ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            387.2460021972656,
+            562.4494018554688,
+            396.9878234863281
+          ]
+        },
+        {
+          "text": "hombre puede sufrir, un hombre puede morir, un hombre puede ser enterrado. Pero la Pascua fue la más ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            399.2357482910156,
+            562.4494018554688,
+            408.9775695800781
+          ]
+        },
+        {
+          "text": "grande de todas ellas, porque era el sello de Dios, “Mis leyes han sido cumplidas, mi requisito ha sido ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            411.2257385253906,
+            562.4494018554688,
+            420.9675598144531
+          ]
+        },
+        {
+          "text": "cumplido por Él”. Él lo levantó de entre los muertos. “Levantándose, Él me justificó libremente para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            423.2157287597656,
+            562.4494018554688,
+            432.9575500488281
+          ]
+        },
+        {
+          "text": "siempre.” Bendito sea Su Santo Nombre.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            435.2057189941406,
+            235.3022003173828,
+            444.9475402832031
+          ]
+        },
+        {
+          "text": "25",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            454.6891174316406,
+            47.95968246459961,
+            464.4309387207031
+          ]
+        },
+        {
+          "text": "No es extraño que nos emocionemos. No me extraña por qué el corazón humano no puede ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            454.6891174316406,
+            562.4494018554688,
+            464.4309387207031
+          ]
+        },
+        {
+          "text": "contenerlo. Oh, con nuestra fe conquistadora podemos pararnos más allá y decir: “Somos justificados ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            466.6791076660156,
+            562.4494018554688,
+            476.4209289550781
+          ]
+        },
+        {
+          "text": "para siempre, libremente” porque Él murió y fue enterrado, y Dios lo levantó de nuevo en la mañana de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            478.6690979003906,
+            562.4494018554688,
+            488.4109191894531
+          ]
+        },
+        {
+          "text": "Pascua. Entonces, Dios mostró que eso fue aceptado, todas las cosas que Él hizo. Todo fue pagado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            490.6590881347656,
+            562.4494018554688,
+            500.4009094238281
+          ]
+        },
+        {
+          "text": "libremente, Ud. puede irse libre ahora. “Levantándose, Él me justificó libremente para siempre”. Oh, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            502.6488342285156,
+            562.4494018554688,
+            512.3906860351562
+          ]
+        },
+        {
+          "text": "nadie, nunca podrán saber, nunca podrán pensar, de ese gran día cuando Él resucitó; y los Ángeles lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            514.6388549804688,
+            562.4494018554688,
+            524.3806762695312
+          ]
+        },
+        {
+          "text": "vieron; en los cielos de los cielos los ángeles cantaron las alabanzas de Dios, y se regocijaron mientras ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            526.6288452148438,
+            562.4494018554688,
+            536.3706665039062
+          ]
+        },
+        {
+          "text": "los santos del Antiguo Testamento se levantaron en el paraíso gritando, “Aleluya”. “Levantándose, Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            538.6185913085938,
+            562.4494018554688,
+            548.3604125976562
+          ]
+        },
+        {
+          "text": "justificó”. Los cielos se estremecieron, la tierra se estremeció, el paraíso se estremeció, el infierno se ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            550.6085815429688,
+            562.4494018554688,
+            560.3504028320312
+          ]
+        },
+        {
+          "text": "estremeció cuando Esa grandiosa voz salió, desde la tumba Él se levantó. “Levantándose Él me justificó ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            562.5985717773438,
+            562.4494018554688,
+            572.3403930664062
+          ]
+        },
+        {
+          "text": "libremente para siempre”. Oh, que cosa.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            574.5885620117188,
+            233.80335998535156,
+            584.3303833007812
+          ]
+        },
+        {
+          "text": "26",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            594.8214721679688,
+            47.95968246459961,
+            604.5632934570312
+          ]
+        },
+        {
+          "text": "Y los santos que se mueren en Él pueden cantar esto, cuando nosotros miramos esa sublime gracia ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            594.8214721679688,
+            562.4494018554688,
+            604.5632934570312
+          ]
+        },
+        {
+          "text": "allí, lo que Él vio, el sello de aprobación de Dios. “Todavía un poco y el mundo no me verá más, pero Uds. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            606.8114624023438,
+            562.4494018554688,
+            616.5532836914062
+          ]
+        },
+        {
+          "text": "me verán, porque Yo me levantaré de los muertos y estaré con Uds., aun en Uds., hasta el fin del ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            618.8012084960938,
+            562.4494018554688,
+            628.5430297851562
+          ]
+        },
+        {
+          "text": "mundo; como una confirmación, como prueba de que lo que Dios dijo es verdad, y de lo que Yo digo es ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            630.7911987304688,
+            562.4494018554688,
+            640.5330200195312
+          ]
+        },
+        {
+          "text": "la verdad”. Jesús dijo: “Yo vendré en la forma del Espíritu Santo, habitaré en Uds., y viviré con Uds. para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            642.7811889648438,
+            562.4494018554688,
+            652.5230102539062
+          ]
+        },
+        {
+          "text": "siempre”. Entonces los santos que tienen esa esperanza de resurrección en sus corazones pueden ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            654.7709350585938,
+            562.4494018554688,
+            664.5127563476562
+          ]
+        },
+        {
+          "text": "cantar esto:",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            666.7609252929688,
+            98.16748809814453,
+            676.5027465820312
+          ]
+        },
+        {
+          "text": "“En esa brillante y despejada mañana",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            686.9938354492188,
+            242.04647827148438,
+            696.7356567382812
+          ]
+        },
+        {
+          "text": "Cuando los muertos en Cristo se levanten,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            706.4774780273438,
+            266.7757568359375,
+            716.2192993164062
+          ]
+        },
+        {
+          "text": "Y la Gloria de Su resurrección compartiremos,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            726.7106323242188,
+            281.7632751464844,
+            736.4524536132812
+          ]
+        },
+        {
+          "text": "Cuando Sus elegidos se reúnan en Su hogar más allá del cielo,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            746.9435424804688,
+            365.6926574707031,
+            756.6853637695312
+          ]
+        },
+        {
+          "text": "(Con una perfecta seguridad, con el sello de Dios, con un recibo escrito de Dios mismo)",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            766.4271850585938,
+            490.8376770019531,
+            776.1690063476562
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista, allí estaré.“",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            786.6600952148438,
+            242.79595947265625,
+            796.4019165039062
+          ]
+        },
+        {
+          "text": "Oh, no me extraña que dijieron:",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            806.8932495117188,
+            213.5704803466797,
+            816.6350708007812
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "text": "“Viviendo, Él me amó. Muriendo, Él me salvó.Enterrado, Él llevó mis pecados muy lejos. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28507614135742,
+            562.4494018554688,
+            53.026885986328125
+          ]
+        },
+        {
+          "text": "(Oh.)Levantándose, Él me justificó libremente para siempre.”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27506637573242,
+            335.7176818847656,
+            65.01687622070312
+          ]
+        },
+        {
+          "text": "27",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            74.75871276855469,
+            47.95968246459961,
+            84.50051879882812
+          ]
+        },
+        {
+          "text": "Los pecados son perdonados. Todos esos sacrificios pudieron haber sido místicos, todos esos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            75.50822448730469,
+            562.4494018554688,
+            85.25003051757812
+          ]
+        },
+        {
+          "text": "sacrificios pudieron haber fallado. Pero en la mañana de Pascua cuando Él se levantó, Dios probó que Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            87.49797058105469,
+            562.4494018554688,
+            97.23977661132812
+          ]
+        },
+        {
+          "text": "lo aceptó. No me extraña que eso traiga hacia mi corazón un Aleluya. No me extraña que eso haga al ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            99.48796081542969,
+            562.4494018554688,
+            109.22976684570312
+          ]
+        },
+        {
+          "text": "hombre pararse en el rostro de la muerte, hace que la gente llame a esas cosas que no son como si ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            111.47795104980469,
+            562.4494018554688,
+            121.21975708007812
+          ]
+        },
+        {
+          "text": "fueran. Por qué? “Levantándose, Él justificó”. Cómo sabe Ud. que Él se ha levantado? Porque Él se ha ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            123.46769714355469,
+            562.4494018554688,
+            133.20950317382812
+          ]
+        },
+        {
+          "text": "levantado en nuestros corazones: justificados libremente para siempre.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            135.4576873779297,
+            390.4215393066406,
+            145.19949340820312
+          ]
+        },
+        {
+          "text": "28",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            154.9413299560547,
+            47.95968246459961,
+            164.68313598632812
+          ]
+        },
+        {
+          "text": "Cuarenta días más tarde, cuando Él estaba parado, hablando a Sus hijos, la gravitación comenzó a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            154.9413299560547,
+            562.4494018554688,
+            164.68313598632812
+          ]
+        },
+        {
+          "text": "perder su sostén. La obra fue terminada. La pena fue pagada. Él tenía el recibo en Su mano, era el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            166.9313201904297,
+            562.4494018554688,
+            176.67312622070312
+          ]
+        },
+        {
+          "text": "recibo de Dios. Él tenía a los hijos, a la Iglesia, los creyentes. Todo el pecado fue conquistado, el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            178.9210662841797,
+            562.4494018554688,
+            188.66287231445312
+          ]
+        },
+        {
+          "text": "sendero fue despejado. Él ya no podía permanecer más en la tierra. Qué nos sostiene aquí? La ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            190.9110565185547,
+            562.4494018554688,
+            200.65286254882812
+          ]
+        },
+        {
+          "text": "gravitación. La gravitación comenzó a romperse, y perdió su dominio. Por qué? Todo fue terminado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            202.9010467529297,
+            562.4494018554688,
+            212.64285278320312
+          ]
+        },
+        {
+          "text": "entonces. Qué sucedió? Él comenzó a levantarse de la tierra.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            214.8910369873047,
+            340.9634094238281,
+            224.63284301757812
+          ]
+        },
+        {
+          "text": "29",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            235.1239471435547,
+            47.95968246459961,
+            244.86575317382812
+          ]
+        },
+        {
+          "text": "“Id por todo el mundo y predicar el evangelio a toda criatura”. Eso salió de Sus labios. “Id por todo el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            235.1239471435547,
+            562.4494018554688,
+            244.86575317382812
+          ]
+        },
+        {
+          "text": "mundo y predicad el evangelio a toda criatura. El que creyere y fuere bautizado será salvo, y el que no ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            247.1139373779297,
+            562.4494018554688,
+            256.8557434082031
+          ]
+        },
+        {
+          "text": "creyere será condenado. Y estas señales seguirán a los que creen, en Mi Nombre echarán fuera ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            259.1036682128906,
+            562.4494018554688,
+            268.8454895019531
+          ]
+        },
+        {
+          "text": "demonios, ellos hablarán nuevas lenguas, y si tomaran serpientes o bebieran cosas mortíferas, no les ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            271.0936584472656,
+            562.4494018554688,
+            280.8354797363281
+          ]
+        },
+        {
+          "text": "dañarán. Si pusieren sus manos sobre los enfermos, ellos sanarán. Porque Yo vivo…la gravedad se ha ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            283.0836486816406,
+            562.4494018554688,
+            292.8254699707031
+          ]
+        },
+        {
+          "text": "roto y se ha alejado de Mí, el pecado no me puede atar, Yo morí por Uds. Dios lo ha aprobado, y dio el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            295.0733947753906,
+            562.4494018554688,
+            304.8152160644531
+          ]
+        },
+        {
+          "text": "recibo de la resurrección. Y porque Yo vivo, Uds. también viviréis. Algún día Yo retornaré”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            307.0633850097656,
+            483.3440246582031,
+            316.8052062988281
+          ]
+        },
+        {
+          "text": "30",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            326.5470275878906,
+            47.95968246459961,
+            336.2888488769531
+          ]
+        },
+        {
+          "text": "Algún día Él vendrá, oh, día glorioso. Entonces cuando…viviendo, muriendo, enterrado, levantándose, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            327.2962951660156,
+            562.4494018554688,
+            337.0381164550781
+          ]
+        },
+        {
+          "text": "viniendo, la esperanza de la Iglesia hoy.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            339.2862854003906,
+            233.80343627929688,
+            349.0281066894531
+          ]
+        },
+        {
+          "text": "“Viviendo, Él me amó. Muriendo Él me salvó.Enterrado llevó mis pecados muy lejos.Levantándose me ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            358.7699279785156,
+            562.4494018554688,
+            368.5117492675781
+          ]
+        },
+        {
+          "text": "justificó libremente para siempre.Algún día Él vendrá”, Oh día glorioso!",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            370.7599182128906,
+            381.42919921875,
+            380.5017395019531
+          ]
+        },
+        {
+          "text": "Qué fue eso? Cinco cosas en cinco letras: J-e-s-ú-s.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            390.9928283691406,
+            321.4798583984375,
+            400.7346496582031
+          ]
+        },
+        {
+          "text": "“Viviendo, Él me amó. Muriendo Él me salvó.Enterrado Él cargó mis pecados muy lejos.Levantándose, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            411.2257385253906,
+            562.4494018554688,
+            420.9675598144531
+          ]
+        },
+        {
+          "text": "Él me justificó libremente para siempre. Algún día Él vendrá, Oh, día glorioso!”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            423.2157287597656,
+            419.6469421386719,
+            432.9575500488281
+          ]
+        },
+        {
+          "text": "Estamos esperando por Su segunda venida.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            442.6993713378906,
+            272.7707824707031,
+            452.4411926269531
+          ]
+        },
+        {
+          "text": "“Y una de estas brillantes y despejadas mañanas",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            462.9324035644531,
+            299.7478942871094,
+            472.6742248535156
+          ]
+        },
+        {
+          "text": "Cuando los muertos en Cristo se levanten,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            483.1653137207031,
+            266.7757568359375,
+            492.9071350097656
+          ]
+        },
+        {
+          "text": "Y la gloria de esa resurrección sea compartida,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            502.6489562988281,
+            289.2567443847656,
+            512.3908081054688
+          ]
+        },
+        {
+          "text": "Cuando Sus elegidos se reúnan en su hogar más allá del cielo,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            522.8820190429688,
+            364.1938171386719,
+            532.6238403320312
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista, allí estaré.“",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            543.1149291992188,
+            242.79595947265625,
+            552.8567504882812
+          ]
+        },
+        {
+          "text": "Por qué? Yo tengo el recibo. Él se levantó. Cómo lo sabe? Él vive en mi corazón. Él vive en el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            562.5985717773438,
+            562.4494018554688,
+            572.3403930664062
+          ]
+        },
+        {
+          "text": "corazón de Su Iglesia creyente.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            574.5885620117188,
+            194.08688354492188,
+            584.3303833007812
+          ]
+        },
+        {
+          "text": "31",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            594.8214721679688,
+            47.95968246459961,
+            604.5632934570312
+          ]
+        },
+        {
+          "text": "Piense de eso amigos. El estanque estará listo en unos pocos momentos con agua tibia para el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            594.8214721679688,
+            562.4494018554688,
+            604.5632934570312
+          ]
+        },
+        {
+          "text": "servicio bautismal, tan pronto como regresemos. Inclinemos nuestras cabezas sólo por un momento.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            606.8114624023438,
+            534.3006591796875,
+            616.5532836914062
+          ]
+        },
+        {
+          "text": "Me pregunto hoy, si hubiera uno en nuestros medios, o muchos quienes aún no han apreciado este ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            627.0443725585938,
+            562.4494018554688,
+            636.7861938476562
+          ]
+        },
+        {
+          "text": "sacrificio lo suficiente para aceptarlo, y a Ud. le gustaría ser recordado en oración, de que Dios hablará ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            639.0343627929688,
+            562.4494018554688,
+            648.7761840820312
+          ]
+        },
+        {
+          "text": "extraordinariamente a su corazón, que Ud. aceptará Su sacrificio, la limpieza de su alma.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            651.0242309570312,
+            477.3486328125,
+            660.7660522460938
+          ]
+        },
+        {
+          "text": "32",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            670.5078735351562,
+            47.95968246459961,
+            680.2496948242188
+          ]
+        },
+        {
+          "text": "Y recuerde que hoy nosotros celebramos no sólo un tiempo para usar sombreros nuevos y nuevas ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            670.5078735351562,
+            562.4494018554688,
+            680.2496948242188
+          ]
+        },
+        {
+          "text": "ropas; lo cual está bien; es un símbolo de algo nuevo, Dios hizo algo nuevo. Lo cual está bien. No es ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            682.4978637695312,
+            562.4494018554688,
+            692.2396850585938
+          ]
+        },
+        {
+          "text": "únicamente eso. La Pascua no quiere decir eso. Tampoco cazar a un conejo de Pascua o huevos de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            694.4877319335938,
+            562.4494018554688,
+            704.2295532226562
+          ]
+        },
+        {
+          "text": "conejo, y pequeños pollos blancos y todo lo demás, esa no es la idea hermano.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            706.4776000976562,
+            430.1380920410156,
+            716.2194213867188
+          ]
+        },
+        {
+          "text": "La Pascua es un triunfo; es la victoria que Dios dio sobre la tierra, que Él levantó a Su propio hijo de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            726.7106323242188,
+            562.4494018554688,
+            736.4524536132812
+          ]
+        },
+        {
+          "text": "los muertos. “Y el que cree en Él no perecerá, sino tiene vida Eterna”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            738.7005004882812,
+            383.6776123046875,
+            748.4423217773438
+          ]
+        },
+        {
+          "text": "33",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            758.1841430664062,
+            47.95968246459961,
+            767.9259643554688
+          ]
+        },
+        {
+          "text": "La resurrección puede estar en su propia vida. Si Ud. no la tiene, levantaría Ud. su mano a Él en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            758.1841430664062,
+            562.4494018554688,
+            767.9259643554688
+          ]
+        },
+        {
+          "text": "esta mañana, mientras Uds. tienen sus rostros inclinados, diciendo esto: “Dios, recuérdame, que esa ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            770.1741333007812,
+            562.4494018554688,
+            779.9159545898438
+          ]
+        },
+        {
+          "text": "vida de resurrección pueda estar en mi corazón”. Levantarán sus manos y dirán: “Ore por mí, hermano ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            782.1640014648438,
+            562.4494018554688,
+            791.9058227539062
+          ]
+        },
+        {
+          "text": "Branham, así como levanto mi mano”? El Señor les bendiga. El Señor le bendiga. Hay otro que levantará ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            794.1539916992188,
+            562.4494018554688,
+            803.8958129882812
+          ]
+        },
+        {
+          "text": "su mano y diga: “Ore por mí, hermano, yo quiero aceptar esta vida de resurrección”?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            806.1438598632812,
+            458.6143798828125,
+            815.8856811523438
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "text": "“En esa brillante y despejada mañana, (Piense de eso mientras cantamos)…",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28507614135742,
+            432.3867492675781,
+            53.026885986328125
+          ]
+        },
+        {
+          "text": "“Cristo se levantará,y la gloria de Su resurrección compartiremos,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            63.51798629760742,
+            382.1787414550781,
+            73.25979614257812
+          ]
+        },
+        {
+          "text": "Cuando los elegidos se reúnan al otro lado,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            83.00163269042969,
+            269.7732849121094,
+            92.74343872070312
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista, allí estaré.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            103.23466491699219,
+            238.2996063232422,
+            112.97647094726562
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            123.46757507324219,
+            182.8462677001953,
+            133.20938110351562
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista,“",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            142.9512176513672,
+            187.34251403808594,
+            152.69302368164062
+          ]
+        },
+        {
+          "text": "(Ahora si Ud. no está seguro, arréglelo ahora)…",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            163.1842498779297,
+            292.25421142578125,
+            172.92605590820312
+          ]
+        },
+        {
+          "text": "“Cuando allá se pase lista, allí estaré.”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            183.4172821044922,
+            245.79336547851562,
+            193.15908813476562
+          ]
+        },
+        {
+          "text": "Trabajemos para el Maestro…(Este es cuando ustedes cantan)…Sol,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            202.9008026123047,
+            394.16876220703125,
+            212.64260864257812
+          ]
+        },
+        {
+          "text": "Hablemos…",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            223.1338348388672,
+            110.90679168701172,
+            232.87564086914062
+          ]
+        },
+        {
+          "text": "Ahora, Uds. que son cristianos, no harían un voto a Dios para laborar y trabajar, que alguien levante ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            243.3668670654297,
+            562.4494018554688,
+            253.10867309570312
+          ]
+        },
+        {
+          "text": "su mano a Él.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            255.3567352294922,
+            102.66368865966797,
+            265.0985412597656
+          ]
+        },
+        {
+          "text": "“Y allá se pase lista, allí estaré..",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            274.8403625488281,
+            216.5679168701172,
+            284.5821838378906
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            295.0733947753906,
+            182.8462677001953,
+            304.8152160644531
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            315.3063049316406,
+            182.8462677001953,
+            325.0481262207031
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            334.7899475097656,
+            182.8462677001953,
+            344.5317687988281
+          ]
+        },
+        {
+          "text": "Cuando allá se pase lista, allí estaré.“",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            355.0229797363281,
+            242.79595947265625,
+            364.7648010253906
+          ]
+        },
+        {
+          "text": "34",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            374.5065002441406,
+            47.95968246459961,
+            384.2483215332031
+          ]
+        },
+        {
+          "text": "Querido Dios, Tú has visto cada corazón aquí, y Tú sabes los motivos y los objetivos. Y oro por ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            375.2558898925781,
+            562.4494018554688,
+            384.9977111816406
+          ]
+        },
+        {
+          "text": "misericordia. Dios, concédelo, que misericordia será dada a este pueblo. Ellos han venido en esta ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            387.2458801269531,
+            562.4494018554688,
+            396.9877014160156
+          ]
+        },
+        {
+          "text": "mañana para esta hora de adoración.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            399.2357482910156,
+            221.81344604492188,
+            408.9775695800781
+          ]
+        },
+        {
+          "text": "Ellos han venido a este lugar a oír Tu Palabra, y como lo hemos hablado, cuando Tú viniste, nunca ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            418.7193908691406,
+            562.4494018554688,
+            428.4612121582031
+          ]
+        },
+        {
+          "text": "hubo una vida como la Tuya. Muriendo, Tú fuiste El único que podía morir de esa manera. Cuando Tú ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            430.7092590332031,
+            562.4494018554688,
+            440.4510803222656
+          ]
+        },
+        {
+          "text": "fuiste enterrado, Tú llevaste nuestros pecados muy lejos; teniendo el pecado de la gente sobre Ti, Tú ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            442.6992492675781,
+            562.4494018554688,
+            452.4410705566406
+          ]
+        },
+        {
+          "text": "los llevaste al Mar del Olvido. Pero levantándote, Nos justificaste libres para siempre. Y nosotros parados ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            454.6891174316406,
+            562.4494018554688,
+            464.4309387207031
+          ]
+        },
+        {
+          "text": "aquí esperando por Tu venida.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            466.6791076660156,
+            185.09449768066406,
+            476.4209289550781
+          ]
+        },
+        {
+          "text": "35",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            486.1626281738281,
+            47.95968246459961,
+            495.9044494628906
+          ]
+        },
+        {
+          "text": "Dios, bendícelos. Ayúdanos. Nosotros nos damos cuenta que no tenemos mucho tiempo, porque Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            486.9120178222656,
+            562.4494018554688,
+            496.6538391113281
+          ]
+        },
+        {
+          "text": "está a la puerta. Y cualquiera…Y en una hora desde ahora, de acuerdo a los científicos, las naciones ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            498.9020080566406,
+            562.4494018554688,
+            508.6438293457031
+          ]
+        },
+        {
+          "text": "pueden desaparecer. Y nosotros pedimos, Dios, así como nosotros nos paramos esta mañana de Pascua ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            510.8918762207031,
+            562.4494018554688,
+            520.6337280273438
+          ]
+        },
+        {
+          "text": "a las puertas de Su venida, la esperanza de la Iglesia. Miles están durmiendo en el polvo de la tierra, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            522.8818969726562,
+            562.4494018554688,
+            532.6237182617188
+          ]
+        },
+        {
+          "text": "esperando por esta hora, sus almas bajo el altar, llorando, “Hasta cuándo, Señor? Hasta cuándo?” Yo te ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            534.8717651367188,
+            562.4494018554688,
+            544.6135864257812
+          ]
+        },
+        {
+          "text": "pido Señor, que Tú nos hables. Y nos dejes recordar que lo que sea que hagamos aquí en la tierra, es un ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            546.8616333007812,
+            562.4494018554688,
+            556.6034545898438
+          ]
+        },
+        {
+          "text": "poquito. Y lo único que podemos hacer ahora es esperar por Tu venida, y decírselos a todos. El mensaje ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            558.8516235351562,
+            562.4494018554688,
+            568.5934448242188
+          ]
+        },
+        {
+          "text": "es urgente. Que podamos dárselo a la gente rápidamente, que Tú puedas venir en cualquier instante. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            570.8414916992188,
+            562.4494018554688,
+            580.5833129882812
+          ]
+        },
+        {
+          "text": "Antes que estas bombas, de las que están hablando, y esos misiles, que pueden ser arrojados por miles ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            582.8314819335938,
+            562.4494018554688,
+            592.5733032226562
+          ]
+        },
+        {
+          "text": "de ellos sobre la tierra en unos minutos; antes que eso pase Tú nos has prometido venir, Señor, a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            594.8213500976562,
+            562.4494018554688,
+            604.5631713867188
+          ]
+        },
+        {
+          "text": "llevarte a Tu pueblo. Será de esa manera, Señor, hasta el último minuto, puede haber una resurrección o ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            606.8112182617188,
+            562.4494018554688,
+            616.5530395507812
+          ]
+        },
+        {
+          "text": "una Pascua para la iglesia; una resurrección desde esta vida pecadora hacia la Vida Eterna, a través de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            618.8012084960938,
+            562.4494018554688,
+            628.5430297851562
+          ]
+        },
+        {
+          "text": "Cristo. Escucha nuestra oración.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            630.7910766601562,
+            197.83360290527344,
+            640.5328979492188
+          ]
+        },
+        {
+          "text": "36",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            650.2747192382812,
+            47.95968246459961,
+            660.0165405273438
+          ]
+        },
+        {
+          "text": "Y hoy, mientras continuamos con otros servicios, hacia la enseñanza de la Escuela",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            650.2747192382812,
+            467.60687255859375,
+            660.0165405273438
+          ]
+        },
+        {
+          "text": "Dominical, Oh Señor, háblanos otra vez, y que muchos corazones puedan ser extraordinariamente ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            670.5077514648438,
+            562.4494018554688,
+            680.2495727539062
+          ]
+        },
+        {
+          "text": "cálidos. Y que puedan venir por docenas al estanque esta mañana, esta mañana de Pascua, para ser ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            682.4976196289062,
+            562.4494018554688,
+            692.2394409179688
+          ]
+        },
+        {
+          "text": "enterrados con el Señor Jesús, aceptando Su sacrificio. No importa a que iglesia pertenezcan, o a que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            694.487548828125,
+            562.4494018554688,
+            704.2293701171875
+          ]
+        },
+        {
+          "text": "secta religiosa con la que ellos tienen compañerismo, no significa nada. Pero han ellos aceptado el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            706.4774780273438,
+            562.4494018554688,
+            716.2192993164062
+          ]
+        },
+        {
+          "text": "Sacrificio? Han confesado que no hay nada de bueno en ellos, que Jesús es el Único bueno? Y que Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            718.4674072265625,
+            562.4494018554688,
+            728.209228515625
+          ]
+        },
+        {
+          "text": "murió por nosotros, en nuestro lugar. Y tomó nuestros pecados y los enterró, y nosotros permanecemos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            730.4573364257812,
+            562.4494018554688,
+            740.1991577148438
+          ]
+        },
+        {
+          "text": "firmes en Él. Nuestras iglesias no pueden enterrar nuestros pecados; nuestra propia vida no puede ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            742.447265625,
+            562.4494018554688,
+            752.1890869140625
+          ]
+        },
+        {
+          "text": "enterrar nuestros pecados, pero Cristo enterró nuestros pecados en el Mar del Olvido. Señor, concede ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            754.4371337890625,
+            562.4494018554688,
+            764.178955078125
+          ]
+        },
+        {
+          "text": "ahora que estas cosas sean gloriosas a Tu vista.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            766.4270629882812,
+            278.0160827636719,
+            776.1688842773438
+          ]
+        },
+        {
+          "text": "37",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            785.9107055664062,
+            47.95968246459961,
+            795.6525268554688
+          ]
+        },
+        {
+          "text": "Luego esta noche, Señor, que Tú puedas venir en el poder de Tu resurrección y sacude este ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            786.6600952148438,
+            562.4494018554688,
+            796.4019165039062
+          ]
+        },
+        {
+          "text": "pequeño lugar como nunca ha sido sacudido antes. Que señales y maravillas aparezcan. Repítelo, como ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            798.6499633789062,
+            562.4494018554688,
+            808.3917846679688
+          ]
+        },
+        {
+          "text": "sucedió unos Domingos atrás, Señor, cuando los enfermos y afligidos fueron  maravillosamente  sanados.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            810.639892578125,
+            559.0299682617188,
+            820.3817138671875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "text": "Oramos que sucederá otra vez esta noche para Tu gloria, Señor.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28464889526367,
+            355.9508056640625,
+            53.026458740234375
+          ]
+        },
+        {
+          "text": "Perdona ahora nuestras transgresiones, Señor, y que este sea una verdadera Pascua para algunos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            63.51762008666992,
+            562.4494018554688,
+            73.25942993164062
+          ]
+        },
+        {
+          "text": "de nosotros, una genuina Pascua para todos nosotros. Y algunos de ellos que nunca supieron de las ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            75.50755310058594,
+            562.4494018554688,
+            85.24935913085938
+          ]
+        },
+        {
+          "text": "bendiciones de la Pascua, pueda ser que hoy día Cristo se levante en sus corazones con un nuevo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            87.49748229980469,
+            562.4494018554688,
+            97.23928833007812
+          ]
+        },
+        {
+          "text": "apoyo, con una Vida nueva. Apuntándolos al Calvario. Lo pedimos en el nombre de Jesús. Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            99.48741149902344,
+            514.8171997070312,
+            109.22921752929688
+          ]
+        },
+        {
+          "text": "38",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            118.97099304199219,
+            47.95968246459961,
+            128.71279907226562
+          ]
+        },
+        {
+          "text": "[Cinta en blanco-Ed.]… Cuántos de ustedes aman al Señor, levanten sus manos, Oh que cosa, eso ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            118.97099304199219,
+            562.4494018554688,
+            128.71279907226562
+          ]
+        },
+        {
+          "text": "es maravilloso!",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            130.96092224121094,
+            108.65863800048828,
+            140.70272827148438
+          ]
+        },
+        {
+          "text": "Oí que tenía al bebé para ser dedicado, Hermano MacDowell. Usted volverá para el servicio de la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            151.1938934326172,
+            562.4494018554688,
+            160.93569946289062
+          ]
+        },
+        {
+          "text": "escuela Dominical Puede usted? Bueno, eso estará bien. Allí es cuando dedicaremos los bebés. Volveré ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            163.18382263183594,
+            562.4494018554688,
+            172.92562866210938
+          ]
+        },
+        {
+          "text": "en ese tiempo si no les importa, si eso está bien.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            175.1737518310547,
+            279.5151672363281,
+            184.91555786132812
+          ]
+        },
+        {
+          "text": "Y entonces ahora, vamos a despedir la audiencia por unos momentos, para que puedan ir a sus ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            195.40672302246094,
+            562.4494018554688,
+            205.14852905273438
+          ]
+        },
+        {
+          "text": "lugares a tomar desayuno, luego vuelvan otra vez. Estamos felices que estuvieran aquí.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            207.3966522216797,
+            473.6014709472656,
+            217.13845825195312
+          ]
+        },
+        {
+          "text": "Y ahora, pongámonos de pié. Y esa misma canción que tuvimos unos momentos atrás, “En esa ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            226.8802947998047,
+            562.4494018554688,
+            236.62210083007812
+          ]
+        },
+        {
+          "text": "brillante y despejada…” Cuántos tienen la esperanza en ello, veamos levanten sus manos. Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            238.87022399902344,
+            515.5665893554688,
+            248.61203002929688
+          ]
+        },
+        {
+          "text": "En esa mañana brillante y despejada",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            259.1031799316406,
+            237.5503692626953,
+            268.8450012207031
+          ]
+        },
+        {
+          "text": "…cuando los muertos en Cristo se levanten,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            279.3361511230469,
+            274.2693176269531,
+            289.0779724121094
+          ]
+        },
+        {
+          "text": "Y la gloria de Su resurrección compartiremos,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            298.8197937011719,
+            281.01385498046875,
+            308.5616149902344
+          ]
+        },
+        {
+          "text": "Cuando los salvos de la tierra se reúnan en el otro lado…,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            319.0527648925781,
+            342.4622497558594,
+            328.7945861816406
+          ]
+        }
+      ]
+    }
+  ]
+}

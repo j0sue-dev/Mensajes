@@ -1,0 +1,5905 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "text": "Yo Restauraré",
+          "font": "Verdana",
+          "size": 14.9874,
+          "flags": 4,
+          "bbox": [
+            245.79335021972656,
+            21.920101165771484,
+            349.955810546875,
+            36.907501220703125
+          ]
+        },
+        {
+          "text": "Zurich, Switzerland",
+          "font": "Verdana",
+          "size": 11.24055,
+          "flags": 4,
+          "bbox": [
+            245.04397583007812,
+            39.1095085144043,
+            350.7051086425781,
+            50.350059509277344
+          ]
+        },
+        {
+          "text": "26 de Junio de 1955",
+          "font": "Verdana",
+          "size": 11.24055,
+          "flags": 4,
+          "bbox": [
+            239.79840087890625,
+            52.5982780456543,
+            355.201416015625,
+            63.838829040527344
+          ]
+        },
+        {
+          "text": "1",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            74.01164245605469,
+            42.15580749511719,
+            83.75344848632812
+          ]
+        },
+        {
+          "text": "La próxima vez que venga, oro para poder quedarme más tiempo. Es demasiado corta, esta ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            74.01164245605469,
+            562.4494018554688,
+            83.75344848632812
+          ]
+        },
+        {
+          "text": "estancia. La razón... esa es la razón por la cual las personas no lo entienden tan bien como lo hacen. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            86.00138854980469,
+            562.4494018554688,
+            95.74319458007812
+          ]
+        },
+        {
+          "text": "Soy un desconocido; el mensaje que tengo les resulta extraño. Pero Uds. lo han hecho maravilloso. Es ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            97.99162292480469,
+            562.4494018554688,
+            107.73342895507812
+          ]
+        },
+        {
+          "text": "mucho más de lo que pensé que sería. Y agradezco su amable cooperación.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            109.98136901855469,
+            412.1534423828125,
+            119.72317504882812
+          ]
+        },
+        {
+          "text": "Quiero agradecer al Doctor Guggenbuhl. Qué ayuda tan maravillosa ha sido, preparando la reunión. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            130.2142791748047,
+            562.4494018554688,
+            139.95608520507812
+          ]
+        },
+        {
+          "text": "Nunca lo había hecho antes, y él nunca había visto una reunión como esta antes; y él ha hecho un muy ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            142.2040252685547,
+            562.4494018554688,
+            151.94583129882812
+          ]
+        },
+        {
+          "text": "buen trabajo. Y quería agradecer a todos los ministros por su cooperación. Quiero agradecer al organista ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            154.1942596435547,
+            562.4494018554688,
+            163.93606567382812
+          ]
+        },
+        {
+          "text": "y al pianista; y que trabajo maravilloso han hecho. Al el coro y los solos, he escuchado a muchos de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            166.1840057373047,
+            562.4494018554688,
+            175.92581176757812
+          ]
+        },
+        {
+          "text": "Uds. cantando, de pie detrás de la cortina. Algunos de los mejores cantos que he escuchado en mi ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            178.1737518310547,
+            562.4494018554688,
+            187.91555786132812
+          ]
+        },
+        {
+          "text": "vida… Espero oírles cantar en la gloria cuando llegue...",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            190.1639862060547,
+            307.2418212890625,
+            199.90579223632812
+          ]
+        },
+        {
+          "text": "Aunque la reunión ha sido demasiado corta. Pero tal vez la próxima vez, bueno, podamos quedarnos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            209.6473846435547,
+            562.4494018554688,
+            219.38919067382812
+          ]
+        },
+        {
+          "text": "más tiempo y podamos tener más tiempo para hacer los arreglos. Cuando mi- cuando el otro ministro ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            221.6376190185547,
+            562.4494018554688,
+            231.37942504882812
+          ]
+        },
+        {
+          "text": "estadounidense estuvo aquí, el Sr. Graham, por supuesto, todo estaba preparado para su reunión. Ud. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            233.6273651123047,
+            562.4494018554688,
+            243.36917114257812
+          ]
+        },
+        {
+          "text": "ve, él tenía la cooperación de cada iglesia. Ellos todos vienen.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            245.6171112060547,
+            345.4596252441406,
+            255.35891723632812
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            265.8500061035156,
+            42.15580749511719,
+            275.5918273925781
+          ]
+        },
+        {
+          "text": "Mi ministerio no es así. Tiene que sostenerse solo por sus propios méritos. Entonces, solo el Señor ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            265.8500061035156,
+            562.4494018554688,
+            275.5918273925781
+          ]
+        },
+        {
+          "text": "tiene que estar conmigo. Yo no tengo una organización que me respalde. Tengo que estar solo con ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            277.8402404785156,
+            562.4494018554688,
+            287.5820617675781
+          ]
+        },
+        {
+          "text": "Jesús. Y le estoy agradeciendo a Dios por la cooperación de Uds. Muchos de Uds. son de diferentes ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            289.8299865722656,
+            562.4494018554688,
+            299.5718078613281
+          ]
+        },
+        {
+          "text": "iglesias y tal vez son criticados por venir aquí, pero de todos modos han venido. Dios les bendiga.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            301.8202209472656,
+            522.310791015625,
+            311.5620422363281
+          ]
+        },
+        {
+          "text": "Lamento que las iglesias no cooperen con nosotros. No quise ser grosero. Amo a mis hermanos. Y, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            322.0531311035156,
+            562.4494018554688,
+            331.7949523925781
+          ]
+        },
+        {
+          "text": "por supuesto, no pertenezco a su denominación, y Uds. pueden ver por qué. Yo todavía podría estar en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            334.0428771972656,
+            562.4494018554688,
+            343.7846984863281
+          ]
+        },
+        {
+          "text": "una de las denominaciones de la iglesia. Si lo hiciera, toda la influencia que tengo, iría a esa única ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            346.0326232910156,
+            562.4494018554688,
+            355.7744445800781
+          ]
+        },
+        {
+          "text": "denominación. Creo que Jesús tiene hijos en todas las iglesias. ¿No lo creen? Amén. Jesús busca a los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            358.0228576660156,
+            562.4494018554688,
+            367.7646789550781
+          ]
+        },
+        {
+          "text": "puros de corazón. Él dijo: “Los puros de corazón verán a Dios”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            370.0126037597656,
+            348.4568786621094,
+            379.7544250488281
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            389.4964904785156,
+            42.15580749511719,
+            399.2383117675781
+          ]
+        },
+        {
+          "text": "Ahora, he buscado mejores resultados en la sanidad, pero debemos recordar que las personas ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            389.4964904785156,
+            562.4494018554688,
+            399.2383117675781
+          ]
+        },
+        {
+          "text": "enfermas nunca antes habían visto esto. Y con muchas de las iglesias diciendo: “Eso es del diablo”, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            401.4862365722656,
+            562.4494018554688,
+            411.2280578613281
+          ]
+        },
+        {
+          "text": "bueno, Ud. podría esperar que su fe se debilite. Bueno, pero... Y a pesar de todo eso, Dios ha hecho una ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            413.4759826660156,
+            562.4494018554688,
+            423.2178039550781
+          ]
+        },
+        {
+          "text": "demostración maravillosa, y muchos miles han venido a Cristo. Si yo hubiera sido crítico en contra de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            425.4662170410156,
+            562.4494018554688,
+            435.2080383300781
+          ]
+        },
+        {
+          "text": "eso, me arrepentiría. Me arrepentiría después de esto. Ver a la gente venir al Señor, y luego ver todos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            437.4559631347656,
+            562.4494018554688,
+            447.1977844238281
+          ]
+        },
+        {
+          "text": "los enfermos que han sido sanados.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            449.4457092285156,
+            212.8212127685547,
+            459.1875305175781
+          ]
+        },
+        {
+          "text": "Ahora, anoten mis palabras en sus corazones: después de que me haya ido por mucho tiempo, habrá ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            469.6791076660156,
+            562.4494018554688,
+            479.4209289550781
+          ]
+        },
+        {
+          "text": "personas que se sentaron aquí en sillas de ruedas, caminando. Muchos de los enfermos se sanarán. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            481.6688537597656,
+            562.4494018554688,
+            491.4106750488281
+          ]
+        },
+        {
+          "text": "Siempre es así de esa manera. Uds. saben, cuando el Espíritu Santo está bendiciendo a la audiencia, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            493.6585998535156,
+            562.4494018554688,
+            503.4004211425781
+          ]
+        },
+        {
+          "text": "simplemente no puedo llamarlos lo suficientemente rápido. Simplemente no puedo llegar a ellos lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            505.6488342285156,
+            562.4494018554688,
+            515.3906860351562
+          ]
+        },
+        {
+          "text": "suficientemente rápido. Pero el Espíritu Santo sabe quiénes son. Entonces, simplemente manténganse ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            517.6386108398438,
+            562.4494018554688,
+            527.3804321289062
+          ]
+        },
+        {
+          "text": "humildes y sigan creyendo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            529.6283569335938,
+            170.1069793701172,
+            539.3701782226562
+          ]
+        },
+        {
+          "text": "4",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            549.1122436523438,
+            42.15580749511719,
+            558.8540649414062
+          ]
+        },
+        {
+          "text": "Ahora, quiero agradecerles a todos nuevamente. Y oraré por Uds., mientras voy a mi casa al otro ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            549.8612670898438,
+            562.4494018554688,
+            559.6030883789062
+          ]
+        },
+        {
+          "text": "lado del mar. Siempre recordaré esto, y espero volver algún día. Dios sea con Uds.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            561.8515014648438,
+            445.12554931640625,
+            571.5933227539062
+          ]
+        },
+        {
+          "text": "Ahora, tengo una pequeña pregunta que hacer. Y estoy seguro de que todos tratarán de entender. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            581.3348999023438,
+            562.4494018554688,
+            591.0767211914062
+          ]
+        },
+        {
+          "text": "No me gusta ser grosero, pero tengo que responder algo que me escribieron. Se refería a un pequeño ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            593.3251342773438,
+            562.4494018554688,
+            603.0669555664062
+          ]
+        },
+        {
+          "text": "folleto que se dio. Las Escrituras fueron mal interpretadas. El caballero que lo escribió ciertamente no ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            605.3148803710938,
+            562.4494018554688,
+            615.0567016601562
+          ]
+        },
+        {
+          "text": "sabía mucho sobre la Biblia. Tengo una niña en casa, de ocho años; será mejor que él nunca le pregunte ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            617.3046264648438,
+            562.4494018554688,
+            627.0464477539062
+          ]
+        },
+        {
+          "text": "sobre esas cosas. Ella sabe más sobre eso que eso, y tiene ocho años.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            629.2948608398438,
+            390.421875,
+            639.0366821289062
+          ]
+        },
+        {
+          "text": "5",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            649.5277709960938,
+            42.15580749511719,
+            659.2695922851562
+          ]
+        },
+        {
+          "text": "Cuando él habló... cuando ellos hablaron en el folleto, (supongo que Uds. lo notaron), me llamaron, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            649.5277709960938,
+            562.4494018554688,
+            659.2695922851562
+          ]
+        },
+        {
+          "text": "“Simón el hechicero”. Ahora, amigos, Uds. saben que no soy Simón el hechicero. Y, por cierto, Simón el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            661.5175170898438,
+            562.4494018554688,
+            671.2593383789062
+          ]
+        },
+        {
+          "text": "hechicero no fue el que hizo la sanidad; fue al revés. Fue Felipe quien hizo la sanidad.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            673.5077514648438,
+            463.8598937988281,
+            683.2495727539062
+          ]
+        },
+        {
+          "text": "Simón el hechicero tenía una iglesia, era una iglesia formal, tal vez una iglesia estatal, y los tenía ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            693.7406616210938,
+            562.4494018554688,
+            703.4824829101562
+          ]
+        },
+        {
+          "text": "atados a todos. Y ellos no tenían gozo. No tenían ningún poder. Pero cuando Felipe vino, les predicó a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            705.7304077148438,
+            562.4494018554688,
+            715.4722290039062
+          ]
+        },
+        {
+          "text": "Cristo, resucitado. Vino una gran alegría y vino la sanidad. Y luego Simón quería comprar ese poder. ¿Ven ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            717.7201538085938,
+            562.4494018554688,
+            727.4619750976562
+          ]
+        },
+        {
+          "text": "cómo lo tenían al revés? Era el rígido formal que tenía el... estaba haciendo la brujería; no la sanidad o el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            729.7103881835938,
+            562.4494018554688,
+            739.4522094726562
+          ]
+        },
+        {
+          "text": "poder del Espíritu Santo. Era viceversa.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            741.7001342773438,
+            232.3048095703125,
+            751.4419555664062
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            761.1840209960938,
+            42.15580749511719,
+            770.9258422851562
+          ]
+        },
+        {
+          "text": "Y luego, cuando se dijo la pregunta, en el papel, que Jesús... Dijeron que una generación débil y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            761.1840209960938,
+            562.4494018554688,
+            770.9258422851562
+          ]
+        },
+        {
+          "text": "adúltera demanda señales (Mateo 12:39). ¿Notaron que él nunca citó el 38? Mira quién viene: era la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            773.1737670898438,
+            562.4494018554688,
+            782.9155883789062
+          ]
+        },
+        {
+          "text": "iglesia rígida y almidonada, los Fariseos regresaron con sus cuellos hacia atrás y dijeron: “Deseamos ver ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            785.1635131835938,
+            562.4494018554688,
+            794.9053344726562
+          ]
+        },
+        {
+          "text": "de Ti señal”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            797.1537475585938,
+            96.66873168945312,
+            806.8955688476562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "text": "Jesús no hizo un espectáculo de payaso para ellos. Él dijo: “Uds. solo tienen una señal para Uds.; ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28702926635742,
+            562.4494018554688,
+            53.028839111328125
+          ]
+        },
+        {
+          "text": "como Jonás estaba en el vientre de la ballena, bueno, así estará el Hijo del hombre”. Esa era la señal de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27677536010742,
+            562.4494018554688,
+            65.01858520507812
+          ]
+        },
+        {
+          "text": "ellos, y no lo creyeron. Ellos no lo creerían ahora. Y luego dijeron que... Jesús dijo que",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            67.26701354980469,
+            465.3590393066406,
+            77.00881958007812
+          ]
+        },
+        {
+          "text": "“Muchos Me dirán en aquel día: Señor, Señor, ¿no profetizamos en Tu Nombre, y en Tu Nombre ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            87.49992370605469,
+            562.4494018554688,
+            97.24172973632812
+          ]
+        },
+        {
+          "text": "echamos fuera demonios, y en Tu Nombre hicimos muchos milagros? Y entonces les declararé: Nunca os ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            99.48966979980469,
+            562.4494018554688,
+            109.23147583007812
+          ]
+        },
+        {
+          "text": "conocí; apartaos de Mí”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            111.47941589355469,
+            156.618408203125,
+            121.22122192382812
+          ]
+        },
+        {
+          "text": "7",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            130.9633026123047,
+            42.15580749511719,
+            140.70510864257812
+          ]
+        },
+        {
+          "text": "Ahora, hermano, si no puede ver... interpretar eso, o es que la teología está mal, o estás sufriendo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            130.9633026123047,
+            562.4494018554688,
+            140.70510864257812
+          ]
+        },
+        {
+          "text": "de una debilidad mental. Jesús dijo: “Me dirán, 'Yo predique en Tu Nombre y hice obras en Tu Nombre'”. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            142.9530487060547,
+            562.4494018554688,
+            152.69485473632812
+          ]
+        },
+        {
+          "text": "Jesús dijo: “Si lo hiciste, no supe nada al respecto. Nunca lo supe”. Ellos afirman que lo hicieron, pero no ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            154.9432830810547,
+            562.4494018554688,
+            164.68508911132812
+          ]
+        },
+        {
+          "text": "obtuvieron.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            166.9330291748047,
+            92.17251586914062,
+            176.67483520507812
+          ]
+        },
+        {
+          "text": "Escuchen amigos. Si Jesús envió a Sus discípulos para predicar el Evangelio y sanar a los enfermos, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            187.1659393310547,
+            562.4494018554688,
+            196.90774536132812
+          ]
+        },
+        {
+          "text": "y luego dar la vuelta en el día del juicio y condenarlos por hacer lo que Él dijo hacer, ¿qué clase de Cristo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            199.1556854248047,
+            562.4494018554688,
+            208.89749145507812
+          ]
+        },
+        {
+          "text": "sería? Lo único que es... He debatido infieles; también toman la Biblia. Pero simplemente eligen un ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            211.1459197998047,
+            562.4494018554688,
+            220.88772583007812
+          ]
+        },
+        {
+          "text": "pequeño lugar aquí, luego eligen otro aquí, para probar su punto. Tenemos que llevarlo desde Génesis ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            223.1356658935547,
+            562.4494018554688,
+            232.87747192382812
+          ]
+        },
+        {
+          "text": "hasta Apocalipsis. los resultados.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            235.1259002685547,
+            200.83119201660156,
+            244.86770629882812
+          ]
+        },
+        {
+          "text": "8",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            254.6092987060547,
+            42.15580749511719,
+            264.3511047363281
+          ]
+        },
+        {
+          "text": "Mira, la Biblia es como un rompecabezas. Pueden escoger una pieza y decir: “Esta va por aquí”. Pero ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            255.3588104248047,
+            562.4494018554688,
+            265.1006164550781
+          ]
+        },
+        {
+          "text": "tal vez no; podría ir aquí arriba. Por lo tanto, toda la Palabra de Dios tiene que coordinarse desde el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            267.3485412597656,
+            562.4494018554688,
+            277.0903625488281
+          ]
+        },
+        {
+          "text": "Génesis hasta el Apocalipsis. La primera comisión que Jesús le dio a Su Iglesia fue: “Sanad enfermos, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            279.3382873535156,
+            562.4494018554688,
+            289.0801086425781
+          ]
+        },
+        {
+          "text": "resucitad muertos, limpiad leprosos, echad fuera demonios; de gracia recibiste, dad de gracia”. Mateo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            291.3285217285156,
+            562.4494018554688,
+            301.0703430175781
+          ]
+        },
+        {
+          "text": "10.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            303.3182678222656,
+            51.70653533935547,
+            313.0600891113281
+          ]
+        },
+        {
+          "text": "La última comisión que Jesús le dio a Su Iglesia ... Escuchen, amigos, las últimas palabras que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            322.8021545410156,
+            562.4494018554688,
+            332.5439758300781
+          ]
+        },
+        {
+          "text": "salieron de los sagrados labios de Jesús, decían: “Id por todo el mundo”, eso es Zúrich, a todas partes, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            334.7919006347656,
+            562.4494018554688,
+            344.5337219238281
+          ]
+        },
+        {
+          "text": "“y predicad el Evangelio. Estas señales seguirán a los que creen”. Ahora, estas señales “puede que no” ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            346.7816467285156,
+            562.4494018554688,
+            356.5234680175781
+          ]
+        },
+        {
+          "text": "los sigan, Él dijo: “Estas señales los seguirán”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            358.7718811035156,
+            264.5277404785156,
+            368.5137023925781
+          ]
+        },
+        {
+          "text": "9",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            379.0047912597656,
+            42.15580749511719,
+            388.7466125488281
+          ]
+        },
+        {
+          "text": "¿Cuáles, Cuáles señales? ¿Iglesias organizadas? Él nunca comisionó eso en todo el mundo. La Iglesia ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            379.0047912597656,
+            562.4494018554688,
+            388.7466125488281
+          ]
+        },
+        {
+          "text": "de Dios nunca fue organizada. Eso es las obras del hombre, mantener a Dios fuera. Él nunca dijo: ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            390.9945373535156,
+            562.4494018554688,
+            400.7363586425781
+          ]
+        },
+        {
+          "text": "“Construyan seminarios”. Él no dijo que eso era una señal que seguiría. Aquí está la señal que dijo que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            402.9847717285156,
+            562.4494018554688,
+            412.7265930175781
+          ]
+        },
+        {
+          "text": "seguiría, Marcos 16, las últimas palabras de Sus labios. Él dijo: “En Mi Nombre echarán fuera demonios, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            414.9745178222656,
+            562.4494018554688,
+            424.7163391113281
+          ]
+        },
+        {
+          "text": "hablarán en nuevas lenguas; si tomarán en las manos serpientes o cosa mortífera, no les hará daño; ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            426.9642639160156,
+            562.4494018554688,
+            436.7060852050781
+          ]
+        },
+        {
+          "text": "sobre los enfermos pondrán sus manos, y sanarán”. Esas son las últimas palabras que salieron de la boca ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            438.9544982910156,
+            562.4494018554688,
+            448.6963195800781
+          ]
+        },
+        {
+          "text": "de Jesús. Él fue recibido arriba en gloria.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            450.9442443847656,
+            236.80099487304688,
+            460.6860656738281
+          ]
+        },
+        {
+          "text": "10",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            470.4276428222656,
+            47.95968246459961,
+            480.1694641113281
+          ]
+        },
+        {
+          "text": "Y la Biblia dice que los discípulos salieron a predicar la Palabra, Dios obrando con ellos, y las señales ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            471.1771545410156,
+            562.4494018554688,
+            480.9189758300781
+          ]
+        },
+        {
+          "text": "siguiéndolos. ¿Es esa la Escritura? Entonces, si Jesús se da vuelta y dice: “Ya que echaron fuera ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            483.1669006347656,
+            562.4494018554688,
+            492.9087219238281
+          ]
+        },
+        {
+          "text": "demonios e hicieron milagros en Mi Nombre, apartados de Mí, hacedores de maldad”, ¿qué clase de Jesús ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            495.1571350097656,
+            562.4494018554688,
+            504.8989562988281
+          ]
+        },
+        {
+          "text": "sería Él? No hay nada malo con Jesús; lo que está son Sus predicadores. Ahí está el problema, no en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            507.1468811035156,
+            562.4494018554688,
+            516.8887329101562
+          ]
+        },
+        {
+          "text": "Jesús, ni en Su Palabra. Jesús dijo: “Estaré con vosotros; las cosas que Yo hago, vosotros también, aun ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            519.1371459960938,
+            562.4494018554688,
+            528.8789672851562
+          ]
+        },
+        {
+          "text": "mayores (más), porque Yo voy al Padre”. Porque, cuando Él estuvo aquí, Él estaba en un hombre, ahora ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            531.1268920898438,
+            562.4494018554688,
+            540.8687133789062
+          ]
+        },
+        {
+          "text": "puede estar en todo el mundo, en cada hombre que lo permita.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            543.1166381835938,
+            349.9557800292969,
+            552.8584594726562
+          ]
+        },
+        {
+          "text": "11",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            562.6005249023438,
+            47.95968246459961,
+            572.3423461914062
+          ]
+        },
+        {
+          "text": "No, argumento de ellos es demasiado débil, amigos. Miren, la Escritura tiene que unirse, de un lado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            562.6005249023438,
+            562.4494018554688,
+            572.3423461914062
+          ]
+        },
+        {
+          "text": "de la Escritura al otro. Todo tiene que estar unido para completar la imagen. Ahora, tomemos la sanidad ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            574.5902709960938,
+            562.4494018554688,
+            584.3320922851562
+          ]
+        },
+        {
+          "text": "Divina esta noche, y la obra de los milagros; y tomándolo desde Génesis y trayéndolo de vuelta a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            586.5800170898438,
+            562.4494018554688,
+            596.3218383789062
+          ]
+        },
+        {
+          "text": "Apocalipsis, y mirar si está en la Palabra de Dios.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            598.5702514648438,
+            278.7656555175781,
+            608.3120727539062
+          ]
+        },
+        {
+          "text": "¿Oramos?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            618.8031616210938,
+            103.4130630493164,
+            628.5449829101562
+          ]
+        },
+        {
+          "text": "Querido Padre Celestial, ante nosotros hay muchos pañuelos. Oramos que Tus bendiciones reposen ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            639.0360717773438,
+            562.4494018554688,
+            648.7778930664062
+          ]
+        },
+        {
+          "text": "sobre cada uno. Dios, concede que todos sean sanados. Bendigo estos pañuelos, como Tu siervo, en el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            651.0258178710938,
+            562.4494018554688,
+            660.7676391601562
+          ]
+        },
+        {
+          "text": "Nombre de Jesucristo, Tu Hijo, que Tus bendiciones vayan con ellos y sanen a los enfermos. En el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            663.0160522460938,
+            562.4494018554688,
+            672.7578735351562
+          ]
+        },
+        {
+          "text": "Nombre de Jesús oro. Padre, ábrenos Tu Palabra esta noche. Y oro para que hables a cada corazón, a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            675.0057983398438,
+            562.4494018554688,
+            684.7476196289062
+          ]
+        },
+        {
+          "text": "través de Tu Palabra. En el Nombre de Jesús oro. Amén. [Espacio en blanco en la cinta].",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            686.9960327148438,
+            475.849853515625,
+            696.7378540039062
+          ]
+        },
+        {
+          "text": "12",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            706.4794311523438,
+            47.95968246459961,
+            716.2212524414062
+          ]
+        },
+        {
+          "text": "Vaya, no tengo notas para predicar. Yo predico por inspiración. Y tengo que seguir diciéndolo tan ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            706.4794311523438,
+            562.4494018554688,
+            716.2212524414062
+          ]
+        },
+        {
+          "text": "rápido como viene. Entonces, lo hace bastante difícil. Ahora, mi intérprete leerá de Joel, el primer ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            718.4691772460938,
+            562.4494018554688,
+            728.2109985351562
+          ]
+        },
+        {
+          "text": "capítulo, el primer verso, hasta el quinto verso, y luego del once al doce.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            730.4594116210938,
+            400.1638488769531,
+            740.2012329101562
+          ]
+        },
+        {
+          "text": "Palabra de Jehová que vino a Joel, hijo de Petuel.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            750.6923217773438,
+            302.74560546875,
+            760.4341430664062
+          ]
+        },
+        {
+          "text": "Oíd esto, ancianos, y escuchad, todos los moradores de la tierra. ¿Ha acontecido esto en vuestros ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            770.9252319335938,
+            562.4494018554688,
+            780.6670532226562
+          ]
+        },
+        {
+          "text": "días, o en los días de vuestros padres?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            782.9149780273438,
+            229.3073272705078,
+            792.6567993164062
+          ]
+        },
+        {
+          "text": "De esto contaréis a vuestros hijos, y vuestros hijos a sus hijos, y sus hijos a la otra generación.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            802.3988647460938,
+            535.7998046875,
+            812.1406860351562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "text": "Lo que quedó de la oruga comió el saltón, y lo que quedó del saltón comió el revoltón; y la langosta ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28605270385742,
+            562.4494018554688,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "comió lo que del revoltón había quedado.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27579879760742,
+            239.7985076904297,
+            65.01760864257812
+          ]
+        },
+        {
+          "text": "Despertad, borrachos, y llorad; gemid, todos los que bebéis vino, a causa del mosto, porque os es ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            75.50920104980469,
+            562.4494018554688,
+            85.25100708007812
+          ]
+        },
+        {
+          "text": "quitado de vuestra boca.]",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            87.49894714355469,
+            165.61085510253906,
+            97.24075317382812
+          ]
+        },
+        {
+          "text": "[Confundíos, labradores; gemid, viñeros, por el trigo y la cebada, porque se perdió la mies del ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            106.98234558105469,
+            562.4494018554688,
+            116.72415161132812
+          ]
+        },
+        {
+          "text": "campo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            118.97257995605469,
+            71.93951416015625,
+            128.71438598632812
+          ]
+        },
+        {
+          "text": "La vid está seca, y pereció la higuera; el granado también, la palmera y el manzano; todos los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            139.2054901123047,
+            562.4494018554688,
+            148.94729614257812
+          ]
+        },
+        {
+          "text": "árboles del campo se secaron, por lo cual se extinguió el gozo de los hijos de los hombres.]",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            151.1952362060547,
+            489.3384704589844,
+            160.93704223632812
+          ]
+        },
+        {
+          "text": "Ahora, en Joel 2, y el versículo 25, es mi texto para la noche.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            171.4281463623047,
+            362.69482421875,
+            181.16995239257812
+          ]
+        },
+        {
+          "text": "Y os restituiré los años que comió la oruga, el saltón, el revoltón y la langosta, mi gran ejército que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            190.9120330810547,
+            562.4494018554688,
+            200.65383911132812
+          ]
+        },
+        {
+          "text": "envié contra vosotros.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            202.9017791748047,
+            148.3751983642578,
+            212.64358520507812
+          ]
+        },
+        {
+          "text": "13",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            223.1346893310547,
+            47.95968246459961,
+            232.87649536132812
+          ]
+        },
+        {
+          "text": "Yo restauraré otra vez, dice el Señor.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            223.1346893310547,
+            242.04649353027344,
+            232.87649536132812
+          ]
+        },
+        {
+          "text": "Ahora, no nos pongamos nerviosos, siendo la noche de clausura del servicio. Tomémonos nuestro ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            243.3680877685547,
+            562.4494018554688,
+            253.10989379882812
+          ]
+        },
+        {
+          "text": "tiempo y expongamos la Escritura de manera clara y concisa. Y ahora todos los enfermos, estén ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            255.3578338623047,
+            562.4494018554688,
+            265.0996398925781
+          ]
+        },
+        {
+          "text": "escuchando atentamente. Y muy bien, escuchen atentamente.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            267.3475646972656,
+            350.7049255371094,
+            277.0893859863281
+          ]
+        },
+        {
+          "text": "Ahora, la próxima semana Uds. tendrán la libertad de estar en casa y pensarlo. Ahora esto no se ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            286.8314514160156,
+            562.4494018554688,
+            296.5732727050781
+          ]
+        },
+        {
+          "text": "dice para criticar; esto se dice para el Reino de Dios. Ahora, Joel aquí estaba hablando de la herencia de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            298.8211975097656,
+            562.4494018554688,
+            308.5630187988281
+          ]
+        },
+        {
+          "text": "Dios. Dios ha comparado Su herencia, la ha comparado con un árbol, como un olivo. Y lo ha comparado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            310.8109436035156,
+            562.4494018554688,
+            320.5527648925781
+          ]
+        },
+        {
+          "text": "con una rama y una vid. Si.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            322.8011779785156,
+            173.10440063476562,
+            332.5429992675781
+          ]
+        },
+        {
+          "text": "14",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            343.0340881347656,
+            47.95968246459961,
+            352.7759094238281
+          ]
+        },
+        {
+          "text": "Ahora, oramos para que Dios les permita ver lo que Él está tratando de mostrar esta noche. Voy a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            343.0340881347656,
+            562.4494018554688,
+            352.7759094238281
+          ]
+        },
+        {
+          "text": "mostrar una señal, para que lo entiendan. Ahora, voy a poner este montón de papeles aquí. Voy a poner ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            355.0238342285156,
+            562.4494018554688,
+            364.7656555175781
+          ]
+        },
+        {
+          "text": "este montón de papeles aquí. Ahora, quiero usarlos en unos momentos para la enseñanza. Y veremos si ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            367.0140686035156,
+            562.4494018554688,
+            376.7558898925781
+          ]
+        },
+        {
+          "text": "lo sobrenatural y el mensaje que les estoy predicando, si está en la Palabra de Dios o no.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            379.0038146972656,
+            480.3464050292969,
+            388.7456359863281
+          ]
+        },
+        {
+          "text": "Ahora, el libro de Génesis es el comienzo. La misma palabra Génesis significa “principio”. Ahora, todo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            399.2367248535156,
+            562.4494018554688,
+            408.9785461425781
+          ]
+        },
+        {
+          "text": "comenzó en Génesis. El mal comenzó en Génesis; el bien comenzó en Génesis. La vida comenzó en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            411.2269592285156,
+            562.4494018554688,
+            420.9687805175781
+          ]
+        },
+        {
+          "text": "Génesis; la muerte comenzó en Génesis. La creación comenzó en Génesis. Toda religión comenzó en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            423.2167053222656,
+            562.4494018554688,
+            432.9585266113281
+          ]
+        },
+        {
+          "text": "Génesis. Todo espíritu comenzó en Génesis.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            435.2064514160156,
+            251.7882843017578,
+            444.9482727050781
+          ]
+        },
+        {
+          "text": "15",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            454.6903381347656,
+            47.95968246459961,
+            464.4321594238281
+          ]
+        },
+        {
+          "text": "Ahora, ahora, volvamos a Génesis para averiguar desde dónde debemos comenzar. Es como si su ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            454.6903381347656,
+            562.4494018554688,
+            464.4321594238281
+          ]
+        },
+        {
+          "text": "casa se estuviera inclinando: hay algo mal con los cimientos. Volvamos a la base y trabajemos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            466.6800842285156,
+            509.5713806152344,
+            476.4219055175781
+          ]
+        },
+        {
+          "text": "Ahora, había dos personas en el jardín del Edén, y eran Adán y Eva, ambos seres creados por Dios. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            486.9129943847656,
+            562.4494018554688,
+            496.6548156738281
+          ]
+        },
+        {
+          "text": "Y el primer hijo que nació, fue Caín. El segundo nació, fue Abel. Ahora, detengámonos. Ahora, vienen ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            498.9032287597656,
+            562.4494018554688,
+            508.6450500488281
+          ]
+        },
+        {
+          "text": "dos seres mortales en el mundo. Las dos primeras personas nacidas en el mundo eran Caín a mi izquierda ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            510.8929748535156,
+            562.4494018554688,
+            520.6348266601562
+          ]
+        },
+        {
+          "text": "y Abel a mi derecha.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            522.8827514648438,
+            137.8840789794922,
+            532.6245727539062
+          ]
+        },
+        {
+          "text": "16",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            542.3666381835938,
+            47.95968246459961,
+            552.1084594726562
+          ]
+        },
+        {
+          "text": "Ahora hay dos espíritus en esos dos niños. Si estaban vivos, tenían que tener espíritu. Ahora, uno ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            543.1156616210938,
+            562.4494018554688,
+            552.8574829101562
+          ]
+        },
+        {
+          "text": "de ellos era del diablo. Y el siguiente era de Dios. Es exactamente perfecto: Judas y Jesús. Así como ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            555.1058959960938,
+            562.4494018554688,
+            564.8477172851562
+          ]
+        },
+        {
+          "text": "Caín mató a Abel en el altar, Judas también mató a Jesús en el altar. Toda la Biblia es una gran imagen.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            567.0956420898438,
+            547.039794921875,
+            576.8374633789062
+          ]
+        },
+        {
+          "text": "Ahora, cuando fueron expulsados del jardín del Edén a causa del pecado, ahora esos dos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            586.5795288085938,
+            562.4494018554688,
+            596.3213500976562
+          ]
+        },
+        {
+          "text": "muchachos, el de mi izquierda y el de mi derecha, Caín y Abel; ahora, ambos querían encontrar el favor ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            598.5692749023438,
+            562.4494018554688,
+            608.3110961914062
+          ]
+        },
+        {
+          "text": "de Dios. Ahora, escuchen atentamente y no malinterpreten. Me tomaré mi tiempo, así que seguro lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            610.5590209960938,
+            562.4494018554688,
+            620.3008422851562
+          ]
+        },
+        {
+          "text": "entenderán.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            622.5492553710938,
+            95.91936492919922,
+            632.2910766601562
+          ]
+        },
+        {
+          "text": "Ahora, Caín y Abel ambos vienen a adorar al Señor. Caín construyó una iglesia; él construyó un altar. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            642.7821655273438,
+            562.4494018554688,
+            652.5239868164062
+          ]
+        },
+        {
+          "text": "Un altar es un lugar para adorar. Y Caín trajo un sacrificio. Y Caín le creyó a Dios. Y Caín adoró a Dios. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            654.7719116210938,
+            562.4494018554688,
+            664.5137329101562
+          ]
+        },
+        {
+          "text": "Entonces, si Dios solo requiere que Ud. pertenezca a la iglesia, que haga una confesión en Él, y le traiga ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            666.7621459960938,
+            562.4494018554688,
+            676.5039672851562
+          ]
+        },
+        {
+          "text": "una ofrenda y sacrifique a Él, sería injusto condenar a Caín.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            678.7518920898438,
+            332.7201232910156,
+            688.4937133789062
+          ]
+        },
+        {
+          "text": "17",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            698.2352905273438,
+            47.95968246459961,
+            707.9771118164062
+          ]
+        },
+        {
+          "text": "Abel trajo un al... hizo un altar, adoró y trajo un sacrificio. Ambos muchachos hicieron lo mismo. Caín ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            698.9848022460938,
+            562.4494018554688,
+            708.7266235351562
+          ]
+        },
+        {
+          "text": "no era infiel; era un hombre muy religioso. ¿Sabías lo que dice la Biblia sobre el anticristo? “Sería tan ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            710.9745483398438,
+            562.4494018554688,
+            720.7163696289062
+          ]
+        },
+        {
+          "text": "parecidos como el real, que engañarían si fuere posible, aun a los escogidos”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            722.9647827148438,
+            419.6474304199219,
+            732.7066040039062
+          ]
+        },
+        {
+          "text": "Ahora profesan religión. Caín era muy religioso. Hizo una confesión a Dios. Él construyó una iglesia ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            742.4481811523438,
+            562.4494018554688,
+            752.1900024414062
+          ]
+        },
+        {
+          "text": "para Dios. Se arrodilló y adoró a Dios. ¿No es eso como lo hacen hoy las personas religiosas? Ellos van a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            754.4384155273438,
+            562.4494018554688,
+            764.1802368164062
+          ]
+        },
+        {
+          "text": "la iglesia. Pertenecen a la iglesia. Traen su dinero a la iglesia. Cantan himnos a Dios y adoran a Dios. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            766.4281616210938,
+            562.4494018554688,
+            776.1699829101562
+          ]
+        },
+        {
+          "text": "Pero Caín, al hacer lo mismo, fue condenado.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            778.4179077148438,
+            260.0313415527344,
+            788.1597290039062
+          ]
+        },
+        {
+          "text": "18",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            797.9017944335938,
+            47.95968246459961,
+            807.6436157226562
+          ]
+        },
+        {
+          "text": "La Biblia dice: “ Hay camino que al hombre le parece derecho;",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            798.6508178710938,
+            364.1936340332031,
+            808.3926391601562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "text": "pero su fin es camino de muerte“. Entonces, la adoración y la confesión no le hacen cristiano. No. Si ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28605270385742,
+            562.4494018554688,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "lo fuera, Dios nunca habría condenado a Caín.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27628707885742,
+            264.5277404785156,
+            65.01809692382812
+          ]
+        },
+        {
+          "text": "Ahora note, a Caín le gustaba la belleza. Hizo bonito su altar; trajo los frutos del campo sobre él. La ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            75.50920104980469,
+            562.4494018554688,
+            85.25100708007812
+          ]
+        },
+        {
+          "text": "belleza es engañosa. Eso es lo que comenzó el problema en el cielo. El diablo quería un reino más ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            87.49894714355469,
+            562.4494018554688,
+            97.24075317382812
+          ]
+        },
+        {
+          "text": "hermoso que el de Miguel. Pero él fue expulsado. Ahora, ven que el espíritu del demonio estaba en Caín, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            99.48869323730469,
+            562.4494018554688,
+            109.23049926757812
+          ]
+        },
+        {
+          "text": "un hombre religioso, confesando su fe en Dios, pero adorando a Dios, y fue condenado por el demonio.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            111.47892761230469,
+            546.2905883789062,
+            121.22073364257812
+          ]
+        },
+        {
+          "text": "19",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            130.9623260498047,
+            47.95968246459961,
+            140.70413208007812
+          ]
+        },
+        {
+          "text": "Escuchen mi voz. Estoy advirtiendo. Un hombre tiene que nacer de nuevo. Está tan perdido como ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            130.9623260498047,
+            562.4494018554688,
+            140.70413208007812
+          ]
+        },
+        {
+          "text": "pueda. Jesús dijo: “El que no naciere de nuevo, no puede ver el reino de Dios.”. Miren, Caín era religioso, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            142.9525604248047,
+            562.4494018554688,
+            152.69436645507812
+          ]
+        },
+        {
+          "text": "y vino a hacer su ofrenda. Arregló su altar, se inclinó ante Jehová y lo adoró. [Espacio en blanco en la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            154.9423065185547,
+            562.4494018554688,
+            164.68411254882812
+          ]
+        },
+        {
+          "text": "cinta-Trad.]",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            166.9320526123047,
+            94.42062377929688,
+            176.67385864257812
+          ]
+        },
+        {
+          "text": "Ese espíritu de Caín, religioso, lo llevaremos a través de la Biblia. Mire lo que hizo en todas las ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            187.1649627685547,
+            562.4494018554688,
+            196.90676879882812
+          ]
+        },
+        {
+          "text": "edades, cómo construye grandes iglesias, grandes santuarios, grandes multitudes, y-y pero aún fuera de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            199.1551971435547,
+            562.4494018554688,
+            208.89700317382812
+          ]
+        },
+        {
+          "text": "la voluntad de Dios.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            211.1449432373047,
+            134.13729858398438,
+            220.88674926757812
+          ]
+        },
+        {
+          "text": "Ahora, aquí viene Abel con una vid envuelta alrededor del cuello de un cordero. No fruto del campo; ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            231.3778533935547,
+            562.4494018554688,
+            241.11965942382812
+          ]
+        },
+        {
+          "text": "él traía una vida. Y lo condujo al altar. Nada de bello en eso. Arrojó el corderito sobre el altar, tomó una ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            243.3680877685547,
+            562.4494018554688,
+            253.10989379882812
+          ]
+        },
+        {
+          "text": "piedra (no tenían cuchillos en ese día), tiró de la cabeza del corderito hacia atrás y comenzó a cortarlo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            255.3578338623047,
+            562.4494018554688,
+            265.0996398925781
+          ]
+        },
+        {
+          "text": "con una piedra en la garganta.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            267.3475646972656,
+            188.8411865234375,
+            277.0893859863281
+          ]
+        },
+        {
+          "text": "20",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            286.8314514160156,
+            47.95968246459961,
+            296.5732727050781
+          ]
+        },
+        {
+          "text": "Y el corderito comenzó a sangrar, y comenzó a morir, y la sangre brotó de su garganta. Nada de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            286.8314514160156,
+            562.4494018554688,
+            296.5732727050781
+          ]
+        },
+        {
+          "text": "bello en eso, pero era la forma de vida, aceptando su muerte. Noten, vean, Caín pensó que Dios ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            298.8211975097656,
+            562.4494018554688,
+            308.5630187988281
+          ]
+        },
+        {
+          "text": "aceptaría las cosas grandes, la belleza, la gran iglesia. Y Abel, la única forma en que él podría... Anoten ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            310.8114318847656,
+            562.4494018554688,
+            320.5532531738281
+          ]
+        },
+        {
+          "text": "esto. La única forma que Abel hubiera podido saber ofrecer un cordero, era siendo revelado por Dios. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            322.8011779785156,
+            562.4494018554688,
+            332.5429992675781
+          ]
+        },
+        {
+          "text": "Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            334.7909240722656,
+            66.69393157958984,
+            344.5327453613281
+          ]
+        },
+        {
+          "text": "Escucha, eso es cierto hoy. La Palabra de Dios no viene por el aprendizaje en el seminario; Es una ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            355.0238342285156,
+            562.4494018554688,
+            364.7656555175781
+          ]
+        },
+        {
+          "text": "revelación espiritual. Tomemos el Nuevo Testamento un momento. Cuando Jesús habló a Sus discípulos, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            367.0140686035156,
+            562.4494018554688,
+            376.7558898925781
+          ]
+        },
+        {
+          "text": "Él dijo: “¿Quién dicen que soy? ¿Quién dicen los hombres que soy yo?”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            379.0038146972656,
+            385.9254455566406,
+            388.7456359863281
+          ]
+        },
+        {
+          "text": "“Algunos dijeron que Tú eres Elías, algunos Moisés, algunos el gran profeta”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            399.2367248535156,
+            433.8849182128906,
+            408.9785461425781
+          ]
+        },
+        {
+          "text": "Pero Jesús dijo: “¿Quién decís vosotros que soy?”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            418.7206115722656,
+            303.4947204589844,
+            428.4624328613281
+          ]
+        },
+        {
+          "text": "Entonces Pedro se levantó y dijo: “Tú eres el Cristo, el Hijo del Dios viviente”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            438.9535217285156,
+            442.8775329589844,
+            448.6953430175781
+          ]
+        },
+        {
+          "text": "21",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            458.4369201660156,
+            47.95968246459961,
+            468.1787414550781
+          ]
+        },
+        {
+          "text": "Observen, la iglesia Católica dijo: “Fue una piedra donde Él construyó su iglesia allí”. La iglesia ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            459.1864318847656,
+            562.4494018554688,
+            468.9282531738281
+          ]
+        },
+        {
+          "text": "Protestante dijo: “La edificó sobre Sí mismo, Cristo Jesús”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            471.1761779785156,
+            325.975830078125,
+            480.9179992675781
+          ]
+        },
+        {
+          "text": "Pero, escuchen lo que dijo Jesús, después de que Pedro le confesó ser el Hijo de Dios. Él dijo: ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            490.6600646972656,
+            562.4494018554688,
+            500.4018859863281
+          ]
+        },
+        {
+          "text": "“Bienaventurado eres, Simón, hijo de Jonás, porque no te lo reveló carne ni sangre. Nunca lo aprendiste ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            502.6498107910156,
+            562.4494018554688,
+            512.3916625976562
+          ]
+        },
+        {
+          "text": "en una iglesia. Nunca lo aprendiste en un seminario. La carne ni sangre nunca te lo revelaron. Sino Mi ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            514.6400756835938,
+            562.4494018554688,
+            524.3818969726562
+          ]
+        },
+        {
+          "text": "Padre que está en los cielos te lo ha revelado. Y sobre esta roca edificaré Mi Iglesia, y las puertas del ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            526.6298217773438,
+            562.4494018554688,
+            536.3716430664062
+          ]
+        },
+        {
+          "text": "Hades no prevalecerán contra ella”. ¿Es correcto eso? Diga “Amén”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            538.6195678710938,
+            370.1888732910156,
+            548.3613891601562
+          ]
+        },
+        {
+          "text": "22",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            558.8529663085938,
+            47.95968246459961,
+            568.5947875976562
+          ]
+        },
+        {
+          "text": "Mostró que las puertas del infierno estarían en su contra, pero no podrían prevalecer. No intente ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            558.8529663085938,
+            562.4494018554688,
+            568.5947875976562
+          ]
+        },
+        {
+          "text": "detener este avivamiento; Ud. está poniendo su mano en la Palabra de Dios. Toda herramienta que se ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            570.8427124023438,
+            562.4494018554688,
+            580.5845336914062
+          ]
+        },
+        {
+          "text": "forma contra Dios quedará en nada. Porque Jesús dijo: “Las puertas del infierno no pueden prevalecer ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            582.8324584960938,
+            562.4494018554688,
+            592.5742797851562
+          ]
+        },
+        {
+          "text": "contra ella”. Ha llegado el día. Ahora, ¿cómo sabía eso Pedro? Él dijo: “La verdad espiritual revelada de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            594.8226928710938,
+            562.4494018554688,
+            604.5645141601562
+          ]
+        },
+        {
+          "text": "Dios te la ha revelado”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            606.8124389648438,
+            150.6233673095703,
+            616.5542602539062
+          ]
+        },
+        {
+          "text": "Entonces, la Iglesia del Dios viviente, escúchame, no está construida sobre la experiencia de un ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            627.0453491210938,
+            562.4494018554688,
+            636.7871704101562
+          ]
+        },
+        {
+          "text": "seminario, o sobre un grupo de credos de hombres, sino sobre la revelación espiritual de la Palabra de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            639.0350952148438,
+            562.4494018554688,
+            648.7769165039062
+          ]
+        },
+        {
+          "text": "Dios. Amén. La verdad espiritual revelada de la Palabra de Dios, viniendo de Dios del cielo a cada ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            651.0253295898438,
+            562.4494018554688,
+            660.7671508789062
+          ]
+        },
+        {
+          "text": "corazón. Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            663.0150756835938,
+            113.15489196777344,
+            672.7568969726562
+          ]
+        },
+        {
+          "text": "23",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            682.4989624023438,
+            47.95968246459961,
+            692.2407836914062
+          ]
+        },
+        {
+          "text": "Note, ahora, ese es el mismo tipo de revelación que recibió Abel, porque se le reveló que no fueron ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            682.4989624023438,
+            562.4494018554688,
+            692.2407836914062
+          ]
+        },
+        {
+          "text": "las manzanas las que nos sacaron del jardín, como la gente piensa aquí hoy, sino sangre, vida, vida ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            694.4887084960938,
+            562.4494018554688,
+            704.2305297851562
+          ]
+        },
+        {
+          "text": "mortal. Y fue revelado por Dios, y Dios recibió a este hombre, Abel, y condenó a Caín.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            706.4784545898438,
+            463.86016845703125,
+            716.2202758789062
+          ]
+        },
+        {
+          "text": "Y ambos estaban en la iglesia. Ambos adoraban a Dios. Ambos pertenecían a la iglesia, y ambos eran ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            726.7113647460938,
+            562.4494018554688,
+            736.4531860351562
+          ]
+        },
+        {
+          "text": "sinceros; pero uno fue elegido y el otro condenado, porque uno tenía revelación espiritual de la voluntad ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            738.7015991210938,
+            562.4494018554688,
+            748.4434204101562
+          ]
+        },
+        {
+          "text": "de Dios. Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            750.6913452148438,
+            110.1573486328125,
+            760.4331665039062
+          ]
+        },
+        {
+          "text": "Noten, allí comenzaron las dos ramas. Ahí comenzó el árbol. Crecieron a través de la Biblia, ambos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            770.9242553710938,
+            562.4494018554688,
+            780.6660766601562
+          ]
+        },
+        {
+          "text": "espíritus. Y están aquí esta noche, y están por todo el mundo. Y casi se han ido a la semilla, donde el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            782.9144897460938,
+            562.4494018554688,
+            792.6563110351562
+          ]
+        },
+        {
+          "text": "Maestro del jardín vendrá a emitir el juicio.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            794.9042358398438,
+            247.29226684570312,
+            804.6460571289062
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "text": "24",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28605270385742,
+            47.95968246459961,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "Vigilen esto ahora. Vigilen a esos dos espíritus levantarse en Génesis. Si tuviéramos tiempo, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28605270385742,
+            562.4494018554688,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "podríamos aprovechar esta noche para leer la Biblia, mostrando esos dos espíritus. Ahora, miren lo que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27628707885742,
+            562.4494018554688,
+            65.01809692382812
+          ]
+        },
+        {
+          "text": "hizo Caín. Cuando vio que su hermano fue aceptado, su hermano tuvo la revelación sobrenatural, y él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            67.26603698730469,
+            562.4494018554688,
+            77.00784301757812
+          ]
+        },
+        {
+          "text": "estaba celoso de él, y buscó una forma de matarlo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            79.25578308105469,
+            292.2544250488281,
+            88.99758911132812
+          ]
+        },
+        {
+          "text": "Ha habido un enemigo, el espíritu de Caín y el espíritu de Abel, desde el Génesis a través de la Biblia, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            99.48893737792969,
+            562.4494018554688,
+            109.23074340820312
+          ]
+        },
+        {
+          "text": "hasta Apocalipsis, desde la creación hasta ahora, y lo serán hasta que Jesús venga. ¿Entienden Uds. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            111.47892761230469,
+            562.4494018554688,
+            121.22073364257812
+          ]
+        },
+        {
+          "text": "que ambos eran religiosos? Ambos adoraron al mismo Dios. Ambos confesaron el mismo Dios. Pero Dios ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            123.46891784667969,
+            562.4494018554688,
+            133.21072387695312
+          ]
+        },
+        {
+          "text": "vindicó a Abel. Él dijo: “Este es el Mío, y ese no es Mío”. Pero los dos lo adoraron. Ambos pertenecían a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            135.4586639404297,
+            562.4494018554688,
+            145.20046997070312
+          ]
+        },
+        {
+          "text": "la iglesia.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            147.4486541748047,
+            81.68132781982422,
+            157.19046020507812
+          ]
+        },
+        {
+          "text": "25",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            166.9322967529297,
+            47.95968246459961,
+            176.67410278320312
+          ]
+        },
+        {
+          "text": "Ahora, se podía ver en Esaú y Jacob. Pues, Esaú era un hombre más religioso que Jacob, pero Dios ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            166.9322967529297,
+            562.4494018554688,
+            176.67410278320312
+          ]
+        },
+        {
+          "text": "eligió a Jacob. No sucedió nada sobrenatural en la vida de Esaú. Pero Jacob estuvo lleno de lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            178.9222869873047,
+            562.4494018554688,
+            188.66409301757812
+          ]
+        },
+        {
+          "text": "sobrenatural.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            190.9120330810547,
+            101.16498565673828,
+            200.65383911132812
+          ]
+        },
+        {
+          "text": "Mira entre los animales. Mira en el arca, (en el arca de Noé). Había dos pájaros, uno de ellos un ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            211.1451873779297,
+            562.4494018554688,
+            220.88699340820312
+          ]
+        },
+        {
+          "text": "cuervo y el otro una paloma. Uno tenía un espíritu anticristo, y el otro tenía el espíritu de Cristo. Cuando ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            223.1349334716797,
+            562.4494018554688,
+            232.87673950195312
+          ]
+        },
+        {
+          "text": "ambos se soltaron, el cuervo podía comer cualquier cosa que quisiera. Estaba satisfecho con el mundo, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            235.1249237060547,
+            562.4494018554688,
+            244.86672973632812
+          ]
+        },
+        {
+          "text": "pero la paloma tuvo que regresar.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            247.1149139404297,
+            202.32977294921875,
+            256.8567199707031
+          ]
+        },
+        {
+          "text": "Demos una hermosa ilustración. Miren a Israel allá en Egipto; Dios prometió llevarlos a la tierra ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            267.3478088378906,
+            562.4494018554688,
+            277.0896301269531
+          ]
+        },
+        {
+          "text": "prometida. Aquí vienen en su viaje, a través de la tierra. Vienen a tener un avivamiento. Querían ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            279.3377990722656,
+            562.4494018554688,
+            289.0796203613281
+          ]
+        },
+        {
+          "text": "atravesar la tierra de Moab. Moab era su hermano. Y él dijo: “¿Puedo entrar en tu país?”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            291.3277893066406,
+            476.59912109375,
+            301.0696105957031
+          ]
+        },
+        {
+          "text": "Él dijo: “No.”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            310.8114318847656,
+            117.65107727050781,
+            320.5532531738281
+          ]
+        },
+        {
+          "text": "26",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            331.0443420410156,
+            47.95968246459961,
+            340.7861633300781
+          ]
+        },
+        {
+          "text": "Pero Moab adoraba a Dios; también lo hacía Israel. Ahora, Moab era una denominación. Era una gran ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            331.0443420410156,
+            562.4494018554688,
+            340.7861633300781
+          ]
+        },
+        {
+          "text": "nación, todo organizada. Pero Moisés con los hijos de Israel vivía en tiendas de campaña, dispersos por ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            343.0343322753906,
+            562.4494018554688,
+            352.7761535644531
+          ]
+        },
+        {
+          "text": "todas partes. Ahora, ambos tenían pastores. Moab surgió de la hija de Lot. Ahora, los dos… adoraban a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            355.0240783691406,
+            562.4494018554688,
+            364.7658996582031
+          ]
+        },
+        {
+          "text": "Dios. Tenían un obispo allí y se llamaba Balaam. Y así, fueron a buscar a su obispo para que viniera aquí ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            367.0140686035156,
+            562.4494018554688,
+            376.7558898925781
+          ]
+        },
+        {
+          "text": "y detuviera a este grupo de aleluyas. “Sí, detenlos”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            379.0040588378906,
+            295.2518615722656,
+            388.7458801269531
+          ]
+        },
+        {
+          "text": "¿Se imaginan a un hombre, una gran nación, deteniendo a su hermano en el camino a la tierra ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            399.2369689941406,
+            562.4494018554688,
+            408.9787902832031
+          ]
+        },
+        {
+          "text": "prometida que Dios le había prometido, y hombres siguiendo las promesas de Dios?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            411.2269592285156,
+            445.1259765625,
+            420.9687805175781
+          ]
+        },
+        {
+          "text": "Entonces llamaron a Balaam. Quiero que vean cuán formales eran, porque era el espíritu de Caín. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            430.7106018066406,
+            562.4494018554688,
+            440.4524230957031
+          ]
+        },
+        {
+          "text": "Ahora, él reunió a todos los ancianos, y dijo... el obispo dijo: “Edifícame siete altares, y sobre cada altar ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            442.7003479003906,
+            562.4494018554688,
+            452.4421691894531
+          ]
+        },
+        {
+          "text": "ofrece un sacrificio limpio, un becerro. Y también, sobre cada altar, un carnero”. Un carnero hablaba de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            454.6903381347656,
+            562.4494018554688,
+            464.4321594238281
+          ]
+        },
+        {
+          "text": "Cristo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            466.6803283691406,
+            68.19265747070312,
+            476.4221496582031
+          ]
+        },
+        {
+          "text": "27",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            486.9132385253906,
+            47.95968246459961,
+            496.6550598144531
+          ]
+        },
+        {
+          "text": "Ahora, aquí están ellos en la montaña, mirando a ese grupo de fanáticos. Ahora, dijeron: “No son ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            486.9132385253906,
+            562.4494018554688,
+            496.6550598144531
+          ]
+        },
+        {
+          "text": "buenos. Ahora, pastor, ahora detenlos, maldícelos”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            498.9032287597656,
+            290.00616455078125,
+            508.6450500488281
+          ]
+        },
+        {
+          "text": "“Muy bien. Oh, ahora soy un estudiante de teología. Sé lo que Dios requiere. Entonces, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            519.1361694335938,
+            562.4494018554688,
+            528.8779907226562
+          ]
+        },
+        {
+          "text": "constrúyanme siete altares”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            531.1261596679688,
+            177.60064697265625,
+            540.8679809570312
+          ]
+        },
+        {
+          "text": "Eso es lo que Dios requirió. Eso es lo que Dios tenía allí también, en Israel. Él dijo: “Siete sacrificios ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            550.6098022460938,
+            562.4494018554688,
+            560.3516235351562
+          ]
+        },
+        {
+          "text": "limpios”. Ellos tenían siete también. “Siete corderos”. Ellos también tenían siete corderos. ¿Ven lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            562.5995483398438,
+            562.4494018554688,
+            572.3413696289062
+          ]
+        },
+        {
+          "text": "fundamentales que son? Ambos creyeron la Biblia. Ambos hicieron lo que Dios dijo. Ahora, el profeta salió ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            574.5895385742188,
+            562.4494018554688,
+            584.3313598632812
+          ]
+        },
+        {
+          "text": "a maldecir a esa gente, y cuando lo hizo, Dios lo condenó.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            586.5795288085938,
+            326.7252197265625,
+            596.3213500976562
+          ]
+        },
+        {
+          "text": "Ahora, ¿cuál fue la diferencia? Si ambos predican la Biblia, si ambos construyen iglesias, ¿cuál fue la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            606.8124389648438,
+            562.4494018554688,
+            616.5542602539062
+          ]
+        },
+        {
+          "text": "diferencia en ellos? Porque, en Israel, Dios los estaba vindicando. Él tenía una Columna de Fuego sobre ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            618.8024291992188,
+            562.4494018554688,
+            628.5442504882812
+          ]
+        },
+        {
+          "text": "ellos. Estaban practicando la sanidad Divina por una serpiente de bronce. Tenían sanidad y ellos tenían ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            630.7924194335938,
+            562.4494018554688,
+            640.5342407226562
+          ]
+        },
+        {
+          "text": "gozo. Tenían una Roca herida. Tenían un Ángel entre ellos. Estos tenían la Palabra; pero estos tenían la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            642.7821655273438,
+            562.4494018554688,
+            652.5239868164062
+          ]
+        },
+        {
+          "text": "Palabra y un Ángel.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            654.7721557617188,
+            131.88905334472656,
+            664.5139770507812
+          ]
+        },
+        {
+          "text": "28",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            674.2557983398438,
+            47.95968246459961,
+            683.9976196289062
+          ]
+        },
+        {
+          "text": "¿Ven ese espíritu de Caín? ¿Ven el Espíritu de Dios, la diferencia en ellos? Dios vindicando a Su ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            675.0050659179688,
+            562.4494018554688,
+            684.7468872070312
+          ]
+        },
+        {
+          "text": "Iglesia, por señales y maravillas. Cada vez, en cada lugar de la Biblia, cuando Dios entró en Su Iglesia, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            686.9950561523438,
+            562.4494018554688,
+            696.7368774414062
+          ]
+        },
+        {
+          "text": "había señales y maravillas. Hubo un grupo que condenó eso.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            698.9850463867188,
+            335.7178039550781,
+            708.7268676757812
+          ]
+        },
+        {
+          "text": "Ahora noten, ahora él trató de maldecir a Israel, pero Dios dijo: “No maldigas lo que he bendecido”. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            718.4686889648438,
+            562.4494018554688,
+            728.2105102539062
+          ]
+        },
+        {
+          "text": "Dios estaba con Israel ¡Aleluya! Dios todavía está probando Su Iglesia. Cuando Dios está en Su Iglesia, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            730.4584350585938,
+            562.4494018554688,
+            740.2002563476562
+          ]
+        },
+        {
+          "text": "hay sanidad, hay sobrenatural, hay visiones, hay poder, hay gozo, cuando Dios está en Su Iglesia. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            742.4484252929688,
+            562.4494018554688,
+            752.1902465820312
+          ]
+        },
+        {
+          "text": "Cuando los hombres la organizan, Dios se va. ¿Lo ven?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            754.4384155273438,
+            307.2418212890625,
+            764.1802368164062
+          ]
+        },
+        {
+          "text": "Miren esto. Estamos yendo a través del Génesis hasta el Antiguo Testamento.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            774.6713256835938,
+            444.37628173828125,
+            784.4131469726562
+          ]
+        },
+        {
+          "text": "29",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            794.1549682617188,
+            47.95968246459961,
+            803.8967895507812
+          ]
+        },
+        {
+          "text": "Ahora, vayamos al Nuevo Testamento. Ahora estamos en el Nuevo Testamento. Había un Fariseo, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            794.9042358398438,
+            562.4494018554688,
+            804.6460571289062
+          ]
+        },
+        {
+          "text": "muy religioso, grandes maestros. Y Dios envió a Su Hijo. Él era maestro y predicó  el  Evangelio.  Pero  lo",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            806.8942260742188,
+            559.030029296875,
+            816.6360473632812
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "text": "odiaban, como Caín odiaba a Abel. ¿Pero cuál fue la diferencia? Ambos estaban enseñando, pero este ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28605270385742,
+            562.4494018554688,
+            53.027862548828125
+          ]
+        },
+        {
+          "text": "grupo dijo: “Los días de los milagros han pasado”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27604293823242,
+            281.0137634277344,
+            65.01785278320312
+          ]
+        },
+        {
+          "text": "Este grupo de Jesús tenía a Dios con ellos. Tenían sanidad. Tenían milagros. Tenían visiones. Tenían ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            75.50895690917969,
+            562.4494018554688,
+            85.25076293945312
+          ]
+        },
+        {
+          "text": "gozo. Pues, cuando Él entró en el templo, gritaron tan fuerte que los Fariseos dijeron: “Hazlos callar”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            87.49894714355469,
+            539.546142578125,
+            97.24075317382812
+          ]
+        },
+        {
+          "text": "Jesús dijo: “Si ellos callaran, las rocas clamarían”. Algo tiene que suceder cuando el Señor Dios entra ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            106.98258972167969,
+            562.4494018554688,
+            116.72439575195312
+          ]
+        },
+        {
+          "text": "en Su campamento. ¡Aleluya! Dios está aquí. Miren donde se mueve el Espíritu. Es por eso que tenemos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            118.97233581542969,
+            562.4494018554688,
+            128.71414184570312
+          ]
+        },
+        {
+          "text": "persecución, es porque Dios está vindicando que Él está aquí. Aleluya.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            130.9623260498047,
+            386.675048828125,
+            140.70413208007812
+          ]
+        },
+        {
+          "text": "30",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            151.1954803466797,
+            47.95968246459961,
+            160.93728637695312
+          ]
+        },
+        {
+          "text": "Noten, ellos persiguieron a Jesús, se burlaron de Él. El era un profeta. Era más que un profeta. Fue ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            151.1954803466797,
+            562.4494018554688,
+            160.93728637695312
+          ]
+        },
+        {
+          "text": "el Rey de los profetas. El era el Dios de los profetas. Él no era otro sino Dios mismo. Y Él profetizó. Sanó ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            163.1852264404297,
+            562.4494018554688,
+            172.92703247070312
+          ]
+        },
+        {
+          "text": "a los enfermos y afirmó que no hizo nada excepto lo que el Padre le mostró.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            175.1752166748047,
+            413.6524658203125,
+            184.91702270507812
+          ]
+        },
+        {
+          "text": "Un día, cuando lo atraparon, le ataron un trapo alrededor de los ojos y lo golpearon en la cabeza. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            195.4081268310547,
+            562.4494018554688,
+            205.14993286132812
+          ]
+        },
+        {
+          "text": "Dijo: “Ahora, Tú vidente de visiones, dinos quién te golpeó y te creeremos”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            207.3981170654297,
+            412.1535949707031,
+            217.13992309570312
+          ]
+        },
+        {
+          "text": "Jesús dijo: “Dejadlos, ciegos guías de ciegos; y si el ciego guiare al ciego, ¿no caerán en el hoyo?” ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            226.8817596435547,
+            562.4494018554688,
+            236.62356567382812
+          ]
+        },
+        {
+          "text": "Eso es, son religiosos pero niegan el poder.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            238.8717498779297,
+            248.79092407226562,
+            248.61355590820312
+          ]
+        },
+        {
+          "text": "31",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            259.1046447753906,
+            47.95968246459961,
+            268.8464660644531
+          ]
+        },
+        {
+          "text": "Todo el libro del Nuevo Testamento fue de la misma manera. Continuó la iglesia ortodoxa, saliendo del ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            259.1046447753906,
+            562.4494018554688,
+            268.8464660644531
+          ]
+        },
+        {
+          "text": "Génesis, de Caín, a través de Moab, hacia los Fariseos en el Nuevo Testamento.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            271.0946350097656,
+            433.88519287109375,
+            280.8364562988281
+          ]
+        },
+        {
+          "text": "Aquí viene Abel, a través de Moisés, a través de Jesús, viviendo a través de los apóstoles.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            291.3275451660156,
+            508.8222351074219,
+            301.0693664550781
+          ]
+        },
+        {
+          "text": "Cuando Jesús vino, dijo: “Estas cosas que Yo hago, vosotros las haréis, porque voy a tener que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            310.8111877441406,
+            562.4494018554688,
+            320.5530090332031
+          ]
+        },
+        {
+          "text": "morir, pero resucitaré al tercer día. Estaré con vosotros, aun en vosotros, hasta el fin del mundo”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            322.8011779785156,
+            523.060302734375,
+            332.5429992675781
+          ]
+        },
+        {
+          "text": "La Biblia dice: “Jesucristo es el mismo ayer, hoy y por los siglos”. Él era el que estaba en Abel. Él era ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            343.0340881347656,
+            562.4494018554688,
+            352.7759094238281
+          ]
+        },
+        {
+          "text": "el que estaba en Moisés. Él era el que estaba en Su Hijo. Él era el de los apóstoles. Y Él es el que está ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            355.0240783691406,
+            562.4494018554688,
+            364.7658996582031
+          ]
+        },
+        {
+          "text": "aquí esta noche. “El mismo Jesús, ayer, hoy y por los siglos”. Alabado sea Su Nombre. Qué maravilloso. Él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            367.0138244628906,
+            562.4494018554688,
+            376.7556457519531
+          ]
+        },
+        {
+          "text": "está vindicando a Su Iglesia, mostrándose entre Su pueblo, señales y maravillas.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            379.0038146972656,
+            437.6319580078125,
+            388.7456359863281
+          ]
+        },
+        {
+          "text": "Ahí está Caín, viniendo a través de Moab, viniendo a través de los Fariseos, y aquí hoy en forma de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            399.2367248535156,
+            562.4494018554688,
+            408.9785461425781
+          ]
+        },
+        {
+          "text": "religión. Vigilen al gran San Pablo, mirando hacia Zúrich, hasta el fin del mundo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            411.2267150878906,
+            430.1380615234375,
+            420.9685363769531
+          ]
+        },
+        {
+          "text": "32",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            430.7103576660156,
+            47.95968246459961,
+            440.4521789550781
+          ]
+        },
+        {
+          "text": "Ese documento decía que los apóstoles no estaban profetizando. ¿Qué pasa con Pedro, cuando ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            430.7103576660156,
+            562.4494018554688,
+            440.4521789550781
+          ]
+        },
+        {
+          "text": "estaba en la azotea, le sobrevino un éxtasis y tuvo una visión? ¿Qué hay de Pablo, cuando estaba en la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            442.7003479003906,
+            562.4494018554688,
+            452.4421691894531
+          ]
+        },
+        {
+          "text": "isla y él les dijo que no zarparan de Creta? Pero pensaron que ellos sabían mejor. Catorce días y noches, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            454.6900939941406,
+            562.4494018554688,
+            464.4319152832031
+          ]
+        },
+        {
+          "text": "el barco se sacudió, todas las esperanzas de salvarse habían desaparecido.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            466.6800842285156,
+            412.1535949707031,
+            476.4219055175781
+          ]
+        },
+        {
+          "text": "Pablo bajó al mamparo y oró. Salió a la cubierta. La vieja nave seguía abatida. Él dijo: “Tened buen ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            486.9129943847656,
+            562.4494018554688,
+            496.6548156738281
+          ]
+        },
+        {
+          "text": "animo”. Ese pobre hombrecito, con cadenas sobre sus brazos, cadenas sobre sus pies, jalando una gran ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            498.9029846191406,
+            562.4494018554688,
+            508.6448059082031
+          ]
+        },
+        {
+          "text": "pelota detrás de él, por predicar el Evangelio.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            510.8929748535156,
+            262.2796325683594,
+            520.6348266601562
+          ]
+        },
+        {
+          "text": "¿Quién lo puso en esa condición? Los llamados religiosos, los Fariseos. Ellos fueron quienes lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            531.1259155273438,
+            562.4494018554688,
+            540.8677368164062
+          ]
+        },
+        {
+          "text": "hicieron. Pablo salió arrastrando las cadenas y dijo: “Varones, tened buen animo valor, porque anoche ha ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            543.1159057617188,
+            562.4494018554688,
+            552.8577270507812
+          ]
+        },
+        {
+          "text": "estado conmigo el Ángel de Dios y dijo: 'Pablo, no temas, es necesario que compadezcas ante César. Y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            555.1058959960938,
+            562.4494018554688,
+            564.8477172851562
+          ]
+        },
+        {
+          "text": "Dios te ha concedido todos los que navegan contigo'”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            567.0956420898438,
+            305.7430419921875,
+            576.8374633789062
+          ]
+        },
+        {
+          "text": "33",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            586.5792846679688,
+            47.95968246459961,
+            596.3211059570312
+          ]
+        },
+        {
+          "text": "Pablo tuvo una visión. Él estaba en aprietos, no sabía qué camino tomar, y una noche vio una visión. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            586.5792846679688,
+            562.4494018554688,
+            596.3211059570312
+          ]
+        },
+        {
+          "text": "Un hombre parado en Grecia dijo: “Ven a Macedonia”. ¿Es esa la verdad? Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            598.5692749023438,
+            430.8876037597656,
+            608.3110961914062
+          ]
+        },
+        {
+          "text": "Juan, el revelador, el discípulo, el apóstol que Jesús amaba, que se recostaba sobre su pecho, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            618.8021850585938,
+            562.4494018554688,
+            628.5440063476562
+          ]
+        },
+        {
+          "text": "estaba en la isla de Patmos por predicar la Palabra. Salió con este grupo, exiliado por predicar la Palabra. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            630.7921752929688,
+            562.4494018554688,
+            640.5339965820312
+          ]
+        },
+        {
+          "text": "Y el Ángel de Dios vino a él y le mostró todo el libro de Apocalipsis. ¿Es eso correcto? Digan: “Amen”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            642.7821655273438,
+            538.0479736328125,
+            652.5239868164062
+          ]
+        },
+        {
+          "text": "34",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            662.2658081054688,
+            47.95968246459961,
+            672.0076293945312
+          ]
+        },
+        {
+          "text": "¿Qué sucede, hombres? El Evangelio es verdad. Su teología no encaja con eso. La Palabra de Dios ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            663.0150756835938,
+            562.4494018554688,
+            672.7568969726562
+          ]
+        },
+        {
+          "text": "es correcta.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            675.0050659179688,
+            96.66874694824219,
+            684.7468872070312
+          ]
+        },
+        {
+          "text": "Luego, cuando Pablo comenzó a abandonar este mundo (tenga esto en mente), Pablo vio una visión ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            694.4887084960938,
+            562.4494018554688,
+            704.2305297851562
+          ]
+        },
+        {
+          "text": "de los últimos días. Segunda de Timoteo, el tercer capítulo, escuchen, él dijo: “También debes saber ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            706.4784545898438,
+            562.4494018554688,
+            716.2202758789062
+          ]
+        },
+        {
+          "text": "esto...” Estoy citando las Escrituras. “También debes saber esto: que en los prósperos días vendrán ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            718.4684448242188,
+            562.4494018554688,
+            728.2102661132812
+          ]
+        },
+        {
+          "text": "tiempos peligrosos”. ¿Tenemos tiempos peligrosos? “Los hombres serán amadores de sí mismos. Soy el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            730.4584350585938,
+            562.4494018554688,
+            740.2002563476562
+          ]
+        },
+        {
+          "text": "Doctor Jones´. Amadores de... vanagloriosos, soberbios, blasfemos, impetuosos, infatuados”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            742.4481811523438,
+            498.3306884765625,
+            752.1900024414062
+          ]
+        },
+        {
+          "text": "Ud. dice: “Bueno, Hermano Branham, ellos son infieles”. No, no. No, ellos son personas religiosas.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            762.6813354492188,
+            536.5494995117188,
+            772.4231567382812
+          ]
+        },
+        {
+          "text": "Miren el siguiente verso. “Impetuosos, infatuados, que tendrán apariencia de piedad”, (como aquí, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            782.1649780273438,
+            562.4494018554688,
+            791.9067993164062
+          ]
+        },
+        {
+          "text": "Caín) ...que tendrán apariencia de piedad, pero negarán la eficacia de ella; a estos evita“. Eso es lo que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            794.1547241210938,
+            562.4494018554688,
+            803.8965454101562
+          ]
+        },
+        {
+          "text": "dijo Pablo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            806.1447143554688,
+            86.92692565917969,
+            815.8865356445312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "text": "35",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28507614135742,
+            47.95968246459961,
+            53.026885986328125
+          ]
+        },
+        {
+          "text": "Segunda de Timoteo, tercer capítulo, dijo, en los últimos días la iglesia sería formal, vaya a la iglesia, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28507614135742,
+            562.4494018554688,
+            53.026885986328125
+          ]
+        },
+        {
+          "text": "diga el credo de los apóstoles (como lo llaman). No hay tal cosa en la Biblia como el credo de los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27506637573242,
+            562.4494018554688,
+            65.01687622070312
+          ]
+        },
+        {
+          "text": "apóstoles. Eso es un montón de dogmas. No hay tal cosa en la Biblia. Pero, oh, adoramos esos credos. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            67.26506042480469,
+            562.4494018554688,
+            77.00686645507812
+          ]
+        },
+        {
+          "text": "Pero tendrán apariencia de piedad, pero negaran el poder de Dios. Él dijo: “A estos evita”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            79.25505065917969,
+            482.59405517578125,
+            88.99685668945312
+          ]
+        },
+        {
+          "text": "Estoy citando las Escrituras. Él dijo: “Porque de estos son los que se meten en las casas y llevan ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            99.48796081542969,
+            562.4494018554688,
+            109.22976684570312
+          ]
+        },
+        {
+          "text": "cautivas alas mujercillas cargadas de pecados, arrastradas por diversas concupiscencias. Estas siempre ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            111.47795104980469,
+            562.4494018554688,
+            121.21975708007812
+          ]
+        },
+        {
+          "text": "están aprendiendo, y nunca pueden llegar al conocimiento de la verdad”. Eso es lo que Dios dijo. Eso es ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            123.46769714355469,
+            562.4494018554688,
+            133.20950317382812
+          ]
+        },
+        {
+          "text": "lo que tenemos. Las Escrituras no se pueden quebrantar.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            135.4576873779297,
+            318.4823303222656,
+            145.19949340820312
+          ]
+        },
+        {
+          "text": "Tenemos la iglesia formal, carnal. Obtuvimos la iglesia espiritual, nacida de nuevo, con señales y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            154.9413299560547,
+            562.4494018554688,
+            164.68313598632812
+          ]
+        },
+        {
+          "text": "maravillas, por revelación espiritual, simplemente igual como fue en el jardín del Edén. El espíritu de Caín ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            166.9313201904297,
+            562.4494018554688,
+            176.67312622070312
+          ]
+        },
+        {
+          "text": "está aquí; el Espíritu de Cristo está aquí. Ud. tiene que hacer su elección.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            178.9210662841797,
+            403.91021728515625,
+            188.66287231445312
+          ]
+        },
+        {
+          "text": "36",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            199.1542205810547,
+            47.95968246459961,
+            208.89602661132812
+          ]
+        },
+        {
+          "text": "No hace mucho, estaba llegando a una montaña. Preparándonos para terminar ahora, ya que tengo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            199.1542205810547,
+            562.4494018554688,
+            208.89602661132812
+          ]
+        },
+        {
+          "text": "la línea de oración. Había estado cabalgando, persiguiendo a un oso, y llegó la noche. Y me bajé de mi ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            211.1439666748047,
+            562.4494018554688,
+            220.88577270507812
+          ]
+        },
+        {
+          "text": "caballo y comencé a guiarlo. Y entré en un lugar donde el fuego había quemado un gran matorral.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            223.1339569091797,
+            521.5621337890625,
+            232.87576293945312
+          ]
+        },
+        {
+          "text": "Los grandes árboles viejos estaban parados allí, toda la corteza quemada de ellos. La luna había ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            243.3668670654297,
+            562.4494018554688,
+            253.10867309570312
+          ]
+        },
+        {
+          "text": "salido y el brillo contra ellos. Se veía horrible. Parecía un cementerio. El viento soplaba, y se volvieron ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            255.3568572998047,
+            562.4494018554688,
+            265.0986633300781
+          ]
+        },
+        {
+          "text": "tan lúgubres mientras el viento que soplaba entre estos árboles. Árboles viejos y rígidos, y el viento ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            267.3468322753906,
+            562.4494018554688,
+            277.0886535644531
+          ]
+        },
+        {
+          "text": "soplando, “Ummm”, yendo y viniendo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            279.3368225097656,
+            221.0642547607422,
+            289.0786437988281
+          ]
+        },
+        {
+          "text": "Y el Señor me dijo: “Detente. Quiero mostrarte”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            298.8204650878906,
+            296.00128173828125,
+            308.5622863769531
+          ]
+        },
+        {
+          "text": "Y lo hice. Y miré a los árboles. Y pensé: Bueno, ¿para qué sopla el viento? Bueno, ¿qué hace que los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            319.0533752441406,
+            562.4494018554688,
+            328.7951965332031
+          ]
+        },
+        {
+          "text": "árboles actúen así?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            331.0433654785156,
+            131.8891143798828,
+            340.7851867675781
+          ]
+        },
+        {
+          "text": "37",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            350.5267639160156,
+            47.95968246459961,
+            360.2685852050781
+          ]
+        },
+        {
+          "text": "Y Él me dijo: “Esos árboles representan las iglesias de este día. Grandes torres altas. Ellos dicen: 'Sí, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            351.2762756347656,
+            562.4494018554688,
+            361.0180969238281
+          ]
+        },
+        {
+          "text": "una vez fuimos grandes iglesias', pero no tienen vida en ellas. Lo que la oruga dejó, el revoltón lo comió. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            363.2662658691406,
+            562.4494018554688,
+            373.0080871582031
+          ]
+        },
+        {
+          "text": "Lo que dejó el revoltón, lo comió la langosta”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            375.2560119628906,
+            262.2796936035156,
+            384.9978332519531
+          ]
+        },
+        {
+          "text": "Y pensé, “Bueno, ¿qué es esto?” Yo dije: “¿Qué significa el viento?”Él dijo: “Ese es el Espíritu Santo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            394.7396545410156,
+            562.4494018554688,
+            404.4814758300781
+          ]
+        },
+        {
+          "text": "que vino en Pentecostés, viene como un fuerte viento”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            406.7296447753906,
+            313.2366638183594,
+            416.4714660644531
+          ]
+        },
+        {
+          "text": "Y pensé, ¿Para qué está soplando contra los árboles? Y seguían haciendo un ruido lugubre [triste, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            426.9625549316406,
+            562.4494018554688,
+            436.7043762207031
+          ]
+        },
+        {
+          "text": "aflijido, dolorido...Trad.].",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            438.9525451660156,
+            157.3677978515625,
+            448.6943664550781
+          ]
+        },
+        {
+          "text": "38",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            458.4361877441406,
+            47.95968246459961,
+            468.1780090332031
+          ]
+        },
+        {
+          "text": "Él dijo: “Sí, una vez fueron grandes iglesias. Pero lo que dejó los Luteranos lo comió los Calvinistas. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            459.1854553222656,
+            562.4494018554688,
+            468.9272766113281
+          ]
+        },
+        {
+          "text": "Lo que dejó los Calvinista, lo comió los Anglicanos. Y lo que dejó los Anglicanos, los Metodistas se lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            471.1754455566406,
+            562.4494018554688,
+            480.9172668457031
+          ]
+        },
+        {
+          "text": "comió. Lo que los Metodistas dejó, los Bautistas lo comió”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            483.1653137207031,
+            325.97613525390625,
+            492.9071350097656
+          ]
+        },
+        {
+          "text": "Ellos sacaron toda la alegría de la iglesia, le enseñaron toda la Vida fuera de ello y dijeron: “Los días ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            502.6489562988281,
+            562.4494018554688,
+            512.3908081054688
+          ]
+        },
+        {
+          "text": "de los milagros pasaron”. ¿Qué les queda? Una gran torre grande y vieja. Y cada vez que el Espíritu ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            514.6389770507812,
+            562.4494018554688,
+            524.3807983398438
+          ]
+        },
+        {
+          "text": "Santo desciende, dicen: “Oooh, no vayan a esa cosa, porque los días de los milagros han pasado”. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            526.6288452148438,
+            562.4494018554688,
+            536.3706665039062
+          ]
+        },
+        {
+          "text": "Miren, ellos están muertos. No pueden inclinarse; no tienen Vida en ellos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            538.6187133789062,
+            400.16357421875,
+            548.3605346679688
+          ]
+        },
+        {
+          "text": "Le dije: “Señor, bien, ¿para qué envías el viento?”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            558.8517456054688,
+            303.4949035644531,
+            568.5935668945312
+          ]
+        },
+        {
+          "text": "Pero Él dijo: “Recuerda lo que Joel dijo: 'Yo restituiré”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            579.0847778320312,
+            323.72796630859375,
+            588.8265991210938
+          ]
+        },
+        {
+          "text": "39",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            598.5684204101562,
+            47.95968246459961,
+            608.3102416992188
+          ]
+        },
+        {
+          "text": "Luego miré hacia abajo, y aquí había un montón de pequeños arbustos, de esta altura. Cuando el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            598.5684204101562,
+            562.4494018554688,
+            608.3102416992188
+          ]
+        },
+        {
+          "text": "viento los golpeó, simplemente brincaron, simplemente teniendo un gran tiempo, glorificando a Dios. Pero ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            610.5582885742188,
+            562.4494018554688,
+            620.3001098632812
+          ]
+        },
+        {
+          "text": "estos grandes y rígidos dijeron: “Oooh”. Yo dije: “Qué cuadro. Eso es verdad.”",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            622.5481567382812,
+            422.64459228515625,
+            632.2899780273438
+          ]
+        },
+        {
+          "text": "Y pensé, Bueno, ¿para qué Él está sacudiendo los árboles de todos modos? ¿Qué les haces ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            642.7811889648438,
+            562.4494018554688,
+            652.5230102539062
+          ]
+        },
+        {
+          "text": "arbolitos?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            654.7710571289062,
+            83.18003845214844,
+            664.5128784179688
+          ]
+        },
+        {
+          "text": "Él dijo: “Estoy levantando otra iglesia. Ellos lo tenían, pero todos los parásitos lo han comido con su ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            675.0040893554688,
+            562.4494018554688,
+            684.7459106445312
+          ]
+        },
+        {
+          "text": "teología. Pero Yo levantaré otra. (Aleluya) Traeré otra que se inclinará ante Mi Espíritu”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            686.9940795898438,
+            472.10296630859375,
+            696.7359008789062
+          ]
+        },
+        {
+          "text": "Y me pregunto qué hace que los arbolitos se inclinen entonces, cuando el viento los golpea. Parecía ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            706.4776000976562,
+            562.4494018554688,
+            716.2194213867188
+          ]
+        },
+        {
+          "text": "una buena reunión pentecostal. Parecía flexible, sacudido por el viento, regocijándose, aceptando el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            718.4675903320312,
+            562.4494018554688,
+            728.2094116210938
+          ]
+        },
+        {
+          "text": "Espíritu, teniendo un momento maravilloso. Y pensé, ¿por qué los sacudes?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            730.4574584960938,
+            408.4064025878906,
+            740.1992797851562
+          ]
+        },
+        {
+          "text": "40",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            749.9411010742188,
+            47.95968246459961,
+            759.6829223632812
+          ]
+        },
+        {
+          "text": "Él dijo: “Cada vez que sacuden, cavan y se agarran mejor, las raíces se profundizan. El viento ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            750.6904907226562,
+            562.4494018554688,
+            760.4323120117188
+          ]
+        },
+        {
+          "text": "sacude el árbol para hacerlo cavar más profundo, para hacer un mejor árbol”. ¡Aleluya!",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            762.6803588867188,
+            466.10821533203125,
+            772.4221801757812
+          ]
+        },
+        {
+          "text": "Eso es lo que necesitamos esta noche, es una reunión del Espíritu Santo chapada a la antigua, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            782.1640014648438,
+            562.4494018554688,
+            791.9058227539062
+          ]
+        },
+        {
+          "text": "enviada por Dios. Eso es lo que Suiza necesita, lo que Alemania necesita. Eso es lo que todo el mundo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            794.1539916992188,
+            562.4494018554688,
+            803.8958129882812
+          ]
+        },
+        {
+          "text": "necesita.  Dios  tiene  a  Su  pueblo.  Dios  tiene  Su  Espíritu  aquí.  Solo  suéltese,  y  seamos  flexibles,  y  el",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            806.1438598632812,
+            559.0299682617188,
+            815.8856811523438
+          ]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "text": "Espíritu Santo se lo mostrará. Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28507614135742,
+            217.3173828125,
+            53.026885986328125
+          ]
+        },
+        {
+          "text": "“Yo restauraré, dice el Señor, todos los días pasados. Lo que ellos eran en Pentecostés, eso es lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            63.51798629760742,
+            562.4494018554688,
+            73.25979614257812
+          ]
+        },
+        {
+          "text": "que son hoy. El mismo Cristo, el mismo poder y todo lo que era entonces, Dios lo está restaurando hoy.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            75.50798034667969,
+            550.0380249023438,
+            85.24978637695312
+          ]
+        },
+        {
+          "text": "Hijitos, en unas horas, si Dios quiere, volaré a través del mar. Si nunca les vuelvo a ver en esta vida, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            94.99162292480469,
+            562.4494018554688,
+            104.73342895507812
+          ]
+        },
+        {
+          "text": "les he dicho la verdad. ¿Ven lo que hace lo sobrenatural? Comienza en Génesis y termina en Apocalipsis.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            106.98149108886719,
+            553.7841186523438,
+            116.72329711914062
+          ]
+        },
+        {
+          "text": "41",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            127.21452331542969,
+            47.95968246459961,
+            136.95632934570312
+          ]
+        },
+        {
+          "text": "¿Ven lo que hace la formalidad, grandes iglesias y mentes carnales, citando las Escrituras? ¿Sabían ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            127.21452331542969,
+            562.4494018554688,
+            136.95632934570312
+          ]
+        },
+        {
+          "text": "que Satanás cita las Escrituras? Pues, tuvo un debate con Jesús. Y él citó las Escrituras. Él dijo: ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            139.2043914794922,
+            562.4494018554688,
+            148.94619750976562
+          ]
+        },
+        {
+          "text": "“Porque escrito está, 'A Sus ángeles mandará acerca de ti. Si tu pie tropieza en piedra, Él te sostendrá'. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            151.1942596435547,
+            562.4494018554688,
+            160.93606567382812
+          ]
+        },
+        {
+          "text": "Ahora, si eres el Cristo, eso es lo que la Biblia dice que harías, déjame ver que lo haces”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            163.1842498779297,
+            476.5992431640625,
+            172.92605590820312
+          ]
+        },
+        {
+          "text": "Jesús dijo: “Escrito está también: 'No tentarás al Señor Tu Dios'”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            183.4172821044922,
+            379.9305419921875,
+            193.15908813476562
+          ]
+        },
+        {
+          "text": "Ese viejo espíritu del diablo en ellos, la gente de la iglesia, llamados Fariseos, Saduceos, dijeron: “Si ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            202.9008026123047,
+            562.4494018554688,
+            212.64260864257812
+          ]
+        },
+        {
+          "text": "Tú eres el Hijo de Dios, bájate de la cruz. Haz un milagro delante de nosotros y déjanos verte hacerlo, y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            214.8907928466797,
+            562.4494018554688,
+            224.63259887695312
+          ]
+        },
+        {
+          "text": "te recibiremos”. ¿Ven qué clase de espíritu es ese? ¿Ven de dónde viene? Manténganse alejado de eso.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            226.8806610107422,
+            547.7892456054688,
+            236.62246704101562
+          ]
+        },
+        {
+          "text": "Nazcan de nuevo, llénense del Espíritu Santo, para que el Espíritu Santo pueda hablarles. Amén. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            247.1136932373047,
+            562.4494018554688,
+            256.8554992675781
+          ]
+        },
+        {
+          "text": "Oremos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            259.1035461425781,
+            76.43573760986328,
+            268.8453674316406
+          ]
+        },
+        {
+          "text": "42",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            278.5871887207031,
+            47.95968246459961,
+            288.3290100097656
+          ]
+        },
+        {
+          "text": "Nuestro Padre celestial, oh Dios, no sé más que decir. Solo soy un hombre, Tu pueblo es mucho. He ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            279.3365783691406,
+            562.4494018554688,
+            289.0783996582031
+          ]
+        },
+        {
+          "text": "hecho todo lo posible, en un cuerpo cansado y cansado, para llevar el Mensaje a la gente. Tú lo sabes, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            291.3264465332031,
+            562.4494018554688,
+            301.0682678222656
+          ]
+        },
+        {
+          "text": "Señor, no tengo nada en contra de ninguna iglesia. Pero, oh Dios, soy celoso de Tu Palabra. Amo a Jesús ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            303.3164367675781,
+            562.4494018554688,
+            313.0582580566406
+          ]
+        },
+        {
+          "text": "y quiero que todos lo amen. Y quiero que todos nazcan de nuevo, la gente encantadora, para que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            315.3063049316406,
+            562.4494018554688,
+            325.0481262207031
+          ]
+        },
+        {
+          "text": "puedan conocerte en paz.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            327.2962951660156,
+            166.36007690429688,
+            337.0381164550781
+          ]
+        },
+        {
+          "text": "Oh Dios, te encomiendo todo esto. E incluso aquellas iglesias que han entendido mal Su Mensaje; ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            346.7798156738281,
+            562.4494018554688,
+            356.5216369628906
+          ]
+        },
+        {
+          "text": "Dios, perdónalos. Concédelo, Señor. Y que tengan grandes reuniones de oración, y que brote un gran ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            358.7698059082031,
+            562.4494018554688,
+            368.5116271972656
+          ]
+        },
+        {
+          "text": "avivamiento espiritual, y que haya un avivamiento chapado a la antigua en toda esta nación, y traiga ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            370.7596740722656,
+            562.4494018554688,
+            380.5014953613281
+          ]
+        },
+        {
+          "text": "personas a Cristo. Porque lo pedimos en el Nombre de Jesús.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            382.7496643066406,
+            337.2164001464844,
+            392.4914855957031
+          ]
+        },
+        {
+          "text": "43",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            402.9825744628906,
+            47.95968246459961,
+            412.7243957519531
+          ]
+        },
+        {
+          "text": "Ahora, con las cabezas inclinadas, y cada persona aquí orando. He sido muy exacto esta noche, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            402.9825744628906,
+            562.4494018554688,
+            412.7243957519531
+          ]
+        },
+        {
+          "text": "pero les he dicho la verdad. Dios lo sabe. Y si Ud. es algo menos que un nacido de nuevo, salga de ese ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            414.9725646972656,
+            562.4494018554688,
+            424.7143859863281
+          ]
+        },
+        {
+          "text": "formalismo y entre en Cristo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            426.9624328613281,
+            179.0994110107422,
+            436.7042541503906
+          ]
+        },
+        {
+          "text": "Conozco a cada uno de Uds., son seres mortales. Y en el día del juicio, tendré que reunirme con ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            447.1954650878906,
+            562.4494018554688,
+            456.9372863769531
+          ]
+        },
+        {
+          "text": "cada uno de Uds. y dar cuenta de mi Mensaje. Y recuerden, les estoy diciendo: “El que no naciere de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            459.1853332519531,
+            562.4494018554688,
+            468.9271545410156
+          ]
+        },
+        {
+          "text": "nuevo, no puede ver el Reino de Dios”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            471.1753234863281,
+            227.05923461914062,
+            480.9171447753906
+          ]
+        },
+        {
+          "text": "¿Cuántos aquí quisieran aceptar a Cristo en este momento, y creen que Dios está aquí? Y he ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            490.6588439941406,
+            562.4494018554688,
+            500.4006652832031
+          ]
+        },
+        {
+          "text": "predicado este Mensaje sobre la base de la Palabra, del Espíritu Santo y la Sangre derramada de Jesús ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            502.6488342285156,
+            562.4494018554688,
+            512.3906860351562
+          ]
+        },
+        {
+          "text": "¿Quieren que Jesús les recuerde y les dé el nuevo nacimiento? ¿Cuántos quiere eso? Levanten su mano, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            514.6387329101562,
+            562.4494018554688,
+            524.3805541992188
+          ]
+        },
+        {
+          "text": "con la cabeza... Por todo el edificio.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            526.6287231445312,
+            215.8184814453125,
+            536.3705444335938
+          ]
+        },
+        {
+          "text": "44",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            546.8616333007812,
+            47.95968246459961,
+            556.6034545898438
+          ]
+        },
+        {
+          "text": "Todos los que quieran el nuevo nacimiento, levante la mano. Vaya, allá en los balcones a mi ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            546.8616333007812,
+            562.4494018554688,
+            556.6034545898438
+          ]
+        },
+        {
+          "text": "izquierda, que Dios les bendiga. Eso es maravilloso. Simplemente levanten la mano; Él lo verá. Ahora, a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            558.8516235351562,
+            562.4494018554688,
+            568.5934448242188
+          ]
+        },
+        {
+          "text": "mi derecha, levanta tu mano a Dios. No- y diga- y diga: “Quiero aceptar a Cristo ahora”. Dios le bendiga. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            570.8414916992188,
+            562.4494018554688,
+            580.5833129882812
+          ]
+        },
+        {
+          "text": "Dios le bendiga. Eso es maravilloso, maravilloso. Así es.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            582.8314819335938,
+            309.4898681640625,
+            592.5733032226562
+          ]
+        },
+        {
+          "text": "Ahora, todos, todos juntos, que quieran creer en el Señor Jesucristo, levanten la mano de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            603.0643920898438,
+            562.4494018554688,
+            612.8062133789062
+          ]
+        },
+        {
+          "text": "inmediato. Levanten la mano de inmediato. Le daremos la alabanza a Dios. Eso es maravilloso. Eso es ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            615.0543823242188,
+            562.4494018554688,
+            624.7962036132812
+          ]
+        },
+        {
+          "text": "maravilloso. Alabado sea el Señor. Alabado sea el Señor. Eso esta muy bien.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            627.0442504882812,
+            412.1536865234375,
+            636.7860717773438
+          ]
+        },
+        {
+          "text": "Ahora, ahora, inclinen sus cabezas otra vez.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            646.5278930664062,
+            277.26715087890625,
+            656.2697143554688
+          ]
+        },
+        {
+          "text": "Oh Dios, por favor dales a estas personas Tu Espíritu. Y que Tus misericordias sean con ellos. Los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            666.7608642578125,
+            562.4494018554688,
+            676.502685546875
+          ]
+        },
+        {
+          "text": "entrego en Tus manos. Oh Dios, que puedan discernir lo correcto de lo incorrecto. Que vivan vidas ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            678.7507934570312,
+            562.4494018554688,
+            688.4926147460938
+          ]
+        },
+        {
+          "text": "felices, victoriosas. Y que Tú camines con ellos, los bendigas y les des lo mejor de la tierra. Porque lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            690.74072265625,
+            562.4494018554688,
+            700.4825439453125
+          ]
+        },
+        {
+          "text": "pido en el Nombre de Jesús.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            702.7306518554688,
+            174.6031036376953,
+            712.4724731445312
+          ]
+        },
+        {
+          "text": "45",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            722.2142333984375,
+            47.95968246459961,
+            731.9560546875
+          ]
+        },
+        {
+          "text": "Y que podamos encontrarnos con todos en Tu... Y una gran noche cuando la vida haya terminado, y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            722.963623046875,
+            562.4494018554688,
+            732.7054443359375
+          ]
+        },
+        {
+          "text": "la gran cena de bodas esté lista. Miles de millas recorrerán esa gran mesa. Que, Señor, déjame sentarme ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            734.9535522460938,
+            562.4494018554688,
+            744.6953735351562
+          ]
+        },
+        {
+          "text": "al otro lado de la mesa. Cuando nos veamos, unas lágrimas correrán por nuestras mejillas. Pero el gran ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            746.9434814453125,
+            562.4494018554688,
+            756.685302734375
+          ]
+        },
+        {
+          "text": "Rey, Jesús, saldrá y enjugará todas las lágrimas de nuestros ojos, dirá: “No lloréis. Todo ha terminado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            758.9334106445312,
+            562.4494018554688,
+            768.6752319335938
+          ]
+        },
+        {
+          "text": "ahora. Entra en la Vida. Hasta ese momento, que el Espíritu Santo los guíe. En el Nombre de Jesús. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            770.9232788085938,
+            562.4494018554688,
+            780.6651000976562
+          ]
+        },
+        {
+          "text": "Amén... [Espacio en blanco en la cinta]...",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            782.9132080078125,
+            243.5452880859375,
+            792.655029296875
+          ]
+        },
+        {
+          "text": "...Que Su Espíritu descienda  sobre  todos,  que  vivan  una  vida  buena,  vidas  santas  y  pacificas.  La",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            802.3968505859375,
+            559.030029296875,
+            812.138671875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "text": "razón por la que dije lo que hice esta noche fue para mostrarles, no en una pequeña Escritura, como el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28464889526367,
+            562.4494018554688,
+            53.026458740234375
+          ]
+        },
+        {
+          "text": "diablo trata de citar, sino que la Palabra de Dios va por toda la Biblia, exactamente lo misma. Todo los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27457809448242,
+            562.4494018554688,
+            65.01638793945312
+          ]
+        },
+        {
+          "text": "que entienden y creen dice: “Amén”. Gracias. Que el Señor los bendiga.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            67.26445007324219,
+            391.17108154296875,
+            77.00625610351562
+          ]
+        },
+        {
+          "text": "Ahora nos prepararemos para llamar a la línea de oración. Solo... Ahora, sean realmente reverentes. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            87.49748229980469,
+            562.4494018554688,
+            97.23928833007812
+          ]
+        },
+        {
+          "text": "No se muevan. Porque, recuerden, los espíritus malignos van de uno a otro. Uds. saben eso. Ahora, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            99.48741149902344,
+            562.4494018554688,
+            109.22921752929688
+          ]
+        },
+        {
+          "text": "estemos en oración. Ahora, quiero que cada uno de Uds. sea sanado esta noche. Ahora, cómo voy a ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            111.47727966308594,
+            562.4494018554688,
+            121.21908569335938
+          ]
+        },
+        {
+          "text": "llegar a todos Uds.; no lo sé. ¿Cuantos aquí quieren ser sanados? Levanten la mano. Bueno, hay ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            123.46720886230469,
+            562.4494018554688,
+            133.20901489257812
+          ]
+        },
+        {
+          "text": "alrededor de ocho mil. ¿Ven lo que quiero decir?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            135.45713806152344,
+            272.770751953125,
+            145.19894409179688
+          ]
+        },
+        {
+          "text": "46",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            154.94078063964844,
+            47.95968246459961,
+            164.68258666992188
+          ]
+        },
+        {
+          "text": "Ahora, este viaje por aquí, he tratado de difundir la Palabra. Cuando regrese de nuevo, será más ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            154.94078063964844,
+            562.4494018554688,
+            164.68258666992188
+          ]
+        },
+        {
+          "text": "sobre la sanidad. Ahora, si han... si he hallado gracia en su vista, por la Palabra de Dios, ese es mi único ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            166.9307098388672,
+            562.4494018554688,
+            176.67251586914062
+          ]
+        },
+        {
+          "text": "libro de texto, todo lo que tengo. Y si Dios ha probado que está aquí, entonces deben escuchar mis ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            178.9205780029297,
+            562.4494018554688,
+            188.66238403320312
+          ]
+        },
+        {
+          "text": "palabras.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            190.91050720214844,
+            80.93199920654297,
+            200.65231323242188
+          ]
+        },
+        {
+          "text": "Ahora a Uds. por aquí, los lisiados y los afligidos y... Miren hacia aquí. Ahora, crean con todo su ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            211.14353942871094,
+            562.4494018554688,
+            220.88534545898438
+          ]
+        },
+        {
+          "text": "corazón. Supongo que no se puede hacer nada más por Uds. en la línea médica. Esto ha sido....",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            223.13340759277344,
+            514.0675048828125,
+            232.87521362304688
+          ]
+        }
+      ]
+    }
+  ]
+}

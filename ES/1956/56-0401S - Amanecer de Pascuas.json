@@ -1,0 +1,758 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "text": "Amanecer de Pascuas",
+          "font": "Verdana",
+          "size": 14.9874,
+          "flags": 4,
+          "bbox": [
+            216.5679168701172,
+            21.917781829833984,
+            379.1811218261719,
+            36.905181884765625
+          ]
+        },
+        {
+          "text": "Jeffersonville, IN, EE. UU.",
+          "font": "Verdana",
+          "size": 11.24055004119873,
+          "flags": 4,
+          "bbox": [
+            227.8084716796875,
+            39.1069450378418,
+            367.1913757324219,
+            50.347496032714844
+          ]
+        },
+        {
+          "text": "1 de Abril de 1956",
+          "font": "Verdana",
+          "size": 11.24055004119873,
+          "flags": 4,
+          "bbox": [
+            246.542724609375,
+            52.5955924987793,
+            349.2063903808594,
+            63.836143493652344
+          ]
+        },
+        {
+          "text": "1",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            74.00907897949219,
+            42.15580749511719,
+            83.75088500976562
+          ]
+        },
+        {
+          "text": "... sembrar en lágrimas, brotar en alegría. Amén. Oh, porque yo vivo, ustedes también vivirán. Oh ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            74.00907897949219,
+            562.4494018554688,
+            83.75088500976562
+          ]
+        },
+        {
+          "text": "Dios mío, si los santos del Antiguo Testamento pudieran pensar eso, ¿qué deberíamos pensar esta ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            85.99894714355469,
+            562.4494018554688,
+            95.74075317382812
+          ]
+        },
+        {
+          "text": "mañana, después de mil novecientos años de ver el sufrimiento y las aflicciones y demás? sabiendo que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            97.98893737792969,
+            562.4494018554688,
+            107.73074340820312
+          ]
+        },
+        {
+          "text": "estamos en la puerta final de la resurrección. Amén. La iglesia se ha movido hasta la hora en que la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            109.97880554199219,
+            562.4494018554688,
+            119.72061157226562
+          ]
+        },
+        {
+          "text": "resurrección puede venir en cualquier momento. Y estoy pensando qué significaría para nosotros en ese ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            121.96879577636719,
+            562.4494018554688,
+            131.71060180664062
+          ]
+        },
+        {
+          "text": "día, los creyentes, qué significará en ese día.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            133.9586639404297,
+            261.5301208496094,
+            143.70046997070312
+          ]
+        },
+        {
+          "text": "Puedo ver esa madrugada cuando Marta y María salieron a la tumba. Venían por la ladera de la colina ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            154.1916961669922,
+            562.4494018554688,
+            163.93350219726562
+          ]
+        },
+        {
+          "text": "después de una noche... Piense en el corazón de esa pobre madre. Su bebé todo el tiempo, cuando ella ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            166.1815643310547,
+            562.4494018554688,
+            175.92337036132812
+          ]
+        },
+        {
+          "text": "era, cuando nació, dijeron que era un niño ilegítimo, que no pertenecía absolutamente a Joseph, y que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            178.1715545654297,
+            562.4494018554688,
+            187.91336059570312
+          ]
+        },
+        {
+          "text": "era, o era, o era de Joseph, y ellos eran ... El bebé nació del santo matrimonio. Había tenido que pasar ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            190.1614227294922,
+            562.4494018554688,
+            199.90322875976562
+          ]
+        },
+        {
+          "text": "por todo eso, y el en… piensa en su bebé, y cómo había sido rechazado, despreciado y escupido, pero él ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            202.1512908935547,
+            562.4494018554688,
+            211.89309692382812
+          ]
+        },
+        {
+          "text": "lo reclamó. Y ella de alguna manera con un corazón tembloroso, dijo: “Dios me trajo a ese bebé, ¿cómo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            214.1412811279297,
+            562.4494018554688,
+            223.88308715820312
+          ]
+        },
+        {
+          "text": "podría ser?” Al verlo allí en esa gran hora crucial.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            226.1311492919922,
+            278.7658996582031,
+            235.87295532226562
+          ]
+        },
+        {
+          "text": "Pensó seguramente, cuando fueron a ponerle una corona de espinas en la cabeza, y lo golpearon ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            245.6147918701172,
+            562.4494018554688,
+            255.35659790039062
+          ]
+        },
+        {
+          "text": "hasta que la Sangre apareció por su espalda, lo desvistieron de arriba abajo y todas estas cosas; ella ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            257.6047668457031,
+            562.4494018554688,
+            267.3465881347656
+          ]
+        },
+        {
+          "text": "pensó seguramente que en cualquier momento Él arrojará esa cruz y se dará la vuelta, golpeará Su pie ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            269.5946350097656,
+            562.4494018554688,
+            279.3364562988281
+          ]
+        },
+        {
+          "text": "en el suelo, y la tierra temblará de un lado a otro, y proclamará quién Él fue. Pero había muerto allá, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            281.5845031738281,
+            562.4494018554688,
+            291.3263244628906
+          ]
+        },
+        {
+          "text": "como un malhechor derrotado y pobre colgado en la cruz.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            293.5744934082031,
+            322.9785461425781,
+            303.3163146972656
+          ]
+        },
+        {
+          "text": "Había muerto en desgracia. Ves la imagen, por supuesto, con la influencia que lo rodea, eso estaba ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            313.8074035644531,
+            562.4494018554688,
+            323.5492248535156
+          ]
+        },
+        {
+          "text": "mal. Le quitaron toda la ropa, solo... [Palabras inciertas]... y lo deshonraron ante el mundo y todo lo que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            325.7973937988281,
+            562.4494018554688,
+            335.5392150878906
+          ]
+        },
+        {
+          "text": "pudieron, y lo clavaron en la cruz. Y allí parecía estar parado indefenso. De pie, la tierra no lo quería, los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            337.7872619628906,
+            562.4494018554688,
+            347.5290832519531
+          ]
+        },
+        {
+          "text": "cielos no podían tenerlo, era un pecador. ¡Oh hermano! si solo pudieras darte cuenta, solo piensa, la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            349.7772521972656,
+            562.4494018554688,
+            359.5190734863281
+          ]
+        },
+        {
+          "text": "tierra no conocía a su Creador. El cielo no podía recibirlo porque tenía el pecado de la tierra sobre él. Ni ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            361.7671203613281,
+            562.4494018554688,
+            371.5089416503906
+          ]
+        },
+        {
+          "text": "siquiera tenían un lugar... hablaban de un lugar para nacer, no tenían un lugar para morir. Es correcto. La ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            373.7571105957031,
+            562.4494018554688,
+            383.4989318847656
+          ]
+        },
+        {
+          "text": "tierra no lo quería. Rechazaron, dijeron: “Lejos de semejante compañero”. Los cielos no pudieron recibirlo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            385.7469787597656,
+            562.4494018554688,
+            395.4888000488281
+          ]
+        },
+        {
+          "text": "porque ... [Palabras inciertas]... Era un pecador.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            397.7368469238281,
+            276.5174255371094,
+            407.4786682128906
+          ]
+        },
+        {
+          "text": "¡Oh, qué salvador! Viniendo de la gloria y convirtiéndose en eso para mí. Tan rechazado por los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            417.9698791503906,
+            562.4494018554688,
+            427.7117004394531
+          ]
+        },
+        {
+          "text": "suyos, que “Vino a los suyos, los suyos no le recibieron”. No hay lugar para nacer, no hay lugar para ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            429.9598693847656,
+            562.4494018554688,
+            439.7016906738281
+          ]
+        },
+        {
+          "text": "morir. ¿Qué quería el mundo? ¿Qué podrían hacer sino arrojarlo al infierno? Pero había alguien que lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            441.9497375488281,
+            562.4494018554688,
+            451.6915588378906
+          ]
+        },
+        {
+          "text": "amaba. “No dejaré su alma en el infierno, ni permitiré que vea corrupción”. Pero lo levantó de la tumba y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            453.9396057128906,
+            562.4494018554688,
+            463.6814270019531
+          ]
+        },
+        {
+          "text": "salió triunfante la mañana de Pascua. ¡Aleluya! Rompió cada... [Palabras inciertas]... y cada temor y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            465.9295959472656,
+            562.4494018554688,
+            475.6714172363281
+          ]
+        },
+        {
+          "text": "todo, resucitó y sigue vivo hoy, para siempre.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            477.9194641113281,
+            263.77838134765625,
+            487.6612854003906
+          ]
+        },
+        {
+          "text": "Su presencia está aquí, está en este lugar esta mañana de adoración. Se encuentra donde dos o ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            497.4031066894531,
+            562.4494018554688,
+            507.1449279785156
+          ]
+        },
+        {
+          "text": "tres se juntan... [Palabras inciertas]... todo lo que tengo. Él sabe que las mismas promesas que hizo en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            509.3929748535156,
+            562.4494018554688,
+            519.1348266601562
+          ]
+        },
+        {
+          "text": "la Biblia, “Las cosas que hago, tú también lo harás. Estaré contigo hasta el fin del mundo”. Las personas ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            521.3829956054688,
+            562.4494018554688,
+            531.1248168945312
+          ]
+        },
+        {
+          "text": "pobres, rechazadas y despreciadas de este mundo aún pueden tener Su presencia con nosotros. “Soy ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            533.3728637695312,
+            562.4494018554688,
+            543.1146850585938
+          ]
+        },
+        {
+          "text": "un... [Palabras inciertas]... Soy un... [Palabras inciertas]...” siempre, todo presente, todo poderoso, en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            545.3628540039062,
+            562.4494018554688,
+            555.1046752929688
+          ]
+        },
+        {
+          "text": "todas partes en todo momento. Cómo hizo un camino de escape, en cada hora de problemas. Él dijo: ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            557.3527221679688,
+            562.4494018554688,
+            567.0945434570312
+          ]
+        },
+        {
+          "text": "“Nuestro pronto auxilio en las tribulaciones”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            569.3427124023438,
+            254.03648376464844,
+            579.0845336914062
+          ]
+        },
+        {
+          "text": "Ahora, esta mañana vive. Él está con nosotros hoy, podemos ser solo una pequeña iglesia hoy. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            589.5756225585938,
+            562.4494018554688,
+            599.3174438476562
+          ]
+        },
+        {
+          "text": "Podemos ser solo un pequeño y antiguo tabernáculo de madera aquí, sin mucho que desear; pero nunca ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            601.5656127929688,
+            562.4494018554688,
+            611.3074340820312
+          ]
+        },
+        {
+          "text": "hay un lugar demasiado humilde, sino a lo que El viene. Hoy está vivo entre los vivos. No está muerto, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            613.5554809570312,
+            562.4494018554688,
+            623.2973022460938
+          ]
+        },
+        {
+          "text": "pero está vivo. Y vive entre los vivos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            625.5453491210938,
+            225.56045532226562,
+            635.2871704101562
+          ]
+        },
+        {
+          "text": "Pecador amigo hoy, si estás muerto en pecado y transgresiones, ¿por qué no vivir? ¿Por qué te ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            645.7783813476562,
+            562.4494018554688,
+            655.5202026367188
+          ]
+        },
+        {
+          "text": "quedas en la muerte? ¿Por qué, qué has ganado al permanecer en la muerte? ¿Por qué no cobrar vida? ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            657.768310546875,
+            562.4494018554688,
+            667.5101318359375
+          ]
+        },
+        {
+          "text": "¿Por qué no vivir hoy con él? Vive, una gran y bendita esperanza, de que incluso la muerte misma te ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            669.7582397460938,
+            562.4494018554688,
+            679.5000610351562
+          ]
+        },
+        {
+          "text": "separe de tus seres queridos, nunca pueda manchar, estropear ni quitar nada. Que bendita esperanza. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            681.7481689453125,
+            562.4494018554688,
+            691.489990234375
+          ]
+        },
+        {
+          "text": "Qué cosa tan maravillosa tenemos hoy, debido a su resurrección. Y Él vive, y nosotros vivimos con Él, y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            693.7380981445312,
+            562.4494018554688,
+            703.4799194335938
+          ]
+        },
+        {
+          "text": "algún día Él vendrá, y nosotros iremos con Él. Porque, dijo: “Ve y diles a mis discípulos y a Pedro que voy ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            705.7279663085938,
+            562.4494018554688,
+            715.4697875976562
+          ]
+        },
+        {
+          "text": "delante de ellos a Galilea”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            717.7178955078125,
+            165.6107635498047,
+            727.459716796875
+          ]
+        },
+        {
+          "text": "Él siempre va delante de nosotros para abrir camino. Donde no hay camino, Él dijo: “Yo soy el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            737.2015380859375,
+            562.4494018554688,
+            746.943359375
+          ]
+        },
+        {
+          "text": "camino. Soy la resurrección, soy la vida”. Y hoy, mientras nos reunimos aquí hoy ... ¿Lo amas?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            749.1914672851562,
+            505.0750427246094,
+            758.9332885742188
+          ]
+        },
+        {
+          "text": "¡Él vive, vive, Cristo Jesús vive hoy!",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            769.4244384765625,
+            236.05165100097656,
+            779.166259765625
+          ]
+        },
+        {
+          "text": "Él camina conmigo y me habla a lo largo del camino angosto de la vida.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            789.6574096679688,
+            409.1558532714844,
+            799.3992309570312
+          ]
+        },
+        {
+          "text": "¡Él vive, vive, salvación para impartir!",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            809.1410522460938,
+            242.7959442138672,
+            818.8828735351562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "text": "¿Me preguntas cómo sé que vive?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28452682495117,
+            224.81101989746094,
+            53.026336669921875
+          ]
+        },
+        {
+          "text": "Él vive dentro de mi corazón.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            63.51749801635742,
+            200.8311767578125,
+            73.25930786132812
+          ]
+        },
+        {
+          "text": "No es...",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            83.00114440917969,
+            95.16999053955078,
+            92.74295043945312
+          ]
+        }
+      ]
+    }
+  ]
+}

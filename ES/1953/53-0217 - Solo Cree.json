@@ -1,0 +1,1519 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "text": "Solo Cree",
+          "font": "Verdana",
+          "size": 14.9874,
+          "flags": 4,
+          "bbox": [
+            260.78076171875,
+            21.918148040771484,
+            334.2190246582031,
+            36.905548095703125
+          ]
+        },
+        {
+          "text": "Tallahassee, Florida, EE. UU.",
+          "font": "Verdana",
+          "size": 11.24055,
+          "flags": 4,
+          "bbox": [
+            220.3147735595703,
+            39.1073112487793,
+            375.43438720703125,
+            50.347862243652344
+          ]
+        },
+        {
+          "text": "17 de Febrero de1953",
+          "font": "Verdana",
+          "size": 11.24055004119873,
+          "flags": 4,
+          "bbox": [
+            234.5528106689453,
+            52.5958366394043,
+            361.1962890625,
+            63.836387634277344
+          ]
+        },
+        {
+          "text": "1",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            74.00944519042969,
+            42.15580749511719,
+            83.75125122070312
+          ]
+        },
+        {
+          "text": "Gracias hermano Baxter.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            74.00944519042969,
+            175.35260009765625,
+            83.75125122070312
+          ]
+        },
+        {
+          "text": "Buenas tardes amigos. Estoy muy feliz de estar aquí esta noche para adorar con ustedes, nuestro ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            94.24235534667969,
+            562.4494018554688,
+            103.98416137695312
+          ]
+        },
+        {
+          "text": "Señor y Salvador Jesucristo. Cómo lo amamos, lo que Él es para nosotros. No es extraño que se dijera: ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            106.23234558105469,
+            562.4494018554688,
+            115.97415161132812
+          ]
+        },
+        {
+          "text": "“Cosas que ojo no vio, ni oído oyó, Ni han subido en corazón de hombre, Son las que Dios ha preparado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            118.22209167480469,
+            562.4494018554688,
+            127.96389770507812
+          ]
+        },
+        {
+          "text": "para los que le aman”. Él es ciertamente maravilloso.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            130.2120819091797,
+            296.7506103515625,
+            139.95388793945312
+          ]
+        },
+        {
+          "text": "[El hermano Branham habla a un lado, “Gracias”]. Es un poco extraño tener una flor de metal, ¿no es ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            149.6957244873047,
+            562.4494018554688,
+            159.43753051757812
+          ]
+        },
+        {
+          "text": "así? Bueno, se supone que esto es algo para ayudarme a enviar mi voz un poco más allá. Soy un poco ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            161.6857147216797,
+            562.4494018554688,
+            171.42752075195312
+          ]
+        },
+        {
+          "text": "pequeño, y de todos modos no tengo mucha voz. Entonces, supongo que tienen que, un poco, subir un ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            173.6754608154297,
+            562.4494018554688,
+            183.41726684570312
+          ]
+        },
+        {
+          "text": "poco para que salga.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            185.6654510498047,
+            140.1321563720703,
+            195.40725708007812
+          ]
+        },
+        {
+          "text": "Hace unos momentos, mi hijo me dijo que el hermano Jackson estaba con nosotros. Sí. Dios lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            205.8986053466797,
+            562.4494018554688,
+            215.64041137695312
+          ]
+        },
+        {
+          "text": "bendiga, hermano Jackson. Estoy muy contento de verlo aquí con nosotros esta noche. Que el Señor ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            217.8883514404297,
+            562.4494018554688,
+            227.63015747070312
+          ]
+        },
+        {
+          "text": "bendiga al hermano Jackson.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            229.8783416748047,
+            178.34999084472656,
+            239.62014770507812
+          ]
+        },
+        {
+          "text": "2",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            249.3619842529297,
+            42.15580749511719,
+            259.1037902832031
+          ]
+        },
+        {
+          "text": "Subiendo por el camino cuando Billy bajó y me recogió. Él dijo: “Papi”, dijo: “El hermano Jackson está ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            250.1112518310547,
+            562.4494018554688,
+            259.8530578613281
+          ]
+        },
+        {
+          "text": "allá arriba esta noche”. Lo estaba buscando el otro día. Y estaba pensando en ... El hermano Jackson y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            262.1012268066406,
+            562.4494018554688,
+            271.8430480957031
+          ]
+        },
+        {
+          "text": "yo, cuando nos conocimos, fue, creo, en un avivamiento en su iglesia (creo que fue) cuando nos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            274.0912170410156,
+            562.4494018554688,
+            283.8330383300781
+          ]
+        },
+        {
+          "text": "conocimos en (¿Es Kennett, Missouri?) Saxton. Saxton, Missouri.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            286.0809631347656,
+            356.7002258300781,
+            295.8227844238281
+          ]
+        },
+        {
+          "text": "Bueno, hermano Jackson, desde entonces hay mucha agua sobre la presa, ¿no es así? Pero el Señor ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            305.5646057128906,
+            562.4494018554688,
+            315.3064270019531
+          ]
+        },
+        {
+          "text": "ha estado usando al hermano Jackson de la manera más inusual. Uno de los grandes regalos que recibe ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            317.5545959472656,
+            562.4494018554688,
+            327.2964172363281
+          ]
+        },
+        {
+          "text": "la iglesia: ora por los enfermos con un éxito maravilloso. Y no solo eso, sino que tiene uno de los ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            329.5445861816406,
+            562.4494018554688,
+            339.2864074707031
+          ]
+        },
+        {
+          "text": "fenómenos más sobresalientes del día, del bautismo del Espíritu, de la imposición de las manos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            341.5343322753906,
+            507.32330322265625,
+            351.2761535644531
+          ]
+        },
+        {
+          "text": "3",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            361.7674865722656,
+            42.15580749511719,
+            371.5093078613281
+          ]
+        },
+        {
+          "text": "Ahora, cuando comencé por primera vez entre la gente pentecostal, los oía hablar acerca de buscar, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            361.7674865722656,
+            562.4494018554688,
+            371.5093078613281
+          ]
+        },
+        {
+          "text": "orar por el Espíritu Santo. No pude entender eso. ¿Por qué orar cuando el Espíritu Santo ha estado aquí ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            373.7572326660156,
+            562.4494018554688,
+            383.4990539550781
+          ]
+        },
+        {
+          "text": "por unos dos mil años? Vi que la palabra “tarrying” en ingles no significa orar. “Tarry” en ingles significa ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            385.7472229003906,
+            562.4494018554688,
+            395.4890441894531
+          ]
+        },
+        {
+          "text": "“esperar”. Bueno, vi que tenían que esperar hasta que el día de Pentecostés hubiera llegado por ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            397.7372131347656,
+            562.4494018554688,
+            407.4790344238281
+          ]
+        },
+        {
+          "text": "completo. Pero después de eso, no hubo que esperar. “Mientras Pedro hablaba estas palabras, el Espíritu ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            409.7272033691406,
+            562.4494018554688,
+            419.4690246582031
+          ]
+        },
+        {
+          "text": "Santo cayó sobre ellas”. Pablo les impuso las manos y recibieron el Espíritu Santo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            421.7169494628906,
+            442.8778381347656,
+            431.4587707519531
+          ]
+        },
+        {
+          "text": "Bueno, me pareció que había algo diferente cuando Philip bajó y predicó a los samaritanos. Todos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            441.9501037597656,
+            562.4494018554688,
+            451.6919250488281
+          ]
+        },
+        {
+          "text": "recibieron la Palabra y fueron bautizados, pero el Espíritu Santo no había venido sobre ninguno de ellos. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            453.9398498535156,
+            562.4494018554688,
+            463.6816711425781
+          ]
+        },
+        {
+          "text": "Paul... quiero decir, Peter bajó, él y John, y oraron y les impuso las manos; el Espíritu Santo vino sobre ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            465.9298400878906,
+            562.4494018554688,
+            475.6716613769531
+          ]
+        },
+        {
+          "text": "ellos.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            477.9198303222656,
+            61.448333740234375,
+            487.6616516113281
+          ]
+        },
+        {
+          "text": "Bueno, yo pensé, así es como creo que sería apostólico. Así lo dice la Escritura.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            497.4033508300781,
+            453.3691711425781,
+            507.1451721191406
+          ]
+        },
+        {
+          "text": "Y ahora, eso es lo que Dios ha hecho por nuestro hermano Jackson. Nunca lo he visto... He oído ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            517.6364135742188,
+            562.4494018554688,
+            527.3782348632812
+          ]
+        },
+        {
+          "text": "hablar mucho de eso. Mi hijo me dijo que estaba en Dalas cuando el hermano Jackson estaba allí, y lo vio ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            529.6262817382812,
+            562.4494018554688,
+            539.3681030273438
+          ]
+        },
+        {
+          "text": "alinear a la gente en algún lugar a lo largo del altar, en algún lugar, y prosiguió imponiéndoles las manos y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            541.6162719726562,
+            562.4494018554688,
+            551.3580932617188
+          ]
+        },
+        {
+          "text": "recibiendo el Espíritu Santo mientras él imponía sus manos ellos. Eso es lo que dice la Escritura. Solo lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            553.6061401367188,
+            562.4494018554688,
+            563.3479614257812
+          ]
+        },
+        {
+          "text": "creo. Así es como la Escritura dice que se debe hacer.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            565.5961303710938,
+            305.74298095703125,
+            575.3379516601562
+          ]
+        },
+        {
+          "text": "Estoy tan feliz por eso, que Dios le ha dado eso a nuestra iglesia justo antes de la venida del Señor. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            585.8290405273438,
+            562.4494018554688,
+            595.5708618164062
+          ]
+        },
+        {
+          "text": "¿No es maravilloso? Oh mí. Deberíamos ser las personas más felices de la tierra.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            597.8190307617188,
+            430.88787841796875,
+            607.5608520507812
+          ]
+        },
+        {
+          "text": "4",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            617.3026733398438,
+            42.15580749511719,
+            627.0444946289062
+          ]
+        },
+        {
+          "text": "Usa nuestra armadura. Tenemos una armadura. Dios trabaja con nosotros y nos da la armadura. Y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            617.3026733398438,
+            562.4494018554688,
+            627.0444946289062
+          ]
+        },
+        {
+          "text": "toda la armadura está en lo sobrenatural, ven. Amor, alegría, paz, paciencia, bondad, mansedumbre, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            629.2925415039062,
+            562.4494018554688,
+            639.0343627929688
+          ]
+        },
+        {
+          "text": "gentileza, paciencia. Todo está en lo sobrenatural. Y cuando dejas que tu fe se suelte al Espíritu de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            641.2824096679688,
+            562.4494018554688,
+            651.0242309570312
+          ]
+        },
+        {
+          "text": "Dios, tu cuerpo se somete a las bendiciones redentoras de Dios para ti.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            653.2723999023438,
+            391.1711730957031,
+            663.0142211914062
+          ]
+        },
+        {
+          "text": "Y cualquier cosa por la que Jesús murió, está sentado a la diestra del Padre esta noche, haciendo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            673.5053100585938,
+            562.4494018554688,
+            683.2471313476562
+          ]
+        },
+        {
+          "text": "intercesiones sobre tu confesión. Lo que sea que confieses que ha hecho y lo creas, es tu propiedad ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            685.4953002929688,
+            562.4494018554688,
+            695.2371215820312
+          ]
+        },
+        {
+          "text": "personal. Cada creyente, cada persona que nace de nuevo tiene derecho a cualquiera de las ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            697.4851684570312,
+            562.4494018554688,
+            707.2269897460938
+          ]
+        },
+        {
+          "text": "bendiciones redentoras.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            709.4751586914062,
+            154.3702850341797,
+            719.2169799804688
+          ]
+        },
+        {
+          "text": "Cuando te salvo, Jesús solo toma y te entrega una chequera que te durará todo el viaje de la vida. ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            729.7080688476562,
+            562.4494018554688,
+            739.4498901367188
+          ]
+        },
+        {
+          "text": "Y su nombre está firmado en la parte abajo de cada uno de ellos. “Cualquier cosa que necesites, le pides ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            741.6980590820312,
+            562.4494018554688,
+            751.4398803710938
+          ]
+        },
+        {
+          "text": "al Padre en mi nombre; se hará”. Simplemente firme el cheque y envíelo allí. ¿Tienes miedo de firmar uno ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            753.6879272460938,
+            562.4494018554688,
+            763.4297485351562
+          ]
+        },
+        {
+          "text": "esta noche? No. Llénalo, enviarlo para arriba. Sera reconocido. Sí señor. El ciertamente lo reconocerá y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            765.6779174804688,
+            562.4494018554688,
+            775.4197387695312
+          ]
+        },
+        {
+          "text": "lo traerá a su cumplimiento.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            777.6677856445312,
+            173.8539276123047,
+            787.4096069335938
+          ]
+        },
+        {
+          "text": "5",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            797.1514282226562,
+            42.15580749511719,
+            806.8932495117188
+          ]
+        },
+        {
+          "text": "Ahora, es un poco tarde, así que mis servicios ... No los voy a detener mucho tiempo, como notan, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            797.1514282226562,
+            562.4494018554688,
+            806.8932495117188
+          ]
+        },
+        {
+          "text": "porque está bajo visión. Y la visión me hace tan débil; le hace  a  cualquiera.  Y  acabo  de  leer  un  poco",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            809.1412963867188,
+            559.030029296875,
+            818.8831176757812
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "text": "aquí, ahora, y luego iremos directamente al servicio.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            43.28483200073242,
+            296.0013732910156,
+            53.026641845703125
+          ]
+        },
+        {
+          "text": "En el segundo capítulo de San Lucas, solo para una lectura de las Escrituras, comenzando con el ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            63.51774215698242,
+            562.4494018554688,
+            73.25955200195312
+          ]
+        },
+        {
+          "text": "versículo veinticinco, leemos esto:",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            75.50773620605469,
+            207.57559204101562,
+            85.24954223632812
+          ]
+        },
+        {
+          "text": "Y he aquí había en Jerusalén un hombre llamado Simeón, y este hombre, justo y piadoso, esperaba la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            94.99137878417969,
+            562.4494018554688,
+            104.73318481445312
+          ]
+        },
+        {
+          "text": "consolación de Israel; y el Espíritu Santo estaba sobre él.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            106.98124694824219,
+            322.9786071777344,
+            116.72305297851562
+          ]
+        },
+        {
+          "text": "Y le había sido revelado por el Espíritu Santo, que no vería la muerte antes que viese al Ungido del ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            127.21427917480469,
+            562.4494018554688,
+            136.95608520507812
+          ]
+        },
+        {
+          "text": "Señor.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            139.2041473388672,
+            66.69393157958984,
+            148.94595336914062
+          ]
+        },
+        {
+          "text": "Y movido por el Espíritu, vino al templo. Y cuando los padres del niño Jesús lo trajeron al templo, ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            159.4371795654297,
+            562.4494018554688,
+            169.17898559570312
+          ]
+        },
+        {
+          "text": "para hacer por él conforme al rito de la ley,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            171.4270477294922,
+            251.03892517089844,
+            181.16885375976562
+          ]
+        },
+        {
+          "text": "él le tomó en sus brazos, y bendijo a Dios, diciendo:",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            190.9106903076172,
+            315.4849548339844,
+            200.65249633789062
+          ]
+        },
+        {
+          "text": "Ahora, Señor, despides a tu siervo en paz, Conforme a tu palabra;",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            211.1437225341797,
+            385.1760559082031,
+            220.88552856445312
+          ]
+        },
+        {
+          "text": "Porque han visto mis ojos tu salvación,",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            231.3766326904297,
+            250.2895965576172,
+            241.11843872070312
+          ]
+        },
+        {
+          "text": "6",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            250.8602752685547,
+            42.15580749511719,
+            260.6020812988281
+          ]
+        },
+        {
+          "text": "¿Podemos inclinar la cabeza un momento?",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            250.8602752685547,
+            263.7781677246094,
+            260.6020812988281
+          ]
+        },
+        {
+          "text": "Señor Jesús, que podamos, esta noche, como Tu pueblo creyente que se reúne aquí, buscando la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            271.0932922363281,
+            562.4494018554688,
+            280.8351135253906
+          ]
+        },
+        {
+          "text": "segunda venida de nuestro Señor para recibirnos en Su glorioso reino, donde no habrá fin para esa gran ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            283.0831604003906,
+            562.4494018554688,
+            292.8249816894531
+          ]
+        },
+        {
+          "text": "era. Y ahora, que nosotros, esta noche, como Simeón de la antigüedad, levantemos al Salvador en ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            295.0731506347656,
+            562.4494018554688,
+            304.8149719238281
+          ]
+        },
+        {
+          "text": "nuestros brazos de fe. Nos has prometido todas estas bendiciones. Y creemos que los recibimos a través ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            307.0630187988281,
+            562.4494018554688,
+            316.8048400878906
+          ]
+        },
+        {
+          "text": "de la fe.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            319.0528869628906,
+            77.1850814819336,
+            328.7947082519531
+          ]
+        },
+        {
+          "text": "Perdónanos de nuestras fallas, nuestros pecados... transgresiones contra Ti, dándonos cuenta de ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            339.2859191894531,
+            562.4494018554688,
+            349.0277404785156
+          ]
+        },
+        {
+          "text": "que la incredulidad es pecado. Entonces perdónanos, Señor, de nuestra incredulidad. Ayúdenos esta ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            351.2757873535156,
+            562.4494018554688,
+            361.0176086425781
+          ]
+        },
+        {
+          "text": "noche mientras nos hemos reunido aquí: diferentes iglesias, diferentes personas, diferentes ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            363.2657775878906,
+            562.4494018554688,
+            373.0075988769531
+          ]
+        },
+        {
+          "text": "nacionalidades, pero el mismo Dios trabajando en todos nosotros. Ayúdanos ahora a recibir Tus ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            375.2556457519531,
+            562.4494018554688,
+            384.9974670410156
+          ]
+        },
+        {
+          "text": "bendiciones. Y que el Espíritu Santo venga a tomar las cosas de Dios y se las pase a la gente, porque lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            387.2456359863281,
+            562.4494018554688,
+            396.9874572753906
+          ]
+        },
+        {
+          "text": "pedimos en el nombre de Jesús. Amén.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            399.2355041503906,
+            227.80856323242188,
+            408.9773254394531
+          ]
+        },
+        {
+          "text": "7",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            418.7191467285156,
+            42.15580749511719,
+            428.4609680175781
+          ]
+        },
+        {
+          "text": "Sólo un momento. Lo primero, si algún ministro llega a la plataforma para predicar, primero debe ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            418.7191467285156,
+            562.4494018554688,
+            428.4609680175781
+          ]
+        },
+        {
+          "text": "sentir a su congregación. Tienes que conseguir tu orientación espiritual. Entonces te ayuda mucho; ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            430.7090148925781,
+            562.4494018554688,
+            440.4508361816406
+          ]
+        },
+        {
+          "text": "puedes sentir dónde está la fe. Creo que el hermano Jackson está muy familiarizado con eso. Donde ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            442.6990051269531,
+            562.4494018554688,
+            452.4408264160156
+          ]
+        },
+        {
+          "text": "tienes fe.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            454.6888732910156,
+            83.18010711669922,
+            464.4306945800781
+          ]
+        },
+        {
+          "text": "Ahora, en la lectura de las Escrituras, encontramos a un hombre mayor llamado Simeón. Tal vez lo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            474.9219055175781,
+            562.4494018554688,
+            484.6637268066406
+          ]
+        },
+        {
+          "text": "llamemos un curtido sabio, con su larga barba blanca y cabello, en algún lugar de unos ochenta años. Y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            486.9117736816406,
+            562.4494018554688,
+            496.6535949707031
+          ]
+        },
+        {
+          "text": "él era una persona muy piadosa y religiosa. Y el Espíritu Santo le reveló que no iba a morir hasta que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            498.9017639160156,
+            562.4494018554688,
+            508.6435852050781
+          ]
+        },
+        {
+          "text": "viera al Cristo del Señor. Y no tenía miedo de decirle a la gente que no iba a morir hasta que viera al ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            510.8916320800781,
+            562.4494018554688,
+            520.6334838867188
+          ]
+        },
+        {
+          "text": "Señor.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            522.8816528320312,
+            66.69393157958984,
+            532.6234741210938
+          ]
+        },
+        {
+          "text": "8",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            542.3651733398438,
+            42.15580749511719,
+            552.1069946289062
+          ]
+        },
+        {
+          "text": "Ahora, ¿te imaginas lo fanáticamente que le parecía a la gente? Por qué, puedo escuchar que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            543.1145629882812,
+            562.4494018554688,
+            552.8563842773438
+          ]
+        },
+        {
+          "text": "algunos de ellos dirían: “El anticuado tipo, ya sabes, está un poco viejo y su mente se le va y esa es la ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            555.1045532226562,
+            562.4494018554688,
+            564.8463745117188
+          ]
+        },
+        {
+          "text": "condición en la que está. Por qué, mira, incluso David lo buscó a Él, y todo acabo, por qué, han pasado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            567.0944213867188,
+            562.4494018554688,
+            576.8362426757812
+          ]
+        },
+        {
+          "text": "cuatro mil años. Y, aquí, este anciano casi listo para ir a la tumba ahora dice que no va a morir hasta ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            579.0842895507812,
+            562.4494018554688,
+            588.8261108398438
+          ]
+        },
+        {
+          "text": "que vea al Cristo. Y aquí estamos todos aquí, bajo el imperio romano, bajo el gobierno de los romanos, y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            591.0742797851562,
+            562.4494018554688,
+            600.8161010742188
+          ]
+        },
+        {
+          "text": "por qué, no pudimos... Bueno, el Cristo no va a venir ahora”.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            603.0641479492188,
+            336.4672546386719,
+            612.8059692382812
+          ]
+        },
+        {
+          "text": "9",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            622.5477905273438,
+            42.15580749511719,
+            632.2896118164062
+          ]
+        },
+        {
+          "text": "Pero Simeón tenía motivos para creer, porque el Espíritu Santo le reveló que no iba a morir hasta que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            622.5477905273438,
+            562.4494018554688,
+            632.2896118164062
+          ]
+        },
+        {
+          "text": "viera a Cristo. Ahora, esa es una buena manera de creer: cuando el Espíritu Santo te lo revela. Créelo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            634.5377807617188,
+            548.539306640625,
+            644.2796020507812
+          ]
+        },
+        {
+          "text": "Hay mucho en este libro, mucho de lo que no sé nada, pero creo que cada palabra de él. No puedo ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            654.7706909179688,
+            562.4494018554688,
+            664.5125122070312
+          ]
+        },
+        {
+          "text": "explicarlo, pero lo creo.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            666.7606201171875,
+            152.12208557128906,
+            676.50244140625
+          ]
+        },
+        {
+          "text": "Y estoy ejecutando una serie, yo mismo, ahora, en casa, en Génesis, atreves de Génesis. ¡Porque ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            686.9935913085938,
+            562.4494018554688,
+            696.7354125976562
+          ]
+        },
+        {
+          "text": "hermano! Si ves la inspiración en Génesis. Puedes tomar el primer capítulo de Génesis y tejerlo a través ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            698.9835205078125,
+            562.4494018554688,
+            708.725341796875
+          ]
+        },
+        {
+          "text": "del último capítulo de Apocalipsis, a través de la Biblia. Y toda palabra fue inspirada. Cómo se une toda ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            710.9734497070312,
+            562.4494018554688,
+            720.7152709960938
+          ]
+        },
+        {
+          "text": "la Palabra de Dios. Y cada palabra de ella está inspirada; Todo es cierto. El Espíritu Santo ha vigilado ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            722.96337890625,
+            562.4494018554688,
+            732.7052001953125
+          ]
+        },
+        {
+          "text": "que, a través de los tiempos, que toda la Palabra de Dios sea inspirada.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            734.9533081054688,
+            392.6695556640625,
+            744.6951293945312
+          ]
+        },
+        {
+          "text": "10",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            754.4368896484375,
+            47.95968246459961,
+            764.1787109375
+          ]
+        },
+        {
+          "text": "Y a veces, las ruedas viejas muelen lentamente, pero muele seguro. Tiene que ser exactamente ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            754.4368896484375,
+            562.4494018554688,
+            764.1787109375
+          ]
+        },
+        {
+          "text": "como Dios dijo que iba a ser. No importa cuán irreal parezca, pero será así.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            766.4268188476562,
+            407.6575012207031,
+            776.1686401367188
+          ]
+        },
+        {
+          "text": "Como hablamos anoche: una vez no tenían electricidad, pero un hombre creía que existía tal cosa; y ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            786.6598510742188,
+            562.4494018554688,
+            796.4016723632812
+          ]
+        },
+        {
+          "text": "siguió trabajando horas incansables hasta que descubrió lo que era. Y lo mismo por televisión, por ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            798.6497192382812,
+            562.4494018554688,
+            808.3915405273438
+          ]
+        },
+        {
+          "text": "automóvil, etc... Dios puso todas estas cosas aquí para nuestro beneficio.",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            810.6396484375,
+            406.158447265625,
+            820.3814697265625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "text": "Ahora, si nosotros que estamos familiarizados con lo sobrenatural simplemente tomáramos a un ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            56.2027473449707,
+            43.28440475463867,
+            562.4494018554688,
+            53.026214599609375
+          ]
+        },
+        {
+          "text": "hombre, donde... El hombre en sus sentidos está limitado a sus sentidos. Pero un hombre en su espíritu ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            55.27433395385742,
+            562.4494018554688,
+            65.01614379882812
+          ]
+        },
+        {
+          "text": "es ilimitado. El árbol del conocimiento solo puede trepar tan lejos, y se rompe. Pero el árbol de la vida ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            67.26420593261719,
+            562.4494018554688,
+            77.00601196289062
+          ]
+        },
+        {
+          "text": "continúa para siempre. Y cómo esa ciencia ha llevado al hombre más lejos con sus cinco sentidos que ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            79.25413513183594,
+            562.4494018554688,
+            88.99594116210938
+          ]
+        },
+        {
+          "text": "nosotros con su alma. Bueno, tenemos recursos sin utilizar, porque todo es posible. Habla sobre átomos ",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            91.24406433105469,
+            562.4494018554688,
+            100.98587036132812
+          ]
+        },
+        {
+          "text": "divididos y las ondas a través de...",
+          "font": "Verdana",
+          "size": 9.741809844970703,
+          "flags": 4,
+          "bbox": [
+            35.969757080078125,
+            103.23399353027344,
+            209.82350158691406,
+            112.97579956054688
+          ]
+        }
+      ]
+    }
+  ]
+}
